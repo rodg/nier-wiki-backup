@@ -2,8 +2,8 @@
 title: Crane Skip
 description: 
 published: true
-date: 2023-06-29T01:12:41.549Z
-tags: prologue, factory, 2b, a2
+date: 2023-07-04T23:21:09.573Z
+tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T18:05:43.920Z
 ---
@@ -16,8 +16,8 @@ Crane skip is a shortcut between silo 1 and silo 2 using the catwalk behind the 
 # Variations
 | Variation   | Timesave    |
 | ----------- | ----------- |
-| Crane     	| 35s					|
-| Heavy Hold  | 37s					|
+| Crane Skip    	| 35s					|
+| Crane Skip Skip  | 37s					|
 | Copium Clip | 39s					|
 
 
@@ -25,20 +25,8 @@ Crane skip is a shortcut between silo 1 and silo 2 using the catwalk behind the 
 
 
 # ????????? {.tabset}
-## Crane
-*Usually this variation is meant when just referring to "Crane Skip"*
-**Edit** (
-This version is the easiest because it makes use of the fact that a bare fist lift gains a lot more height than the one with the small sword that we usually use.
-The downside being that you lose time switching weapons in the menu.
-)
-
-Required Weapon Set configuration:
-
-| Weapon Set (any) ||
-| ----------- | ----------- | 
-| Light Attack 	| [ *Any* ] | 
-| Heavy Attack | [ *Small Sword* ] | 
-
+## Crane Skip
+Regular Crane Skip. The idea is to use the crate to get on top of the ??platform?? to then get on top of the crane.
 In Prologue this will correspond to **Weapon Set 2**.
 **Edit** (
 Switch to **Weapon Set 1** and do the following combo to jump onto the raised bridge:
@@ -52,8 +40,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 - The second Light Attack needs to be done during the ascending phase of your jump.
 )
 
-## Heavy Hold
-*Might also be referred to as "Crane Skip Skip" or "CSS" for short* 
+## Crane Skip Skip
 
 ## Copium Clip
 *Might also be referred to as "Crane Skip Skip Skip"* 
