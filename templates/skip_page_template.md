@@ -2,13 +2,13 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2023-07-14T21:39:02.170Z
+date: 2023-07-14T21:53:57.504Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
 ---
 
-Area: Factory <img align="right" width="237" height="200" src="/assets/skips/bridge_skip/thumbnail_smol.jpg">
+Area: Factory <img align="right" width="237" height="200" src="/assets/templates/skip_page_thumbnail.jpg">
 Character: 2B, A2
 <br>
 <br>
