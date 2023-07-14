@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2023-07-14T22:31:22.133Z
+date: 2023-07-14T22:33:14.238Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -73,12 +73,12 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 ### {.tabset}
 #### Video Demo
 <iframe width="800" height="450"
-src="demo_YT_link">
+src="https://www.youtube.com/embed/AnplpZwYnOE">
 </iframe> 
 
 #### Video Tutorial
 <iframe width="800" height="450"
-src="Tutorial_YT_link">
+src="https://www.youtube.com/embed/AnplpZwYnOE">
 </iframe> 
 
 
