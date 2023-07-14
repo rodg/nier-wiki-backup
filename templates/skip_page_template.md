@@ -2,38 +2,37 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2023-07-14T21:54:53.951Z
+date: 2023-07-14T22:29:45.600Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
 ---
 
-Area: Factory <img align="right" width="237" height="200" src="/assets/templates/skip_page_thumbnail.jpg">
-Character: 2B, A2
+Area: Factory, City Ruins (pre Engels / post Engles / Tower) <img align="right" width="237" height="200" src="/templates/skip_page_thumbnail.jpg">
+Character: 2B, A2, 9S
 <br>
 <br>
 <br>
 
 # Overview
-Bridge Skip is a shortcut in Prologue performed by jumping over the raised bridge between the end of Silo 2 and the Terminal Room.
-The main difficulty is getting the height needed to land on top of the bridge.
+This is a consize overview of what this skip is, why it is done and what defining characteriscia are.
 
 # Variations
 The different ways to do this trick ordered in increasing difficulty.
-(Timesaves are estimates, more precise timings will follow.)
+(if difficulty ambiguous in meta relevant order)
 | Variation   | Timesave    |
 | ----------- | ----------- |
-| Bare Fist 	| 20s					|
-| Double Lift | 25s					|
-| Regular  		| 30s					|
-| Barrel 			| 33s    			|
+| Variation 1	| XXs					|
+| Variation 2	| XXmin XXs	  |
+| (...)       | (...)       |
 
 # Variation Tabs {.tabset}
-## Bare Fist
+## Variation 1
 This version is the easiest because it makes use of the fact that a bare fist lift gains a lot more height than the one with the small sword that we usually use.
 The downside being that you lose time switching weapons in the menu.
 
-Required Weapon Set configuration:
+Required Weapon Set configuration: <img align="right" width="444" height="250" src="/templates/variation_thumbnail.jpg"> 
+
 
 | Weapon Set 1 |  |  | Weapon Set 2 |  |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -50,36 +49,12 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 - Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
 - The second Light Attack needs to be done during the ascending phase of your jump.
 
-## Double Lift
 
-This version utilizes a stack of girders to double lift from for a ton of extra height, reducing the timing precision required to reach the top of the bridge. 
-
-
-
-Required Weapon Set configuration: <img align="right" width="444" height="250" src="/assets/skips/bridge_skip/girderstack.jpg"> 
-
-| Weapon Set (any) | |
-| ----------- | ----------- |
-| Light Attack | [ *Any* ] |
-| Heavy Attack | [ *Small Sword* ] |
-
-In Prologue this will correspond to **Weapon Set 2**.
-Using this Weapon Set walk up to the left side of
-the stack of girders when facing away from the direction
-you would go over the bridge in.
-Walking against the part of the stack not covered by a tarp do the following combo to jump onto the raised bridge:
-
-**Lift &rarr; Heavy &rarr; Lift &rarr; Jump(Hold) &rarr; Podspin &rarr; Heavy &rarr; Plunge**
-
-- The first lift into the girders needs to be instant in order to refresh the jump so you are able to lift again.
-- It is recommended to delay the second lift.
-- After the initial lift jump towards the bridge. Usually you will reach it with the podspin.
-- Due to the height you might need to be careful not to plunge over the bridge into the abyss.
-
-## Regular
+## Variation 2
 The original way of doing this high jump.
 
-Required Weapon Set configuration:
+Required Weapon Set configuration: <img align="right" width="444" height="250" src="/templates/variation_thumbnail.jpg"> 
+
 
 | Weapon Set (any) | |
 | ----------- | ----------- |
@@ -96,40 +71,18 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 - Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
 - The second Light Attack needs to be done during the ascending phase of your jump.
 ### {.tabset}
-#### (*Text Only*)
-
-#### Video Tutorial
-**The legendary Bridge Skip Tutorial as a placeholder for now:**
+#### Video Demo
 <iframe width="800" height="450"
-src="https://www.youtube.com/embed/AnplpZwYnOE">
+src="demo_YT_link">
 </iframe> 
 
-## Barrel
-*Might also be referred to as "Lightless Bridge Skip" / "Lightless" or "Podspin Bridge Skip"* 
-The fastest version of the trick, utilizing extra height from the barrels next to the exit of Silo 2.
+#### Video Tutorial
+<iframe width="800" height="450"
+src="Tutorial_YT_link">
+</iframe> 
 
-Required Weapon Set configuration: <img align="right" width="444" height="250" src="/assets/skips/bridge_skip/barrels.jpg">
 
-| Weapon Set (any) | |
-| ----------- | ----------- |
-| Light Attack | [ *Any* ] |
-| Heavy Attack | [ *Small Sword* ] |
-
-In prologue this will correspond to **Weapon Set 2**.
-
-The setup for this jump begins in Silo 2:
-1. Buffer a jump
-2. Walk over the barrels and do a podspin as soon as 2B starts falling. The podspin should end roughly where the walkway to the bridge begins.
-
-Now do the following combo to reach the top of the raised bridge:
-
-**Heavy &rarr; Lift &rarr; Heavy &rarr; Jump &rarr; Heavy &rarr; Plunge**
-- The lift should be a delayed lift.
-- After the podspin you still have to move towards the bridge during the jump combo so 2B is up against it when you initiate the plunge.
-- The plunge shouldn't be instant. You need the distance from the dash to reach the bridge.
-- If you want to do this variation, but are not making it with the combo above you can add a light attack with a Large Sword. This will still be faster than the regular variation as long as you only need one additional light. A second light will make it slower. 
-
-# Crossing the gap
+# Skip Second Part
 Start holding Dash during the plunge. This will skip the slam into the ground and start your dash instantly.
 
 After this dash, there are a couple of different ways to get to the other side.
