@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-15T23:52:51.810Z
+date: 2023-07-15T23:53:14.045Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -143,7 +143,7 @@ After this dash, there are a couple of different ways to get to the other side.
 - Make sure to do your first Jump after your Dash ends. If not, you will get a "standing jump" which will have much less forward momentum.
 
 Swapping WS during a Dash will cut it off, so after getting to the other side, swap WS in *between* dashes.
-
+<br>
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/KB1CLXZPtCc">
 </iframe> 
@@ -153,7 +153,7 @@ src="https://www.youtube.com/embed/KB1CLXZPtCc">
 **Dash &rarr; Jump &rarr; Podspin &rarr; Jump &rarr; Podspin &rarr; Dash**
 
 - There are many other ways to do this. The one provided is just a safe option to get you started.
-
+<br>
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/sReGQj67HJU">
 </iframe> 
