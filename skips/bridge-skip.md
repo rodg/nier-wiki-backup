@@ -2,22 +2,19 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-15T22:35:46.623Z
+date: 2023-07-15T22:38:23.853Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
 ---
 
-Area: Factory <img align="right" width="237" height="200" src="/assets/skips/bridge_skip/thumbnail_smol.jpg">
+Area: Factory 
 Character: 2B, A2
-<br>
-<br>
-<br>
 
-# Overview
-Bridge Skip is a shortcut in Prologue performed by jumping over the raised bridge between the end of Silo 2 and the Terminal Room.
+# Overview 
+Bridge Skip is a shortcut in Prologue performed by jumping over the raised bridge between <img align="right" width="237" height="200" src="/assets/skips/bridge_skip/thumbnail_smol.jpg"> the end of Silo 2 and the Terminal Room.
 The main difficulty is getting the height needed to land on top of the bridge.
-
+<br><br><br>
 # Variations
 The different ways to do this trick ordered in increasing difficulty.
 (Timesaves are estimates, more precise timings will follow.)
@@ -98,11 +95,12 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 ### {.tabset}
 #### Demo Video
 <iframe width="800" height="450"
-src="https://www.youtube.com/embed/y2O_gD5AlvU">
+src="https://www.youtube.com/watch?v=y2O_gD5AlvU">
 </iframe> 
 
 
 #### Video Tutorial
+**The legendary Bridge Skip Tutorial as a placeholder for now:**
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/AnplpZwYnOE">
 </iframe> 
