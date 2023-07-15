@@ -2,7 +2,7 @@
 title: Lava Out Of Bounds
 description: 
 published: true
-date: 2023-07-15T02:38:21.981Z
+date: 2023-07-15T11:30:20.611Z
 tags: skip, prologue, factory, a2, 2b, clipout
 editor: markdown
 dateCreated: 2023-07-14T15:24:29.951Z
@@ -30,7 +30,6 @@ To perform this clipout, get into the corner under the walkway just outside the 
 **Lift &rarr; Heavy &rarr; Jump &rarr; Heavy &rarr; Plunge**
 
 # Scaffolding clip
-// TODO
 
 ## Variation Tabs {.tabset}
 ### Prologue
