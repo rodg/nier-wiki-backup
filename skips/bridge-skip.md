@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-15T23:37:13.072Z
+date: 2023-07-15T23:38:41.504Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -19,7 +19,7 @@ The main difficulty is getting the height needed to land on top of the bridge.
 ## Bare Fist (XXs)
 This version uses a Bare Fist Lift which gives more height than a Small Sword Lift. The downside is that you lose time switching weapons in the menu.
 
-Required Weapon Set configuration: <iframe align="right" width="25%" height="auto" src="https://www.youtube.com/embed/Ob2Zp-lc6Uo"> </iframe>
+Required Weapon Set configuration: 
 
 | Weapon Set 1 |  |  | Weapon Set 2 |  |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -35,6 +35,11 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 - The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
 - Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
 - The second Light Attack needs to be done during the ascending phase of your jump.
+
+## p {.tabset}
+### Demo Video
+<iframe src="https://www.youtube.com/embed/Ob2Zp-lc6Uo"> </iframe>
+### Tutorial Video
 
 ## Double Lift (XXs)
 
