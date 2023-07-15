@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-15T23:23:49.708Z
+date: 2023-07-15T23:26:01.359Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -19,7 +19,7 @@ The main difficulty is getting the height needed to land on top of the bridge.
 ## Bare Fist (XXs)
 This version uses a Bare Fist Lift which gives more height than a Small Sword Lift. The downside is that you lose time switching weapons in the menu.
 
-Required Weapon Set configuration: <iframe width="800" height="450" src="https://www.youtube.com/embed/dQw4w9WgXcQ"> </iframe>
+Required Weapon Set configuration: <iframe width="800" height="450" src="https://www.youtube.com/embed/Ob2Zp-lc6Uo"> </iframe>
 
 | Weapon Set 1 |  |  | Weapon Set 2 |  |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
