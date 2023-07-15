@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-15T22:38:23.853Z
+date: 2023-07-15T22:38:39.660Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -100,7 +100,6 @@ src="https://www.youtube.com/watch?v=y2O_gD5AlvU">
 
 
 #### Video Tutorial
-**The legendary Bridge Skip Tutorial as a placeholder for now:**
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/AnplpZwYnOE">
 </iframe> 
