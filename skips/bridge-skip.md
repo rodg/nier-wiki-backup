@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-15T22:54:00.039Z
+date: 2023-07-15T23:12:38.608Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -16,7 +16,7 @@ Bridge Skip is a shortcut in Prologue performed by jumping over the raised bridg
 The main difficulty is getting the height needed to land on top of the bridge.
 # Variations
 # Variation Tabs {.tabset}
-## Bare Fist (32s)
+## Bare Fist (XXs)
 This version uses a Bare Fist Lift which gives more height than a Small Sword Lift. The downside is that you lose time switching weapons in the menu.
 
 Required Weapon Set configuration:
@@ -36,7 +36,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 - Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
 - The second Light Attack needs to be done during the ascending phase of your jump.
 
-## Double Lift (31s)
+## Double Lift (XXs)
 
 This version utilizes a stack of girders to double lift from for a ton of extra height, reducing the timing precision required to reach the top of the bridge. 
 
@@ -62,7 +62,7 @@ Walking against the part of the stack not covered by a tarp do the following com
 - After the initial lift jump towards the bridge. Usually you will reach it with the podspin.
 - Due to the height you might need to be careful not to plunge over the bridge into the abyss.
 
-## Regular (4s)
+## Regular (XXs)
 The original way of doing this high jump.
 
 Required Weapon Set configuration:
@@ -93,7 +93,7 @@ src="https://www.youtube.com/embed/y2O_gD5AlvU">
 src="https://www.youtube.com/embed/AnplpZwYnOE">
 </iframe> 
 
-## Barrel
+## Barrel (XXs)
 *Might also be referred to as "Lightless Bridge Skip" / "Lightless" or "Podspin Bridge Skip"* 
 The fastest version of the trick, utilizing extra height from the barrels next to the exit of Silo 2.
 
