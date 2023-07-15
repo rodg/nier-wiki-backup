@@ -2,7 +2,7 @@
 title: Lava Out Of Bounds
 description: 
 published: true
-date: 2023-07-15T02:38:05.318Z
+date: 2023-07-15T02:38:21.981Z
 tags: skip, prologue, factory, a2, 2b, clipout
 editor: markdown
 dateCreated: 2023-07-14T15:24:29.951Z
