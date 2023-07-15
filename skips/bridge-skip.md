@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-15T23:43:11.978Z
+date: 2023-07-15T23:43:36.645Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -30,8 +30,8 @@ Assuming you're doing this in prologue you'll just have to swap **Virtuous Treat
 Switch to **Weapon Set 1** and do the following combo to jump onto the raised bridge:
 
 **Lift &rarr; Switch WS &rarr; Light &rarr; Heavy &rarr; Jump &rarr; Light &rarr; Heavy &rarr; Plunge**
-
-#### Notes:
+<br>
+###### Notes:
 - The lift should be a delayed lift.
 - The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
 - Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
