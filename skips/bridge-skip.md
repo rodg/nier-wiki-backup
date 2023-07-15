@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-15T23:39:38.958Z
+date: 2023-07-15T23:40:05.245Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -39,8 +39,10 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 ### p {.tabset}
 #### Demo Video
 <iframe src="https://www.youtube.com/embed/Ob2Zp-lc6Uo"> </iframe>
+
 #### Tutorial Video
 <iframe src="https://www.youtube.com/embed/GtL1huin9EE"> </iframe>
+
 ## Double Lift (XXs)
 
 This version utilizes a stack of girders to double lift from for a ton of extra height, reducing the timing precision required to reach the top of the bridge. 
