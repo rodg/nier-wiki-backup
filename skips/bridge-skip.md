@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-15T22:42:15.047Z
+date: 2023-07-15T22:42:46.765Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -16,15 +16,6 @@ Bridge Skip is a shortcut in Prologue performed by jumping over the raised bridg
 The main difficulty is getting the height needed to land on top of the bridge.
 <br><br><br>
 # Variations
-The different ways to do this trick ordered in increasing difficulty.
-(Timesaves are estimates, more precise timings will follow.)
-| Variation   | Timesave    |
-| ----------- | ----------- |
-| Bare Fist 	| 20s					|
-| Double Lift | 25s					|
-| Regular  		| 30s					|
-| Barrel 			| 33s    			|
-
 # Variation Tabs {.tabset}
 ## Bare Fist (32s)
 This version is the easiest because it makes use of the fact that a bare fist lift gains a lot more height than the one with the small sword that we usually use.
