@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-15T22:39:11.394Z
+date: 2023-07-15T22:42:15.047Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -26,7 +26,7 @@ The different ways to do this trick ordered in increasing difficulty.
 | Barrel 			| 33s    			|
 
 # Variation Tabs {.tabset}
-## Bare Fist
+## Bare Fist (32s)
 This version is the easiest because it makes use of the fact that a bare fist lift gains a lot more height than the one with the small sword that we usually use.
 The downside being that you lose time switching weapons in the menu.
 
@@ -47,7 +47,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 - Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
 - The second Light Attack needs to be done during the ascending phase of your jump.
 
-## Double Lift
+## Double Lift (31s)
 
 This version utilizes a stack of girders to double lift from for a ton of extra height, reducing the timing precision required to reach the top of the bridge. 
 
@@ -73,7 +73,7 @@ Walking against the part of the stack not covered by a tarp do the following com
 - After the initial lift jump towards the bridge. Usually you will reach it with the podspin.
 - Due to the height you might need to be careful not to plunge over the bridge into the abyss.
 
-## Regular
+## Regular (4s)
 The original way of doing this high jump.
 
 Required Weapon Set configuration:
