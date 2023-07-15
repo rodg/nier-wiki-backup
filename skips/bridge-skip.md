@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-15T23:12:38.608Z
+date: 2023-07-15T23:18:51.350Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -113,6 +113,7 @@ The setup for this jump begins in Silo 2:
 Now do the following combo to reach the top of the raised bridge:
 
 **Heavy &rarr; Lift &rarr; Heavy &rarr; Jump &rarr; Heavy &rarr; Plunge**
+
 - The lift should be a delayed lift.
 - After the podspin you still have to move towards the bridge during the jump combo so 2B is up against it when you initiate the plunge.
 - The plunge shouldn't be instant. You need the distance from the dash to reach the bridge.
