@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-15T23:53:14.045Z
+date: 2023-07-18T23:58:55.554Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -50,8 +50,6 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 This version utilizes a stack of girders to double lift from for a ton of extra height, reducing the timing precision required to reach the top of the bridge. 
 
-
-
 Required Weapon Set configuration: <img align="right" width="444" height="250" src="/assets/skips/bridge_skip/girderstack.jpg"> 
 
 | Weapon Set (any) | |
@@ -67,10 +65,22 @@ Walking against the part of the stack not covered by a tarp do the following com
 
 **Lift &rarr; Heavy &rarr; Lift &rarr; Jump(Hold) &rarr; Podspin &rarr; Heavy &rarr; Plunge**
 
+### Notes:
+
 - The first lift into the girders needs to be instant in order to refresh the jump so you are able to lift again.
 - It is recommended to delay the second lift.
 - After the initial lift jump towards the bridge. Usually you will reach it with the podspin.
 - Due to the height you might need to be careful not to plunge over the bridge into the abyss.
+
+### Videos:
+
+### p {.tabset}
+#### Demo
+<iframe width="800" height="450" src="https://www.youtube.com/embed/P80c-RX080Y"> </iframe>
+
+#### Tutorial
+<iframe width="800" height="450" src="https://www.youtube.com/embed/5IJGb9aKPZc"> </iframe>
+
 
 ## Regular (XXs)
 The original way of doing this high jump.
@@ -86,6 +96,8 @@ In prologue this will correspond to **Weapon Set 2**.
 Using this Weapon Set, do the following combo to jump onto the raised bridge:
 
 **Lift &rarr; Light &rarr; Heavy &rarr; Jump &rarr; Light &rarr; Heavy &rarr; Plunge**
+
+### Notes:
 
 - Properly delaying the lift is crucial to achieve the necessary height.
 - The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
