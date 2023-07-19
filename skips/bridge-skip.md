@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-19T00:58:16.764Z
+date: 2023-07-19T00:59:21.736Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -40,6 +40,8 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 ### Video:
 
+<br>
+
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Ob2Zp-lc6Uo"> </iframe>
 
 ## Double Lift (XXs)
@@ -70,6 +72,8 @@ Walking against the part of the stack not covered by a tarp do the following com
 
 ### Video:
 
+<br>
+
 <iframe width="800" height="450" src="https://www.youtube.com/embed/5IJGb9aKPZc"> </iframe>
 
 
@@ -96,6 +100,8 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 - The second Light Attack needs to be done during the ascending phase of your jump.
 
 ### Video:
+
+<br>
 
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/AnplpZwYnOE">
@@ -130,6 +136,7 @@ Now do the following combo to reach the top of the raised bridge:
 - If you want to do this variation, but are not making it with the combo above you can add a light attack with a Large Sword. This will still be faster than the regular variation as long as you only need one additional light. A second light will make it slower. 
 
 ### Video:
+<br>
 
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/kyr9LJj067s">
