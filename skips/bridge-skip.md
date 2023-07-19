@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-19T00:59:21.736Z
+date: 2023-07-19T01:02:05.121Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -63,6 +63,13 @@ Walking against the part of the stack not covered by a tarp do the following com
 
 **Lift &rarr; Heavy &rarr; Lift &rarr; Jump(Hold) &rarr; Podspin &rarr; Heavy &rarr; Plunge**
 
+### Video:
+
+<br>
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/5IJGb9aKPZc"> </iframe>
+
+
 ### Notes:
 
 - The first lift into the girders needs to be instant in order to refresh the jump so you are able to lift again.
@@ -70,11 +77,7 @@ Walking against the part of the stack not covered by a tarp do the following com
 - After the initial lift jump towards the bridge. Usually you will reach it with the podspin.
 - Due to the height you might need to be careful not to plunge over the bridge into the abyss.
 
-### Video:
-
-<br>
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/5IJGb9aKPZc"> </iframe>
+### Troubleshooting:
 
 
 ## Regular (XXs)
