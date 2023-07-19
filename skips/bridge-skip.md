@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-18T23:58:55.554Z
+date: 2023-07-19T00:00:24.747Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -103,6 +103,9 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 - The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
 - Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
 - The second Light Attack needs to be done during the ascending phase of your jump.
+
+### Videos:
+
 ### {.tabset}
 #### Demo Video
 <iframe width="800" height="450"
@@ -135,10 +138,25 @@ Now do the following combo to reach the top of the raised bridge:
 
 **Heavy &rarr; Lift &rarr; Heavy &rarr; Jump &rarr; Heavy &rarr; Plunge**
 
+### Notes:
+
 - The lift should be a delayed lift.
 - After the podspin you still have to move towards the bridge during the jump combo so 2B is up against it when you initiate the plunge.
 - The plunge shouldn't be instant. You need the distance from the dash to reach the bridge.
 - If you want to do this variation, but are not making it with the combo above you can add a light attack with a Large Sword. This will still be faster than the regular variation as long as you only need one additional light. A second light will make it slower. 
+
+### Videos:
+
+### {.tabset}
+#### Demo Video
+<iframe width="800" height="450"
+src="https://www.youtube.com/embed/Y4vyjGmN4-U">
+</iframe> 
+
+#### Video Tutorial
+<iframe width="800" height="450"
+src="https://www.youtube.com/embed/kyr9LJj067s">
+</iframe> 
 
 # Crossing the gap
 Start holding Dash during the plunge. This will skip the slam into the ground and start your dash instantly.
