@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-19T00:17:39.962Z
+date: 2023-07-19T00:58:16.764Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -38,14 +38,9 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 - The second Light Attack needs to be done during the ascending phase of your jump.
 <br>
 
-### Videos:
+### Video:
 
-### p {.tabset}
-#### Demo
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Ob2Zp-lc6Uo"> </iframe>
-
-#### Tutorial
-<iframe width="800" height="450" src="https://www.youtube.com/embed/GtL1huin9EE"> </iframe>
 
 ## Double Lift (XXs)
 
@@ -73,13 +68,8 @@ Walking against the part of the stack not covered by a tarp do the following com
 - After the initial lift jump towards the bridge. Usually you will reach it with the podspin.
 - Due to the height you might need to be careful not to plunge over the bridge into the abyss.
 
-### Videos:
+### Video:
 
-### p {.tabset}
-#### Demo
-<iframe width="800" height="450" src="https://www.youtube.com/embed/P80c-RX080Y"> </iframe>
-
-#### Tutorial
 <iframe width="800" height="450" src="https://www.youtube.com/embed/5IJGb9aKPZc"> </iframe>
 
 
@@ -105,15 +95,8 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 - Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
 - The second Light Attack needs to be done during the ascending phase of your jump.
 
-### Videos:
+### Video:
 
-### {.tabset}
-#### Demo Video
-<iframe width="800" height="450"
-src="https://www.youtube.com/embed/y2O_gD5AlvU">
-</iframe> 
-
-#### Video Tutorial
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/AnplpZwYnOE">
 </iframe> 
@@ -146,15 +129,8 @@ Now do the following combo to reach the top of the raised bridge:
 - The plunge shouldn't be instant. You need the distance from the dash to reach the bridge.
 - If you want to do this variation, but are not making it with the combo above you can add a light attack with a Large Sword. This will still be faster than the regular variation as long as you only need one additional light. A second light will make it slower. 
 
-### Videos:
+### Video:
 
-### {.tabset}
-#### Demo Video
-<iframe width="800" height="450"
-src="https://www.youtube.com/embed/Y4vyjGmN4-U">
-</iframe> 
-
-#### Video Tutorial
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/kyr9LJj067s">
 </iframe> 
