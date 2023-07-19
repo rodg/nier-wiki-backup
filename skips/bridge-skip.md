@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-19T01:02:05.121Z
+date: 2023-07-19T01:04:29.677Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -16,6 +16,9 @@ Bridge Skip is a shortcut in Prologue performed by jumping over the raised bridg
 The main difficulty is getting the height needed to land on top of the bridge.
 # Variations
 # Variation Tabs {.tabset}
+
+
+
 ## Bare Fist (XXs)
 This version uses a Bare Fist Lift which gives more height than a Small Sword Lift. The downside is that you lose time switching weapons in the menu.
 
@@ -31,6 +34,14 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 **Lift &rarr; Switch WS &rarr; Light &rarr; Heavy &rarr; Jump &rarr; Light &rarr; Heavy &rarr; Plunge**
 <br>
+
+### Video:
+
+<br>
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Ob2Zp-lc6Uo"> </iframe>
+
+
 ### Notes:
 - The lift should be a delayed lift.
 - The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
@@ -38,11 +49,8 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 - The second Light Attack needs to be done during the ascending phase of your jump.
 <br>
 
-### Video:
+### Troubleshooting:
 
-<br>
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Ob2Zp-lc6Uo"> </iframe>
 
 ## Double Lift (XXs)
 
@@ -95,13 +103,6 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 
 **Lift &rarr; Light &rarr; Heavy &rarr; Jump &rarr; Light &rarr; Heavy &rarr; Plunge**
 
-### Notes:
-
-- Properly delaying the lift is crucial to achieve the necessary height.
-- The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
-- Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
-- The second Light Attack needs to be done during the ascending phase of your jump.
-
 ### Video:
 
 <br>
@@ -109,6 +110,16 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/AnplpZwYnOE">
 </iframe> 
+
+### Notes:
+
+- Properly delaying the lift is crucial to achieve the necessary height.
+- The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
+- Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
+- The second Light Attack needs to be done during the ascending phase of your jump.
+
+### Troubleshooting:
+
 
 ## Barrel (XXs)
 *Might also be referred to as "Lightless Bridge Skip" / "Lightless" or "Podspin Bridge Skip"* 
@@ -131,6 +142,14 @@ Now do the following combo to reach the top of the raised bridge:
 
 **Heavy &rarr; Lift &rarr; Heavy &rarr; Jump &rarr; Heavy &rarr; Plunge**
 
+### Video:
+<br>
+
+<iframe width="800" height="450"
+src="https://www.youtube.com/embed/kyr9LJj067s">
+</iframe> 
+
+
 ### Notes:
 
 - The lift should be a delayed lift.
@@ -138,12 +157,8 @@ Now do the following combo to reach the top of the raised bridge:
 - The plunge shouldn't be instant. You need the distance from the dash to reach the bridge.
 - If you want to do this variation, but are not making it with the combo above you can add a light attack with a Large Sword. This will still be faster than the regular variation as long as you only need one additional light. A second light will make it slower. 
 
-### Video:
-<br>
+### Troubleshooting:
 
-<iframe width="800" height="450"
-src="https://www.youtube.com/embed/kyr9LJj067s">
-</iframe> 
 
 # Crossing the gap
 Start holding Dash during the plunge. This will skip the slam into the ground and start your dash instantly.
