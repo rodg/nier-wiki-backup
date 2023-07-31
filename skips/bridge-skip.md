@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-31T10:40:49.245Z
+date: 2023-07-31T10:40:57.713Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -184,7 +184,7 @@ src="https://www.youtube.com/embed/KB1CLXZPtCc">
 ## Easier Version
 **Dash &rarr; Jump &rarr; Podspin &rarr; Jump &rarr; Podspin &rarr; Dash**
 
-- There are many other ways to do this. The one provided is just a safe option to get you started. Feel free to experiment.
+- There are many other ways to do this. The one provided is just a safe option to get you started.
 <br>
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/sReGQj67HJU">
