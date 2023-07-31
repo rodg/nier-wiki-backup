@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-19T01:09:57.198Z
+date: 2023-07-31T10:40:49.245Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -45,7 +45,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 ### Notes:
 - The lift should be a delayed lift.
 - The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
-- Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
+- Make sure you're getting the maximum height from your actions, don't rush your inputs!
 - The second Light Attack needs to be done during the ascending phase of your jump.
 <br>
 
@@ -115,7 +115,7 @@ src="https://www.youtube.com/embed/AnplpZwYnOE">
 
 - Properly delaying the lift is crucial to achieve the necessary height.
 - The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
-- Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
+- Make sure you're getting the maximum height from your actions, don't rush your inputs!
 - The second Light Attack needs to be done during the ascending phase of your jump.
 
 ### Troubleshooting:
@@ -184,7 +184,7 @@ src="https://www.youtube.com/embed/KB1CLXZPtCc">
 ## Easier Version
 **Dash &rarr; Jump &rarr; Podspin &rarr; Jump &rarr; Podspin &rarr; Dash**
 
-- There are many other ways to do this. The one provided is just a safe option to get you started.
+- There are many other ways to do this. The one provided is just a safe option to get you started. Feel free to experiment.
 <br>
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/sReGQj67HJU">
