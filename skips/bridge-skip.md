@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-31T10:40:57.713Z
+date: 2023-07-31T10:41:36.381Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -135,7 +135,7 @@ Required Weapon Set configuration: <img align="right" width="444" height="250" s
 In prologue this will correspond to **Weapon Set 2**.
 
 The setup for this jump begins in Silo 2:
-1. Buffer a jump
+1. Get a Glide Buffer
 2. Walk over the barrels and do a podspin as soon as 2B starts falling. The podspin should end roughly where the walkway to the bridge begins.
 
 Now do the following combo to reach the top of the raised bridge:
