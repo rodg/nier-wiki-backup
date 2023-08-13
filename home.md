@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-08-13T23:38:10.570Z
+date: 2023-08-13T23:56:26.341Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -21,6 +21,7 @@ top secret todo list:
 - combat
 - - maybe not seperate
 
-- casual player content
 
 - mlg automata speed montage 
+
+- casual player content
