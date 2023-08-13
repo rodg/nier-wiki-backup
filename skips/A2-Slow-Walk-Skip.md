@@ -2,7 +2,7 @@
 title: A2 Slow Walk Skip
 description: 
 published: true
-date: 2023-08-13T22:55:27.120Z
+date: 2023-08-13T22:58:12.259Z
 tags: 2b, forest castle
 editor: markdown
 dateCreated: 2023-07-15T11:35:54.717Z
