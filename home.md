@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-08-14T21:30:09.172Z
+date: 2023-08-14T23:55:57.055Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -33,7 +33,7 @@ top secret todo list:
 - mlg automata speed montage 
 
 - casual player content
-
+- speedstar video :)
 
 ### Page ideas
  - how to clip: what attacks and shit allow you to clip, what terrain etc
