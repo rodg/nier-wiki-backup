@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T22:01:41.932Z
+date: 2023-08-14T22:07:41.438Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -47,6 +47,7 @@ Aerial
 
 # Misc Tech
 - Self Destruct (SD)
+- Rising Frames
 
 # Skips/Tricks List
 ideally in order of appearance
