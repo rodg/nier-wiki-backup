@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T21:44:12.179Z
+date: 2023-08-14T21:53:16.040Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -15,14 +15,17 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - Spear Dashing
 - Missile Chaining
 - Lift
+	- Delayed Lift
 	- Double Lift
 - Plunge
+	- Delayed Plunge
 - Plunge Glitch (PG)
 - InfiniSlashing
 - Weapon Swap Combo Reset (WSCR)
 
 # Combat
 - Damage Glitch (DG)
+	- Delayed DG
 - Double Damage Glitch (DDG)
 - Stab
 
@@ -38,11 +41,7 @@ dateCreated: 2023-08-14T00:15:50.224Z
 	- God Pat
 
 # Misc Tech
- - Delayed-
- 	- Plunge
-  - Lift
-  - Heavy Hold
-  - DG
+- Self Destruct (SD)
 
 # Skips/Tricks List
 ideally in order of appearance
