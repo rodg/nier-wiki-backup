@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-08-14T02:25:11.641Z
+date: 2023-08-14T02:25:42.644Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -20,7 +20,7 @@ top secret todo list:
 - also list of skips based on category here, tiny descriptions of skips and links to respective pages
 
 - GETTING STARTED WITH NIER AUTOMATA SPEEDRUNS VIDEO
-- - livesplit setup
+	- livesplit setup
 - - setting up mods
 - - etc.
 - ultimate movement video
