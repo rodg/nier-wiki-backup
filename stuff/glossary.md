@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T23:05:21.089Z
+date: 2023-08-14T23:06:05.527Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -28,6 +28,8 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - Dash Light
 	- Dash Stab 
 - Roll
+- HeavyHold
+- LightHold
 - Damage Glitch (DG)
 	- Delayed DG
 - Double Damage Glitch (DDG)
