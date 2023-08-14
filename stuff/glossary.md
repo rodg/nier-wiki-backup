@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T22:07:41.438Z
+date: 2023-08-14T22:44:41.123Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -11,6 +11,8 @@ dateCreated: 2023-08-14T00:15:50.224Z
 Grounded
 Aerial
 
+
+ - Roll
 
 # Movement
 - Dash Chaining
