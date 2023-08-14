@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T21:27:56.723Z
+date: 2023-08-14T21:28:07.313Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -30,11 +30,8 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - Pod Pat
 	- God Pat
 
-
-
-
 # Misc Tech
-- podpats and shit idk
+ - Ğ
 
 # Skips/Tricks List
 ideally in order of appearance
