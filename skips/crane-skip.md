@@ -2,7 +2,7 @@
 title: Crane Skip
 description: 
 published: true
-date: 2023-07-04T23:21:09.573Z
+date: 2023-08-14T23:57:36.031Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T18:05:43.920Z
@@ -16,9 +16,9 @@ Crane skip is a shortcut between silo 1 and silo 2 using the catwalk behind the 
 # Variations
 | Variation   | Timesave    |
 | ----------- | ----------- |
-| Crane Skip    	| 35s					|
-| Crane Skip Skip  | 37s					|
-| Copium Clip | 39s					|
+| Crane Skip    	| 99s					|
+| Crane Skip Skip  | 99s					|
+| Copium Clip | 99s		|
 
 
 
