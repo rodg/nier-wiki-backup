@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T00:58:16.770Z
+date: 2023-08-14T01:09:50.906Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -24,6 +24,11 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - podpats and shit idk
 
 # Skips/Tricks List
+ideally in order of appearance
+
+## Prologue?
+- Crane Skip
+- Brij Skpi
 
 ## [A]
 
@@ -32,5 +37,7 @@ dateCreated: 2023-08-14T00:15:50.224Z
 ## A-Z
 
 ## 100
+
+## Reddots
 
 ## Other
