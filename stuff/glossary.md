@@ -2,20 +2,16 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T22:45:22.149Z
+date: 2023-08-14T22:51:55.107Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
 ---
 
-Grounded
-Aerial
+> Very unorganized cause i can't organize shit its hard okay
+{.is-danger}
 
-(some shit are both movement and combat idk where to put them aloyarStress)
 
- - Roll
-
-# Movement
 - Dash Chaining
 - Dash Punching
 - Dash Swinging
@@ -31,13 +27,10 @@ Aerial
 - Weapon Swap Combo Reset (WSCR)
 - Dash Light
 	- Dash Stab 
-
-# Combat
+- Roll
 - Damage Glitch (DG)
 	- Delayed DG
 - Double Damage Glitch (DDG)
-
-# Pod Tech
 - Pod Glide
 	- Glide Buffering
 - Pod Spin
@@ -47,27 +40,35 @@ Aerial
 - Slow-Mo
 - Pod Pat
 	- God Pat
-
-# Misc
 - Self Destruct (SD)
 - Rising Frames
+- 1st Wave Manip
+- 4B Manip
+- Circle Wave
+- Shmup
 
-# Skips/Tricks List
+
+
+
+
+(some shit are both movement and combat idk where to put them aloyarStress)
+
+
+
+# Movement
+# Combat
+# Pod Tech
+# Misc
+
+
+# Skips/Tricks/Movements List
 ideally in order of appearance
 
 ## Prologue?
-- Crane Skip
-- Brij Skpi
-
 ## [A]
-- Grun skip aloyarHa
 ## [E]
-- Early Tower
 ## A-Z
-- 11B Memento
 ## 100
-- i dont fucking know lmao skip
 ## Reddots
-- the podlaunch through the tree thingy clip 
 ## Other
 - piss skip
