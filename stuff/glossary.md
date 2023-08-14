@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T01:12:37.553Z
+date: 2023-08-14T01:12:54.194Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
