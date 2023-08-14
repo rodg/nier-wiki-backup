@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T22:44:41.123Z
+date: 2023-08-14T22:45:22.149Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -11,6 +11,7 @@ dateCreated: 2023-08-14T00:15:50.224Z
 Grounded
 Aerial
 
+(some shit are both movement and combat idk where to put them aloyarStress)
 
  - Roll
 
@@ -47,7 +48,7 @@ Aerial
 - Pod Pat
 	- God Pat
 
-# Misc Tech
+# Misc
 - Self Destruct (SD)
 - Rising Frames
 
