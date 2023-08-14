@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T07:18:42.329Z
+date: 2023-08-14T21:27:56.723Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -18,6 +18,20 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - Heavy
 - Damage Glitch (DG)
 - Double Damage Glitch (DDG)
+
+# Pod Tech
+- Pod Glide
+	- Glide Buffering
+- Pod Spin
+	- Pod Spin Vectoring
+- Pod Launch
+	- Marky Launch
+- Slow-Mo
+- Pod Pat
+	- God Pat
+
+
+
 
 # Misc Tech
 - podpats and shit idk
