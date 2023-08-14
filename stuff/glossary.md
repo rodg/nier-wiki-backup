@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T23:03:04.448Z
+date: 2023-08-14T23:05:21.089Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -47,6 +47,10 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - Circle Wave
 - Shmup
 - Jump Skip
+- Thresholding
+- Crane Skip
+- Crane Skip Skip
+- Copium Clip (Crane Skip Skip Skip)
 
 
 
