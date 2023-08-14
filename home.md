@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-08-14T02:25:42.644Z
+date: 2023-08-14T02:25:54.558Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -21,11 +21,11 @@ top secret todo list:
 
 - GETTING STARTED WITH NIER AUTOMATA SPEEDRUNS VIDEO
 	- livesplit setup
-- - setting up mods
-- - etc.
+	- setting up mods
+	- etc.
 - ultimate movement video
 - ultimate combat video
-- - maybe not seperate
+	- maybe not seperate
 
 
 - mlg automata speed montage 
