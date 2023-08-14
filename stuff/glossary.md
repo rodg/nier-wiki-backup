@@ -2,11 +2,15 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T21:53:16.040Z
+date: 2023-08-14T22:01:41.932Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
 ---
+
+Grounded
+Aerial
+
 
 # Movement
 - Dash Chaining
@@ -22,12 +26,13 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - Plunge Glitch (PG)
 - InfiniSlashing
 - Weapon Swap Combo Reset (WSCR)
+- Dash Light
+	- Dash Stab 
 
 # Combat
 - Damage Glitch (DG)
 	- Delayed DG
 - Double Damage Glitch (DDG)
-- Stab
 
 # Pod Tech
 - Pod Glide
