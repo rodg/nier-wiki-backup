@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T22:55:48.524Z
+date: 2023-08-14T23:03:04.448Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -46,6 +46,7 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - 4B Manip
 - Circle Wave
 - Shmup
+- Jump Skip
 
 
 
