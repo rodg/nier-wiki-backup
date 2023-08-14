@@ -2,17 +2,16 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T01:12:54.194Z
+date: 2023-08-14T07:18:42.329Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
 ---
 
 # Movement
-- jump
-- double jump
-- lift
-- plunge
+- Lift
+	- Double Lift
+- Plunge
 
 # Combat
 - light
@@ -31,7 +30,7 @@ ideally in order of appearance
 - Brij Skpi
 
 ## [A]
-- Grun skip
+- Grun skip aloyarHa
 ## [E]
 - Early Tower
 ## A-Z
@@ -39,6 +38,6 @@ ideally in order of appearance
 ## 100
 - i dont fucking know lmao skip
 ## Reddots
-- i dont remember sorry
+- the podlaunch through the tree thingy clip 
 ## Other
 - piss skip
