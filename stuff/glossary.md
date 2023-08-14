@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T23:06:05.527Z
+date: 2023-08-14T23:24:33.378Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -53,10 +53,13 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - Crane Skip
 - Crane Skip Skip
 - Copium Clip (Crane Skip Skip Skip)
-
-
-
-
+- Bridge Skip
+- Lava Out of Bounds (Lava OOB)
+- God Laser
+- Engels Swag 
+	- New Swag
+  - PodLaunch Swag
+- Silo
 
 (some shit are both movement and combat idk where to put them aloyarStress)
 
