@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T01:09:50.906Z
+date: 2023-08-14T01:12:37.553Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -31,13 +31,14 @@ ideally in order of appearance
 - Brij Skpi
 
 ## [A]
-
+- Grun skip
 ## [E]
-
+- Early Tower
 ## A-Z
-
+- 11B Memento
 ## 100
-
+- i dont fucking know lmao skip
 ## Reddots
-
+- i dont remember sorry
 ## Other
+- piss skip
