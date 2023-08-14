@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-14T23:24:33.378Z
+date: 2023-08-14T23:26:35.666Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -59,7 +59,6 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - Engels Swag 
 	- New Swag
   - PodLaunch Swag
-- Silo
 
 (some shit are both movement and combat idk where to put them aloyarStress)
 
