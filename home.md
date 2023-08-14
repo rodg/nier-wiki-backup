@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-08-14T02:27:07.658Z
+date: 2023-08-14T02:27:21.061Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -24,7 +24,7 @@ top secret todo list:
 	- setting up mods
 	- control schemes
 	- settings
-  -etc.
+  - etc.
 - ultimate movement video
 - ultimate combat video
 	- maybe not seperate
