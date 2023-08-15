@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-08-15T01:02:56.929Z
+date: 2023-08-15T01:08:16.712Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -69,6 +69,10 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - Sprint Glitch
 - Bulldozer Strat
 - Plunge Pause
+- 9S Glitch
+- Pod Glitch
+- Cutscene Duping
+- Double Drops/XP
 (some shit are both movement and combat idk where to put them aloyarStress)
 
 
