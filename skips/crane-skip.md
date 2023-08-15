@@ -2,7 +2,7 @@
 title: Crane Skip
 description: 
 published: true
-date: 2023-08-14T23:57:36.031Z
+date: 2023-08-15T01:29:30.943Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T18:05:43.920Z
@@ -26,10 +26,11 @@ Crane skip is a shortcut between silo 1 and silo 2 using the catwalk behind the 
 
 # ????????? {.tabset}
 ## Crane Skip
-Regular Crane Skip. The idea is to use the crate to get on top of the ??platform?? to then get on top of the crane.
+Regular Crane Skip. The idea is to get on top of the ??platform?? to then get on top of the crane. 
+
 In Prologue this will correspond to **Weapon Set 2**.
 **Edit** (
-Switch to **Weapon Set 1** and do the following combo to jump onto the raised bridge:
+Switch to **Weapon Set 2** and do the following combo to jump onto the raised bridge:
 
 
 **Lift &rarr; Switch WS &rarr; Light &rarr; Heavy &rarr; Jump &rarr; Light &rarr; Heavy &rarr; Plunge**
