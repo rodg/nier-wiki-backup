@@ -2,7 +2,7 @@
 title: video guide stuff
 description: 
 published: false
-date: 2023-08-16T18:47:01.675Z
+date: 2023-08-16T18:55:32.185Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T17:00:22.870Z
@@ -33,4 +33,4 @@ dateCreated: 2023-08-16T17:00:22.870Z
 - Beauvoir to Pascal's
 - Pascal to City Engels end
 - Negotiations
-- 
+- Negotiations end → Forest Discovery
