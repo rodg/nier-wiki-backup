@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-08-16T17:29:20.976Z
+date: 2023-08-16T17:30:19.116Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -20,12 +20,11 @@ top secret todo list:
 - also list of skips based on category here, tiny descriptions of skips and links to respective pages
 
 - GETTING STARTED WITH NIER AUTOMATA SPEEDRUNS VIDEO
-	- livesplit setup
-  	- sometimes it doesn't fucking work
-	- setting up mods
+	- livesplit setup (sometimes it doesn't fucking work)
+ 	- setting up mods
 	- control schemes
 	- settings
-  - etc.
+ 	- etc.
 - ultimate movement video
 - ultimate combat video
 	- maybe not seperate
