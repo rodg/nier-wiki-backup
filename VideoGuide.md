@@ -2,7 +2,7 @@
 title: video guide stuff
 description: 
 published: false
-date: 2023-08-16T19:25:53.191Z
+date: 2023-08-16T19:36:46.109Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T17:00:22.870Z
@@ -47,6 +47,8 @@ dateCreated: 2023-08-16T17:00:22.870Z
 - Grün End → Copied End
 
 ### Factory
-- Factory
+- Copied End → Factory End
 
-### 
+### Bossrush
+- Bossrush
+- Eve
