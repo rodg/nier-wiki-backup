@@ -2,7 +2,7 @@
 title: video guide stuff
 description: 
 published: false
-date: 2023-08-16T19:36:46.109Z
+date: 2023-08-16T19:39:23.335Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T17:00:22.870Z
@@ -12,7 +12,7 @@ dateCreated: 2023-08-16T17:00:22.870Z
 - short section based videos
 - detailed, show triggers, camera mod footage, 
 - skip variations, movement variations, lineup variations. etc. just 
-- good audio quality, clear speech, everything HAS to be scripted.
+- good audio quality, clear speech. Script sections or have notes, Do what it takes to get a good take.
 
 
 ## Video Splitting (rough outline)
