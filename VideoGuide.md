@@ -2,7 +2,7 @@
 title: video guide stuff
 description: 
 published: false
-date: 2023-08-16T19:07:42.545Z
+date: 2023-08-16T19:20:52.349Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T17:00:22.870Z
@@ -36,6 +36,8 @@ dateCreated: 2023-08-16T17:00:22.870Z
 - Pascal to City Engels end
 - Negotiations
 - Negotiations end → Forest Discovery
+
+
 - Forest → A2 
 - A2 End → Grün end
 - Grün End → 
