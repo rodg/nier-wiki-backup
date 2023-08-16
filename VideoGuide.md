@@ -2,7 +2,7 @@
 title: video guide stuff
 description: 
 published: false
-date: 2023-08-16T18:31:31.351Z
+date: 2023-08-16T18:43:02.886Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T17:00:22.870Z
@@ -30,3 +30,6 @@ dateCreated: 2023-08-16T17:00:22.870Z
 
 ### Park
 - Savescum to Beauvoir
+- Beauvoir to Pascal's
+- Pascal to City Engels end
+- Negotiations
