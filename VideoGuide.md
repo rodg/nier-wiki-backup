@@ -2,7 +2,7 @@
 title: video guide stuff
 description: 
 published: false
-date: 2023-08-16T18:14:32.068Z
+date: 2023-08-16T18:19:02.466Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T17:00:22.870Z
@@ -13,3 +13,13 @@ dateCreated: 2023-08-16T17:00:22.870Z
 - detailed, show triggers, camera mod footage, 
 - skip variations, movement variations, lineup variations. etc. just 
 - good audio quality, clear speech, everything HAS to be scripted.
+
+
+## Video Splitting
+### Prologue
+- Shmup
+- Silo1 + Marx1
+- Marx1 end → Marx2 Start
+- Marx2 → Prologue End
+
+### Desert
