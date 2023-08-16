@@ -2,7 +2,7 @@
 title: video guide stuff
 description: 
 published: false
-date: 2023-08-16T18:25:27.178Z
+date: 2023-08-16T18:31:31.351Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T17:00:22.870Z
@@ -26,6 +26,7 @@ dateCreated: 2023-08-16T17:00:22.870Z
 - Bunker → Rescamp Discovery
 - Questing → getting transporter
 - transporter → adam start
-- Adam pit
+- Adam pit + Savescum
 
-### 
+### Park
+- Savescum to Beauvoir
