@@ -2,7 +2,7 @@
 title: video guide stuff
 description: 
 published: false
-date: 2023-08-16T19:20:52.349Z
+date: 2023-08-16T19:25:53.191Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T17:00:22.870Z
@@ -35,11 +35,18 @@ dateCreated: 2023-08-16T17:00:22.870Z
 ### Mid Game
 - Pascal to City Engels end
 - Negotiations
-- Negotiations end → Forest Discovery
 
+### Forest
+- Negotiations End → Forest Discovery
+- Forest Disc → A2 End
 
-- Forest → A2 
+### Grün
 - A2 End → Grün end
-- Grün End → 
 
+### Copied City
+- Grün End → Copied End
+
+### Factory
 - Factory
+
+### 
