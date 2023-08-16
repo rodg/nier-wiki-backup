@@ -2,7 +2,7 @@
 title: video guide stuff
 description: 
 published: false
-date: 2023-08-16T18:56:03.608Z
+date: 2023-08-16T19:03:44.108Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T17:00:22.870Z
@@ -31,7 +31,13 @@ dateCreated: 2023-08-16T17:00:22.870Z
 ### Park
 - Savescum to Beauvoir
 - Beauvoir to Pascal's
+
+### Mid Game
 - Pascal to City Engels end
 - Negotiations
 - Negotiations end → Forest Discovery
-- Forest → A2 End
+- Forest → A2 
+- A2 End → Grün end
+- Grün End → 
+
+- Factory
