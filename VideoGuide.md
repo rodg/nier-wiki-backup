@@ -2,7 +2,7 @@
 title: video guide stuff
 description: 
 published: false
-date: 2023-08-16T19:39:23.335Z
+date: 2023-08-22T17:06:40.606Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T17:00:22.870Z
