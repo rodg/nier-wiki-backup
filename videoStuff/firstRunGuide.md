@@ -1,8 +1,8 @@
 ---
 title: First Run Guide
 description: 
-published: false
-date: 2023-08-22T17:24:22.231Z
+published: true
+date: 2023-08-22T17:24:41.124Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-22T17:05:54.525Z
@@ -10,3 +10,20 @@ dateCreated: 2023-08-22T17:05:54.525Z
 
 # Header
 Your content here
+
+
+### Prologue
+
+##### Shmup:
+- flightmode use heavy
+- mobile config use light and kill oposite with pod fire
+- keep shooting
+- swap weapons; 
+- only kill left guys;
+- stay close to spinner if it doesnt spin
+
+##### Silo1: 
+- go left DG if wirly arms counter
+- stand in spot DG and shoot
+- stand at metal plates neutral dg + lock-on + taunt
+				 
