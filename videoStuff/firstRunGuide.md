@@ -2,7 +2,7 @@
 title: First Run Guide
 description: 
 published: false
-date: 2023-08-22T19:30:57.071Z
+date: 2023-08-22T20:14:39.884Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-22T17:05:54.525Z
@@ -38,7 +38,24 @@ Your content here
 
 #### Silo2:
 - DG shit
-- Try to kill multiple flyers with laser\
+- Try to kill multiple flyers with laser, dashswing survivors
 
 #### Silo2-3:
 - Default Bridge
+- lava oob
+
+#### Silo3:
+- god laser attempt
+- dashswing into shields
+- go kill.
+
+#### Marx2
+- Buff, kill, laser
+
+#### engels
+- nice place to practice slowmo
+- no melee after cutscene
+- pipe
+
+#### ninjas
+- Double Lift
