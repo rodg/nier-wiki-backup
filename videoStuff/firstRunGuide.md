@@ -2,7 +2,7 @@
 title: First Run Guide
 description: 
 published: true
-date: 2023-08-22T17:24:41.124Z
+date: 2023-08-22T17:24:52.882Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-22T17:05:54.525Z
@@ -25,5 +25,5 @@ Your content here
 ##### Silo1: 
 - go left DG if wirly arms counter
 - stand in spot DG and shoot
-- stand at metal plates neutral dg + lock-on + taunt
+- stand at metal plates dg + lock-on + taunt
 				 
