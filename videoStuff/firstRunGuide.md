@@ -2,7 +2,7 @@
 title: First Run Guide
 description: 
 published: false
-date: 2023-08-22T19:16:54.394Z
+date: 2023-08-22T19:19:11.087Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-22T17:05:54.525Z
@@ -33,4 +33,11 @@ Your content here
 - keep shooting
 - DG
 
-##### 
+#### marx1-silo2:
+- crane skip 4head
+
+#### Silo2:
+- DG shit
+- Try to kill multiple flyers with laser\
+
+#### Silo2-3:
