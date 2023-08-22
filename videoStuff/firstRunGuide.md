@@ -2,7 +2,7 @@
 title: First Run Guide
 description: 
 published: false
-date: 2023-08-22T17:53:32.966Z
+date: 2023-08-22T19:16:54.394Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-22T17:05:54.525Z
@@ -18,8 +18,8 @@ Your content here
 - flightmode use heavy
 - mobile config use light and kill oposite with pod fire
 - keep shooting
-- swap weapons; 
-- only kill left guys;
+- swap weapons
+- only kill left guys
 - stay close to spinner if it doesnt spin
 
 ##### Silo1: 
@@ -28,4 +28,9 @@ Your content here
 - stand at metal plates dg + lock-on + taunt
 				 
 ##### Marx1:
-- 
+- lock-on 
+- buff on attack start
+- keep shooting
+- DG
+
+##### 
