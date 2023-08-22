@@ -2,7 +2,7 @@
 title: First Run Guide
 description: 
 published: false
-date: 2023-08-22T19:19:11.087Z
+date: 2023-08-22T19:30:57.071Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-22T17:05:54.525Z
@@ -41,3 +41,4 @@ Your content here
 - Try to kill multiple flyers with laser\
 
 #### Silo2-3:
+- Default Bridge
