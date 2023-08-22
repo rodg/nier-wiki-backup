@@ -2,7 +2,7 @@
 title: First Run Guide
 description: 
 published: false
-date: 2023-08-22T20:26:18.529Z
+date: 2023-08-22T20:29:58.427Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-22T17:05:54.525Z
@@ -61,9 +61,18 @@ Your content here
 - Double Lift
 - Go to left, dg laser
 
+#### arm
+- buff
+- dash cancel
+
 ### Desert
 
 #### bunker
 - do shit
+- doublejump into 9s
+- bf kick transporter dialogue
+- elevator high jump
 
-####
+#### shmup2
+- Pod programs
+- kill shit lmao
