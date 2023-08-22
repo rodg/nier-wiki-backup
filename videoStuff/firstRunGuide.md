@@ -2,7 +2,7 @@
 title: First Run Guide
 description: 
 published: false
-date: 2023-08-22T20:47:51.161Z
+date: 2023-08-22T21:00:56.543Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-22T17:05:54.525Z
@@ -110,4 +110,39 @@ Your content here
 #### beaver
 - buff, dg, don't deal too much damage
 - androids laser lineup
-- 
+- SD at the end, heal (medium or small if they got it from the fight)
+
+- just get to pascal
+
+#### pascal
+- SAVE
+- get animal, deathwarp
+
+#### city engels
+- route to building,
+- attempt engels hole, if not buff and kill engels (stand back so engels melees, slowmo melees)
+- buff, pod program lineup(s)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### factory
+- dialogue cancel (walk n talk), read mail
+- just regular stuff until elevator
+- talk to pascal in elevator
