@@ -2,7 +2,7 @@
 title: First Run Guide
 description: 
 published: false
-date: 2023-08-22T20:14:39.884Z
+date: 2023-08-22T20:26:18.529Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-22T17:05:54.525Z
@@ -59,3 +59,11 @@ Your content here
 
 #### ninjas
 - Double Lift
+- Go to left, dg laser
+
+### Desert
+
+#### bunker
+- do shit
+
+####
