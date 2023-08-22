@@ -2,7 +2,7 @@
 title: First Run Guide
 description: 
 published: false
-date: 2023-08-22T17:25:31.023Z
+date: 2023-08-22T17:53:32.966Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-22T17:05:54.525Z
@@ -27,3 +27,5 @@ Your content here
 - stand in spot DG and shoot
 - stand at metal plates dg + lock-on + taunt
 				 
+##### Marx1:
+- 
