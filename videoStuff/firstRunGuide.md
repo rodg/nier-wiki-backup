@@ -2,7 +2,7 @@
 title: First Run Guide
 description: 
 published: false
-date: 2023-08-22T20:29:58.427Z
+date: 2023-08-22T20:47:51.161Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-22T17:05:54.525Z
@@ -76,3 +76,38 @@ Your content here
 #### shmup2
 - Pod programs
 - kill shit lmao
+
+#### questing
+- barricade jump, general questing route
+
+#### actual desert with sand
+- Desert camp route, buys
+- transporter clip and oob after
+- desert barricade clip, no oob 
+- sandslides
+- pod C
+- stoopid roc™
+- housing skip with voidout
+
+#### adam pit
+- kill shit (don spawns)
+- kill donovan
+- kill shit
+
+#### adam
+- buff, dg
+- triple laser
+
+#### post desert
+- PogBox, savescum
+- go through sewer, noobspear, tree clip (equip?)
+
+### Park
+#### park1
+- lets play
+- ride coaster
+
+#### beaver
+- buff, dg, don't deal too much damage
+- androids laser lineup
+- 
