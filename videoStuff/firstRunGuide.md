@@ -2,7 +2,7 @@
 title: First Run Guide
 description: 
 published: false
-date: 2023-08-22T21:30:19.014Z
+date: 2023-09-01T18:25:04.639Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-22T17:05:54.525Z
@@ -218,7 +218,7 @@ Your content here
 - past 'L' of "Level" slowmo + SD
 - HEALBUFF 
 - shoot him down
-- got to 9S
+- go to 9S
 
 aaaaaaaaaannnnd ..... time!!! EZ!!!
 
