@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-09-01T18:38:20.334Z
+date: 2023-09-01T18:38:58.017Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -77,6 +77,7 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - Engels Balls
 - Dialogue Storage
 - Basic High Jump
+- Basic Long Jump
 
 
 
