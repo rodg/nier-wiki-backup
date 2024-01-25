@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-25T19:38:10.989Z
+date: 2024-01-25T19:38:21.606Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -81,7 +81,7 @@ The original way of doing this high jump.
 
 </td></tr> </table>
 
-<table >
+<table>
 <tr>
   <th>Weapon Set (any)</th><th></th>
 </tr>
