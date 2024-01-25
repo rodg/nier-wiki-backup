@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-25T19:32:37.522Z
+date: 2024-01-25T19:38:10.989Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -82,15 +82,16 @@ The original way of doing this high jump.
 </td></tr> </table>
 
 <table >
-<tr><th>Required Weapon Set configuration</th></tr>
-<tr><td>
-
-| Weapon Set (any) | |
-| ----------- | ----------- |
-| Light Attack | [ *Large Sword* ] |
-| Heavy Attack | [ *Small Sword* ] |
-
-</td></tr> </table>
+<tr>
+  <th>Weapon Set (any)</th><th></th>
+</tr>
+<tr>
+  <td>Light Attack</td><td>[ *Large Sword* ]</td>
+</tr>
+<tr>
+  <td>Heavy Attack</td><td>[ *Small Sword* ]</td>
+</tr>
+</table>
 
 In prologue this will correspond to **Weapon Set 2**.
 Using this Weapon Set, do the following combo to jump onto the raised bridge:
