@@ -2,7 +2,7 @@
 title: Skip List
 description: a list of skips duh
 published: true
-date: 2024-01-25T23:52:48.283Z
+date: 2024-01-25T23:55:12.667Z
 tags: skip
 editor: markdown
 dateCreated: 2024-01-24T00:20:03.711Z
@@ -15,8 +15,8 @@ dateCreated: 2024-01-24T00:20:03.711Z
 - [Crane Skip](/skips/crane-skip)
 	- Crane Skip Skip
 	- Copium Clip
-- Bridge Skip
-- Lava Out Of Bounds
+- [Bridge Skip](/skips/bridge-skip)
+- [Lava Out Of Bounds](/skips/LavaOOB)
 - new swag (engels swag)
 - wschengels
 - the engels arm punch cancel thingy
@@ -45,8 +45,8 @@ dateCreated: 2024-01-24T00:20:03.711Z
 - (mom skip)
 - commercial dialogue skip
 - rainbow road etc.
-- Forest Castle Skip
-- A2 Slow Walk Skip
+- [Forest Castle Skip](/skips/forest-castle-skip)
+- [A2 Slow Walk Skip](/skips/A2-Slow-Walk-Skip)
 - A2 chase skip
 ### Grün
 - the plunge down to flooded thing
@@ -68,7 +68,7 @@ dateCreated: 2024-01-24T00:20:03.711Z
 - sushi elevator skip
 - sushi iframe chillout
 - shabu skip
-- Trash Trick
+- [Trash Trick](/skips/trash_trick)
 ### Boss Rush
 - knockdown skip
 - pascal dialogue skip
