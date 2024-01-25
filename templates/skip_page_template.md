@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2023-07-14T22:42:00.498Z
+date: 2024-01-25T17:56:26.605Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -36,6 +36,23 @@ The downside being that you lose time switching weapons in the menu.
 
 Required Weapon Set configuration: <img align="right" width="444" height="250" src="/templates/variation_thumbnail.jpg"> 
 
+<table>
+<tr><th>Required Weapon Set configuration</th><th></th></tr>
+<tr><td>
+
+| Weapon Set 1 |  |
+| ----------- | ----------- |
+| Light Attack 	| [ *Any* ] |
+| Heavy Attack | Bare Fist |
+
+</td><td>
+
+| Weapon Set 2 |  |
+| ----------- | ----------- |
+| Light Attack 	| [ *Large Sword* ] |
+| Heavy Attack | [ *Small Sword* ] |
+
+</td></tr> </table>
 
 | Weapon Set 1 |  |  | Weapon Set 2 |  |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
