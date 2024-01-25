@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-25T17:56:26.605Z
+date: 2024-01-25T17:59:07.467Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -34,7 +34,7 @@ The different ways to do this trick ordered in increasing difficulty.
 This version is the easiest because it makes use of the fact that a bare fist lift gains a lot more height than the one with the small sword that we usually use.
 The downside being that you lose time switching weapons in the menu.
 
-Required Weapon Set configuration: <img align="right" width="444" height="250" src="/templates/variation_thumbnail.jpg"> 
+<img align="right" width="444" height="250" src="/templates/variation_thumbnail.jpg">
 
 <table>
 <tr><th>Required Weapon Set configuration</th><th></th></tr>
@@ -53,11 +53,6 @@ Required Weapon Set configuration: <img align="right" width="444" height="250" s
 | Heavy Attack | [ *Small Sword* ] |
 
 </td></tr> </table>
-
-| Weapon Set 1 |  |  | Weapon Set 2 |  |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| Light Attack 	| [ *Any* ] | | Light Attack 	| [ *Large Sword* ] |
-| Heavy Attack | Bare Fist | | Heavy Attack | [ *Small Sword* ] |
 
 Assuming you're doing this in prologue you'll just have to swap **Virtuous Treaty** for **Bare Fist** in **Weapon Set 1**.
 Switch to **Weapon Set 1** and do the following combo to jump onto the raised bridge:
