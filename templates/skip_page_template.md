@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-25T19:38:21.606Z
+date: 2024-01-25T19:40:16.075Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -36,23 +36,29 @@ The downside being that you lose time switching weapons in the menu.
 
 <img align="right" width="444" height="250" src="/templates/variation_thumbnail.jpg">
 
+<table style="float:left">
+<tr>
+  <th>Weapon Set 1</th><th></th>
+</tr>
+<tr>
+  <td>Light Attack</td><td>[ *Any* ]</td>
+</tr>
+<tr>
+  <td>Heavy Attack</td><td>Bare Fist</td>
+</tr>
+</table>
+
 <table>
-<tr><th>Required Weapon Set configuration</th><th></th></tr>
-<tr><td>
-
-| Weapon Set 1 |  |
-| ----------- | ----------- |
-| Light Attack 	| [ *Any* ] |
-| Heavy Attack | Bare Fist |
-
-</td><td>
-
-| Weapon Set 2 |  |
-| ----------- | ----------- |
-| Light Attack 	| [ *Large Sword* ] |
-| Heavy Attack | [ *Small Sword* ] |
-
-</td></tr> </table>
+<tr>
+  <th>Weapon Set 2</th><th></th>
+</tr>
+<tr>
+  <td>Light Attack</td><td>[ *Large Sword* ]</td>
+</tr>
+<tr>
+  <td>Heavy Attack</td><td>[ *Small Sword* ]</td>
+</tr>
+</table>
 
 Assuming you're doing this in prologue you'll just have to swap **Virtuous Treaty** for **Bare Fist** in **Weapon Set 1**.
 Switch to **Weapon Set 1** and do the following combo to jump onto the raised bridge:
@@ -69,17 +75,6 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 The original way of doing this high jump.
 
 <img align="right" width="444" height="250" src="/templates/variation_thumbnail.jpg"> 
-
-<table style="float:left">
-<tr><th>Required Weapon Set configuration</th></tr>
-<tr><td>
-
-| Weapon Set (any) | |
-| ----------- | ----------- |
-| Light Attack | [ *Large Sword* ] |
-| Heavy Attack | [ *Small Sword* ] |
-
-</td></tr> </table>
 
 <table>
 <tr>
