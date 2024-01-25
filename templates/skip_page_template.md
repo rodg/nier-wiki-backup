@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-25T17:59:07.467Z
+date: 2024-01-25T18:00:44.482Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -68,8 +68,18 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 ## Variation 2
 The original way of doing this high jump.
 
-Required Weapon Set configuration: <img align="right" width="444" height="250" src="/templates/variation_thumbnail.jpg"> 
+<img align="right" width="444" height="250" src="/templates/variation_thumbnail.jpg"> 
 
+<table>
+<tr><th>Required Weapon Set configuration</th><th></th></tr>
+<tr><td>
+
+| Weapon Set (any) | |
+| ----------- | ----------- |
+| Light Attack | [ *Large Sword* ] |
+| Heavy Attack | [ *Small Sword* ] |
+
+</td></tr> </table>
 
 | Weapon Set (any) | |
 | ----------- | ----------- |
