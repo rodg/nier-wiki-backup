@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-25T18:01:40.441Z
+date: 2024-01-25T18:03:19.252Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -80,11 +80,6 @@ The original way of doing this high jump.
 | Heavy Attack | [ *Small Sword* ] |
 
 </td></tr> </table>
-
-| Weapon Set (any) | |
-| ----------- | ----------- |
-| Light Attack | [ *Large Sword* ] |
-| Heavy Attack | [ *Small Sword* ] |
 
 In prologue this will correspond to **Weapon Set 2**.
 Using this Weapon Set, do the following combo to jump onto the raised bridge:
