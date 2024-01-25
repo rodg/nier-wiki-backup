@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-25T18:00:44.482Z
+date: 2024-01-25T18:01:40.441Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -71,7 +71,7 @@ The original way of doing this high jump.
 <img align="right" width="444" height="250" src="/templates/variation_thumbnail.jpg"> 
 
 <table>
-<tr><th>Required Weapon Set configuration</th><th></th></tr>
+<tr><th>Required Weapon Set configuration</th></tr>
 <tr><td>
 
 | Weapon Set (any) | |
