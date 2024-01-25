@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-25T19:49:11.278Z
+date: 2024-01-25T19:49:23.959Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -48,7 +48,7 @@ The downside being that you lose time switching weapons in the menu.
 </tr>
 </table>
 
-<table margin-left=10px>
+<table margin-left=100px>
 <tr>
   <th>Weapon Set 2</th><th></th>
 </tr>
