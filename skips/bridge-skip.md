@@ -2,8 +2,8 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2023-07-31T10:42:59.567Z
-tags: prologue, factory, a2, 2b
+date: 2024-01-26T13:24:07.529Z
+tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
 ---
