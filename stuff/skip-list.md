@@ -2,7 +2,7 @@
 title: Skip List
 description: a list of skips duh
 published: true
-date: 2024-01-26T00:02:21.734Z
+date: 2024-01-26T00:32:16.443Z
 tags: skip
 editor: markdown
 dateCreated: 2024-01-24T00:20:03.711Z
@@ -17,7 +17,9 @@ dateCreated: 2024-01-24T00:20:03.711Z
 	- Copium Clip
 - [Bridge Skip](/skips/bridge-skip)
 - [Lava Out Of Bounds](/skips/LavaOOB)
-- new swag (engels swag)
+- engels swag
+	- new swag
+	- pod launch swag
 - wschengels
 - the engels arm punch cancel thingy
 ### Desert
