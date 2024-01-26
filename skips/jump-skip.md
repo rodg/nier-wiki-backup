@@ -2,8 +2,8 @@
 title: Jump Skip
 description: 
 published: true
-date: 2024-01-26T13:21:05.571Z
-tags: skip, prologue, factory
+date: 2024-01-26T13:25:08.726Z
+tags: skip, prologue, factory, 2b
 editor: markdown
 dateCreated: 2024-01-26T13:21:05.571Z
 ---
