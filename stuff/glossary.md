@@ -2,7 +2,7 @@
 title: primitive glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2023-09-01T18:38:58.017Z
+date: 2024-01-26T00:41:38.718Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -11,36 +11,16 @@ dateCreated: 2023-08-14T00:15:50.224Z
 > Very unorganized cause i can't organize shit its hard okay
 {.is-danger}
 
+> edit: I started categorizing shit but for some idk what they are
 
-- Dash Chaining
-- Dash Punching
-- Dash Swinging
-- Spear Dashing
-- Missile Chaining
-- Lift
-	- Delayed Lift
-	- Double Lift
 - Plunge
 	- Delayed Plunge
-- Plunge Glitch (PG)
-- InfiniSlashing
-- Weapon Swap Combo Reset (WSCR)
-- Dash Light
-	- Dash Stab
-  - Swap Stab
+
 - Roll
-- HeavyHold
-- LightHold
-- Damage Glitch (DG)
-	- Delayed DG
-- Double Damage Glitch (DDG)
-- Pod Glide
-	- Glide Buffering
-- Pod Spin
-	- Pod Spin Vectoring
-- Pod Launch
-	- Marky Launch
-- Slow-Mo
+
+
+
+
 - Pod Pat
 	- God Pat
 - Self Destruct (SD)
@@ -49,21 +29,10 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - 4B Manip
 - Circle Wave
 - Shmup
-- Jump Skip
-- Thresholding
-- Crane Skip
-- Crane Skip Skip
-- Copium Clip (Crane Skip Skip Skip)
-- Bridge Skip
-- Lava Out of Bounds (Lava OOB)
-- God Laser
-- Engels Swag 
-	- New Swag
-  - PodLaunch Swag
-- (Engels) Double Hit
+
 - BF Kick
 - Shortcut Charging
-- Stupid Rock™
+
 - JeakRock
 - InfiniFall Boxes
 - Sprint Glitch
@@ -73,24 +42,58 @@ dateCreated: 2023-08-14T00:15:50.224Z
 - Pod Glitch
 - Cutscene Duping
 - Double Drops/XP
-- Hit Lag
+
 - Engels Balls
 - Dialogue Storage
-- Basic High Jump
-- Basic Long Jump
+
 
 
 
 (some shit are both movement and combat idk where to put them aloyarStress)
 
 # Movement
+- Dash Chaining
+- Dash Punching
+- Dash Swinging
+- Spear Dashing
+- Missile Chaining
+- Lift
+	- Delayed Lift
+	- Double Lift
+- Plunge Glitch (PG)
+- InfiniSlashing
+- Weapon Swap Combo Reset (WSCR)
+- Dash Light
+	- Dash Stab
+	- Swap Stab
+- HeavyHold
+- LightHold
+- Pod Glide
+	- Glide Buffering
+- Pod Spin
+	- Pod Spin Vectoring
+- Pod Launch
+	- Marky Launch
+- Stupid Rock™
+- Basic High Jump
+- Basic Long Jump
 # Combat
+- Damage Glitch (DG)
+	- Delayed DG
+- Double Damage Glitch (DDG)
+- Slow-Mo
+- Thresholding
+- God Laser
+- (Engels) Double Hit
+- Hit Lag
 # Pod Tech
+> is this category necessary?
 # Misc
 
 
 # Skips/Tricks/Movements List
 ideally in order of appearance
+> at least the skips are now [here](/stuff/skip-list)
 
 ## Prologue?
 ## [A]
