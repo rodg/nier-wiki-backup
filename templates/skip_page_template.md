@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-26T13:52:55.414Z
+date: 2024-01-26T14:14:25.881Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
