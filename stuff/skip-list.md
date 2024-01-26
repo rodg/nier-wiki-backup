@@ -2,7 +2,7 @@
 title: Skip List
 description: a list of skips duh
 published: true
-date: 2024-01-26T13:03:05.360Z
+date: 2024-01-26T13:04:50.605Z
 tags: skip
 editor: markdown
 dateCreated: 2024-01-24T00:20:03.711Z
