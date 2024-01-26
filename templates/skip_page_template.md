@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-26T13:49:06.438Z
+date: 2024-01-26T13:50:46.531Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -39,7 +39,7 @@ The downside being that you lose time switching weapons in the menu.
   <th>Weapon Set 1</th><th></th>
 </tr>
 <tr>
-  <td>Light Attack</td><td>[ *Any* ]</td>
+  <td>Light Attack</td><td>[ <i>Any</i> ]</td>
 </tr>
 <tr>
   <td>Heavy Attack</td><td>Bare Fist</td>
@@ -51,10 +51,10 @@ The downside being that you lose time switching weapons in the menu.
   <th>Weapon Set 2</th><th></th>
 </tr>
 <tr>
-  <td>Light Attack</td><td>[ *Large Sword* ]</td>
+  <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
 </tr>
 <tr>
-  <td>Heavy Attack</td><td>[ *Small Sword* ]</td>
+  <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
 </tr>
 </table>
 
