@@ -2,13 +2,17 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-26T14:14:25.881Z
+date: 2024-01-26T14:35:20.817Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
 ---
 
-Area: <!-- Factory / City Ruins {pre Engels / post Engles / Tower} / Resistance Camp / Desert / Amusement Park / Pascal's Village / Forest / Flooded City / Copied City / Deep Factory / Commercial / Tower / Emil's Home --> <img align="right" width="237" height="200" src="/templates/skip_page_thumbnail.jpg">
+<div style="float:right; text-align:center">
+  <img width="237" height="200" src="/templates/skip_page_thumbnail.jpg"><br>
+  <i>Image description</i>
+</div>
+Area: <!-- Factory / City Ruins {pre Engels / post Engles / Tower} / Resistance Camp / Desert / Amusement Park / Pascal's Village / Forest / Flooded City / Copied City / Deep Factory / Commercial / Tower / Emil's Home --><br>
 Character: <!-- 2B, A2, 9S -->
 
 <br>
