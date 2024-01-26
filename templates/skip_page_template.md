@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-26T14:38:31.392Z
+date: 2024-01-26T14:40:32.829Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -35,10 +35,14 @@ The different ways to do this trick ordered in increasing difficulty.
 
 # Variation Tabs {.tabset}
 ## Variation 1
+<div style="float:right; text-align:center">
+  <img width="444" height="250" src="/templates/variation_thumbnail.jpg"><br>
+  <i>Image description</i>
+</div>
 This version is the easiest because it makes use of the fact that a bare fist lift gains a lot more height than the one with the small sword that we usually use.
 The downside being that you lose time switching weapons in the menu.
 
-<img align="right" width="444" height="250" src="/templates/variation_thumbnail.jpg">
+<!--<img align="right" width="444" height="250" src="/templates/variation_thumbnail.jpg">-->
 
 <table style="float:left">
 <tr>
