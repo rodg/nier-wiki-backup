@@ -2,7 +2,7 @@
 title: Skip List
 description: a list of skips duh
 published: true
-date: 2024-01-26T12:54:28.480Z
+date: 2024-01-26T12:59:52.810Z
 tags: skip
 editor: markdown
 dateCreated: 2024-01-24T00:20:03.711Z
@@ -57,20 +57,18 @@ dateCreated: 2024-01-24T00:20:03.711Z
 - Flight Unit Dialogue Skip
 - Triple Mortar Shot
 ### Copied City
-- drown warp
-- sewer clip
-- mansplaining skip
+- Drown Warp
+- Sewer Clip
+- Mansplaining Skip
 ### Factory
-- resistance camp dialogue skips
-- outrunning pascal to factory
-- pascal dialogue skip
-- mooks room dialogue skip
-- elevator skip
+- Resistance Camp Dialogue Skips
+- Pascal Dialogue Skip
+- Mooks Room Dialogue Skip
+- Mooks Room Fight Skip
 - eat ass 9S
-- factory v1/v2
-- sushi elevator skip
-- sushi iframe chillout
-- shabu skip
+- Factory V1 / V2
+- So-Shi Slevator skip
+- Shabu Skip
 - [Trash Trick](/skips/trash_trick)
 ### Boss Rush
 - knockdown skip
