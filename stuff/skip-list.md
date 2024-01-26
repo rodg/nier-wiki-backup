@@ -2,7 +2,7 @@
 title: Skip List
 description: a list of skips duh
 published: true
-date: 2024-01-26T13:04:50.605Z
+date: 2024-01-26T13:21:34.064Z
 tags: skip
 editor: markdown
 dateCreated: 2024-01-24T00:20:03.711Z
@@ -10,7 +10,7 @@ dateCreated: 2024-01-24T00:20:03.711Z
 
 # [A]
 ### Prologue
-- Jump skip
+- [Jump skip](/skips/jump-skip)
 - Marx-1 Dialogue Cancel
 - [Crane Skip](/skips/crane-skip)
 	- Crane Skip Skip
