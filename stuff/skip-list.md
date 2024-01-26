@@ -2,7 +2,7 @@
 title: Skip List
 description: a list of skips duh
 published: true
-date: 2024-01-26T12:42:49.886Z
+date: 2024-01-26T12:54:28.480Z
 tags: skip
 editor: markdown
 dateCreated: 2024-01-24T00:20:03.711Z
@@ -33,28 +33,29 @@ dateCreated: 2024-01-24T00:20:03.711Z
 - Box Clip
 - p Hole
 ### Amusement Park
-- park barricade skip
-- park discovery skip
-- rollercoaster skip
-- door clip
+- Park Barricade Skip
+- Park Discovery Skip
+- Rollercoaster Skip
+- Door Clip
 ### Negotiations
-- village box skip
-- death warp
-- obama clip
-- city engels 1 skip
-- negotiations skip
+- Village Box Clip
+- Death Warp
+- Obama Clip
+- City Engels Skip
+- Negotiations Skip
 ### Forest
-- (mom skip)
-- commercial dialogue skip
-- rainbow road etc.
+- Mom Skip (obsolete)
+- Commercial Dialogue Skip
+- Castle Moat Skip
+	- Mario Kart (obsolete)
+	- Rainbow Road
 - [Forest Castle Skip](/skips/forest-castle-skip)
 - [A2 Slow Walk Skip](/skips/A2-Slow-Walk-Skip)
-- A2 chase skip
+- A2 Chase Skip
 ### Grün
-- the plunge down to flooded thing
-- post shore fight dialogue skip
-- triple mortar shot
-- when to skip cutscenes aloyarHa
+- Flooded City Skip
+- Flight Unit Dialogue Skip
+- Triple Mortar Shot
 ### Copied City
 - drown warp
 - sewer clip
