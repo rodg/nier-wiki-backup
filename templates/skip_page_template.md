@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-26T13:46:52.200Z
+date: 2024-01-26T13:49:06.438Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -20,7 +20,7 @@ This is a consize overview of what this skip is, why it is done and what definin
 
 # Variations
 The different ways to do this trick ordered in increasing difficulty.
-(if difficulty ambiguous in meta relevant order)
+<!-- if difficulty ambiguous in meta relevant order -->
 | Variation   | Timesave    |
 | ----------- | ----------- |
 | Variation 1	| XXs					|
