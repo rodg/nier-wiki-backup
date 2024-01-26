@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-26T14:40:51.382Z
+date: 2024-01-26T14:41:43.916Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -35,7 +35,7 @@ The different ways to do this trick ordered in increasing difficulty.
 
 # Variation Tabs {.tabset}
 ## Variation 1
-<div style="float:right; text-align:center">
+<div style="float:right; text-align:center; margin:20px">
   <img width="444" height="250" src="/templates/variation_thumbnail.jpg"><br>
   <i>Image description</i>
 </div>
