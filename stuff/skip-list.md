@@ -2,7 +2,7 @@
 title: Skip List
 description: a list of skips duh
 published: true
-date: 2024-01-26T00:41:28.269Z
+date: 2024-01-26T12:42:49.886Z
 tags: skip
 editor: markdown
 dateCreated: 2024-01-24T00:20:03.711Z
@@ -10,28 +10,28 @@ dateCreated: 2024-01-24T00:20:03.711Z
 
 # [A]
 ### Prologue
-- jump up skip
-- marx1 dialogue cancel
+- Jump skip
+- Marx-1 Dialogue Cancel
 - [Crane Skip](/skips/crane-skip)
 	- Crane Skip Skip
 	- Copium Clip
 - [Bridge Skip](/skips/bridge-skip)
 - [Lava Out Of Bounds](/skips/LavaOOB)
-- engels swag
-	- new swag
-	- pod launch swag
+- Engels Swag
+	- New Swag
+	- Pod Launch Swag
 - wschengels
-- the engels arm punch cancel thingy
+- Engels Double Hit
 ### Desert
-- be sure to save often skip
-- first desert clipout
-- desert barricade skip
-- desert discovery skip
-- housing skip
-- early don
-- sword dodge skip
-- box clip
-- p hole
+- 9S Dialogue skip
+- Desert Transporter Clip
+- Desert Barricade Skip
+- Desert Discovery Skip
+- Desert Housing Skip
+- Early Don
+- Sword Dodge Skip
+- Box Clip
+- p Hole
 ### Amusement Park
 - park barricade skip
 - park discovery skip
