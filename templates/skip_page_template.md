@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-26T13:50:46.531Z
+date: 2024-01-26T13:51:08.670Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -79,10 +79,10 @@ The original way of doing this high jump.
   <th>Weapon Set (any)</th><th></th>
 </tr>
 <tr>
-  <td>Light Attack</td><td>[ *Large Sword* ]</td>
+  <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
 </tr>
 <tr>
-  <td>Heavy Attack</td><td>[ *Small Sword* ]</td>
+  <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
 </tr>
 </table>
 
