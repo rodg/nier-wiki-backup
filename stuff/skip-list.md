@@ -2,7 +2,7 @@
 title: Skip List
 description: a list of skips duh
 published: true
-date: 2024-01-26T12:59:52.810Z
+date: 2024-01-26T13:03:05.360Z
 tags: skip
 editor: markdown
 dateCreated: 2024-01-24T00:20:03.711Z
@@ -62,7 +62,7 @@ dateCreated: 2024-01-24T00:20:03.711Z
 - Mansplaining Skip
 ### Factory
 - Resistance Camp Dialogue Skips
-- Pascal Dialogue Skip
+- Factory Pascal Dialogue Skip
 - Mooks Room Dialogue Skip
 - Mooks Room Fight Skip
 - eat ass 9S
@@ -71,5 +71,5 @@ dateCreated: 2024-01-24T00:20:03.711Z
 - Shabu Skip
 - [Trash Trick](/skips/trash_trick)
 ### Boss Rush
-- knockdown skip
-- pascal dialogue skip
+- Knockdown Skip
+- Core-2 Pascal Dialogue Skip
