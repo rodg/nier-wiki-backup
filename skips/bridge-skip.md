@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T09:50:18.924Z
+date: 2024-01-27T09:51:16.038Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -21,8 +21,6 @@ The main difficulty is getting the height needed to land on top of the bridge.
 
 ## Bare Fist (XXs)
 This version uses a Bare Fist Lift which gives more height than a Small Sword Lift. The downside is that you lose time switching weapons in the menu.
-
-Required Weapon Set configuration: 
 
 <table style="float:left">
 <tr>
@@ -118,8 +116,6 @@ Walking against the part of the stack not covered by a tarp do the following com
 
 ## Regular (XXs)
 The original way of doing this high jump.
-
-Required Weapon Set configuration:
 
 <table>
 <tr>
