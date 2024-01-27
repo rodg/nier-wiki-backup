@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-26T13:24:07.529Z
+date: 2024-01-27T09:42:37.778Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -24,10 +24,29 @@ This version uses a Bare Fist Lift which gives more height than a Small Sword Li
 
 Required Weapon Set configuration: 
 
-| Weapon Set 1 |  |  | Weapon Set 2 |  |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| Light Attack 	| [ *Any* ] | | Light Attack 	| [ *Large Sword* ] |
-| Heavy Attack | Bare Fist | | Heavy Attack | [ *Small Sword* ] |
+<table style="float:left">
+<tr>
+  <th>Weapon Set 1</th><th></th>
+</tr>
+<tr>
+  <td>Light Attack</td><td>[ <i>Any</i> ]</td>
+</tr>
+<tr>
+  <td>Heavy Attack</td><td>Bare Fist</td>
+</tr>
+</table>
+
+<table>
+<tr>
+  <th>Weapon Set 2</th><th></th>
+</tr>
+<tr>
+  <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
+</tr>
+<tr>
+  <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
+</tr>
+</table>
 
 Assuming you're doing this in prologue you'll just have to swap **Virtuous Treaty** for **Bare Fist** in **Weapon Set 1**.
 Switch to **Weapon Set 1** and do the following combo to jump onto the raised bridge:
