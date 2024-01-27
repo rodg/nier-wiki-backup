@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T11:06:11.279Z
+date: 2024-01-27T11:06:27.051Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -118,7 +118,7 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 - Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
 - The second Light Attack needs to be done during the ascending phase of your jump.
 
-<div style="margin-top:300px;">
+<div style="margin-top:20px;">
   <i>Video description</i><br>
   <iframe width="400" height="225" style="border:none;"
   src="https://www.youtube.com/embed/AnplpZwYnOE">
