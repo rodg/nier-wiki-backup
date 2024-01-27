@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T10:11:26.007Z
+date: 2024-01-27T10:12:56.530Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -56,7 +56,8 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 <br>
 
-<iframe width="400" height="225" style="border:none;" src="https://www.youtube.com/embed/Ob2Zp-lc6Uo"> </iframe>
+<iframe width="400" height="225" style="border:none;" src="https://www.youtube.com/embed/Ob2Zp-lc6Uo">
+</iframe>
 
 
 ### Notes:
@@ -101,7 +102,8 @@ Walking against the part of the stack not covered by a tarp do the following com
 
 <br>
 
-<iframe src="https://www.youtube.com/embed/5IJGb9aKPZc"> </iframe>
+<iframe width="400" height="225" style="border:none;" src="https://www.youtube.com/embed/5IJGb9aKPZc">
+</iframe>
 
 
 ### Notes:
@@ -138,8 +140,7 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 
 <br>
 
-<iframe width="800" height="450"
-src="https://www.youtube.com/embed/AnplpZwYnOE">
+<iframe width="400" height="225" style="border:none;" src="https://www.youtube.com/embed/AnplpZwYnOE">
 </iframe> 
 
 ### Notes:
@@ -186,8 +187,7 @@ Now do the following combo to reach the top of the raised bridge:
 ### Video:
 <br>
 
-<iframe width="800" height="450"
-src="https://www.youtube.com/embed/kyr9LJj067s">
+<iframe width="400" height="225" style="border:none;" src="https://www.youtube.com/embed/kyr9LJj067s">
 </iframe> 
 
 ### Notes:
