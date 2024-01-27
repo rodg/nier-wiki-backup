@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T10:47:07.527Z
+date: 2024-01-27T10:48:46.503Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -81,7 +81,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 This version utilizes a stack of girders to double lift from for a ton of extra height, reducing the timing precision required to reach the top of the bridge. 
 
-<table>
+<table style="float:left; margin-right:20px">
 <tr>
   <th>Weapon Set (any)</th><th></th>
 </tr>
@@ -125,7 +125,7 @@ Walking against the part of the stack not covered by a tarp do the following com
 ## Regular (XXs)
 The original way of doing this high jump.
 
-<table>
+<table style="float:left; margin-right:20px">
 <tr>
   <th>Weapon Set (any)</th><th></th>
 </tr>
@@ -136,6 +136,9 @@ The original way of doing this high jump.
   <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
 </tr>
 </table>
+<div style="margin-top:130px">
+	<a href="/intro/weapon-sets">?</a>
+</div>
 
 In prologue this will correspond to **Weapon Set 2**.
 Using this Weapon Set, do the following combo to jump onto the raised bridge:
@@ -168,7 +171,7 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 *Might also be referred to as "Lightless Bridge Skip" / "Lightless" or "Podspin Bridge Skip"* 
 The fastest version of the trick, utilizing extra height from the barrels next to the exit of Silo 2.
 
-<table>
+<table style="float:left; margin-right:20px">
 <tr>
   <th>Weapon Set (any)</th><th></th>
 </tr>
@@ -179,6 +182,9 @@ The fastest version of the trick, utilizing extra height from the barrels next t
   <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
 </tr>
 </table>
+<div style="margin-top:130px">
+	<a href="/intro/weapon-sets">?</a>
+</div>
 
 In prologue this will correspond to **Weapon Set 2**.
 
