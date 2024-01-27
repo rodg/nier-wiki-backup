@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T11:43:43.040Z
+date: 2024-01-27T11:43:54.560Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -255,7 +255,7 @@ Now do the following combo to reach the top of the raised bridge:
 Start holding Dash during the plunge. This will skip the slam into the ground and start your dash instantly.
 
 After this dash, there are a couple of different ways to get to the other side.
-
+<br>
 # p {.tabset}
 ## Optimal Version
 
