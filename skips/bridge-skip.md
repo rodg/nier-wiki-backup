@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T11:51:55.216Z
+date: 2024-01-27T11:57:37.349Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -12,6 +12,7 @@ dateCreated: 2023-06-28T16:57:03.484Z
   <img width="250" height="200" src="/assets/skips/bridge_skip/thumbnail_smol.jpg"><br>
   <i>Image description</i>
 </div>-->
+<p style="background-image: url('/assets/skips/bridge_skip/thumbnail_smol.jpg');"> 
 Area: Factory
 Character: 2B, A2
 
