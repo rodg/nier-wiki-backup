@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T12:29:21.801Z
+date: 2024-01-27T12:29:50.177Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -292,8 +292,8 @@ Swapping WS during a Dash will cut it off, so after getting to the other side, s
 <div style="margin-top:290px"></div>
 
 # pp
-<tabset><template v-slot:tabs><li>aloyarHa</li><li>jaynoOh</li>
-</template><template v-slot:content><div class="tabset-panel">
+<tabset><template v-slot:tabs><li>aloyarHa</li><li>jaynoOh</li></template>
+<template v-slot:content><div class="tabset-panel">
   <p>p</p>
 </div><div class="tabset-panel">
   <p>stinky</p>
