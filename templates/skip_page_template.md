@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T10:03:32.255Z
+date: 2024-01-27T10:52:13.031Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -43,7 +43,8 @@ The different ways to do this trick ordered in increasing difficulty.
 This version is the easiest because it makes use of the fact that a bare fist lift gains a lot more height than the one with the small sword that we usually use.
 The downside being that you lose time switching weapons in the menu.
 
-<table style="float:left">
+<br>
+<table style="float:left; margin-right:20px">
 <tr>
   <th>Weapon Set 1</th><th></th>
 </tr>
@@ -55,9 +56,9 @@ The downside being that you lose time switching weapons in the menu.
 </tr>
 </table>
 
-<table>
+<table style="float:left; margin-right:20px">
 <tr>
-  <th>Weapon Set 2</th><th align="right"><a href="/intro/weapon-sets">?</a></th>
+  <th>Weapon Set 2</th><th></th>
 </tr>
 <tr>
   <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
@@ -66,6 +67,10 @@ The downside being that you lose time switching weapons in the menu.
   <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
 </tr>
 </table>
+<div style="margin-top:130px">
+	<a href="/intro/weapon-sets">?</a>
+</div>
+<br>
 
 Assuming you're doing this in prologue you'll just have to swap **Virtuous Treaty** for **Bare Fist** in **Weapon Set 1**.
 Switch to **Weapon Set 1** and do the following combo to jump onto the raised bridge:
