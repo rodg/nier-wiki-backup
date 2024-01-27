@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T10:45:40.076Z
+date: 2024-01-27T10:47:07.527Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -36,7 +36,7 @@ This version uses a Bare Fist Lift which gives more height than a Small Sword Li
 
 <table style="float:left; margin-right:20px">
 <tr>
-  <th>Weapon Set 2</th><th align="right"><a href="/intro/weapon-sets">?</a></th>
+  <th>Weapon Set 2</th><th></th>
 </tr>
 <tr>
   <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
@@ -83,7 +83,7 @@ This version utilizes a stack of girders to double lift from for a ton of extra 
 
 <table>
 <tr>
-  <th>Weapon Set (any)</th><th align="right"><a href="/intro/weapon-sets">?</a></th>
+  <th>Weapon Set (any)</th><th></th>
 </tr>
 <tr>
   <td>Light Attack</td><td>[ <i>Any</i> ]</td>
@@ -92,6 +92,9 @@ This version utilizes a stack of girders to double lift from for a ton of extra 
   <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
 </tr>
 </table>
+<div style="margin-top:130px">
+	<a href="/intro/weapon-sets">?</a>
+</div>
 
 In Prologue this will correspond to **Weapon Set 2**.
 Using this Weapon Set walk up to the left side of
@@ -124,7 +127,7 @@ The original way of doing this high jump.
 
 <table>
 <tr>
-  <th>Weapon Set (any)</th><th align="right"><a href="/intro/weapon-sets">?</a></th>
+  <th>Weapon Set (any)</th><th></th>
 </tr>
 <tr>
   <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
@@ -167,7 +170,7 @@ The fastest version of the trick, utilizing extra height from the barrels next t
 
 <table>
 <tr>
-  <th>Weapon Set (any)</th><th align="right"><a href="/intro/weapon-sets">?</a></th>
+  <th>Weapon Set (any)</th><th></th>
 </tr>
 <tr>
   <td>Light Attack</td><td>[ <i>Any</i> ]</td>
