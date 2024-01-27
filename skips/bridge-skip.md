@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T09:48:46.137Z
+date: 2024-01-27T09:50:18.924Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -165,8 +165,6 @@ src="https://www.youtube.com/embed/AnplpZwYnOE">
 *Might also be referred to as "Lightless Bridge Skip" / "Lightless" or "Podspin Bridge Skip"* 
 The fastest version of the trick, utilizing extra height from the barrels next to the exit of Silo 2.
 
-Required Weapon Set configuration:
-
 <table>
 <tr>
   <th>Weapon Set (any)</th><th></th>
@@ -195,7 +193,6 @@ Now do the following combo to reach the top of the raised bridge:
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/kyr9LJj067s">
 </iframe> 
-
 
 ### Notes:
 
