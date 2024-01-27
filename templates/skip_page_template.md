@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T10:57:46.979Z
+date: 2024-01-27T10:58:57.317Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -117,13 +117,11 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 - The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
 - Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
 - The second Light Attack needs to be done during the ascending phase of your jump.
-### {.tabset}
-#### Video Demo
+
 <iframe width="400" height="225"
 src="https://www.youtube.com/embed/AnplpZwYnOE">
 </iframe> 
 
-#### Video Tutorial
 <iframe width="400" height="225"
 src="https://www.youtube.com/embed/AnplpZwYnOE">
 </iframe> 
