@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T11:28:38.411Z
+date: 2024-01-27T11:30:06.134Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -73,13 +73,12 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 **Lift &rarr; Switch WS &rarr; Light &rarr; Heavy &rarr; Jump &rarr; Light &rarr; Heavy &rarr; Plunge**
 <br>
 
-### Video
-
+### Notes
+- The lift should be a delayed lift.
+- The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
+- Make sure you're getting the maximum height from your actions, don't rush your inputs!
+- The second Light Attack needs to be done during the ascending phase of your jump.
 <br>
-
-<iframe width="400" height="225" style="border:none;" src="https://www.youtube.com/embed/Ob2Zp-lc6Uo">
-</iframe>
-
 
 <div style="float:left; margin:20px;">
   <h3>Demo</h3><br>
@@ -95,16 +94,6 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
   </iframe>
 </div>
 <div style="margin-top:320px"></div>
-
-
-### Notes
-- The lift should be a delayed lift.
-- The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
-- Make sure you're getting the maximum height from your actions, don't rush your inputs!
-- The second Light Attack needs to be done during the ascending phase of your jump.
-<br>
-
-### Troubleshooting:
 
 
 ## Double Lift
