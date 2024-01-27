@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T09:43:55.984Z
+date: 2024-01-27T09:48:46.137Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -72,10 +72,12 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 
 ## Double Lift (XXs)
+<div style="float:right; text-align:center; margin:20px">
+  <img width="444" height="250" src="/assets/skips/bridge_skip/girderstack.jpg"><br>
+  <i>Steel beams used to double lift off of</i>
+</div>
 
 This version utilizes a stack of girders to double lift from for a ton of extra height, reducing the timing precision required to reach the top of the bridge. 
-
-Required Weapon Set configuration: <img align="right" width="444" height="250" src="/assets/skips/bridge_skip/girderstack.jpg"> 
 
 <table>
 <tr>
@@ -155,15 +157,27 @@ src="https://www.youtube.com/embed/AnplpZwYnOE">
 
 
 ## Barrel (XXs)
+<div style="float:right; text-align:center; margin:20px">
+  <img width="444" height="250" src="/assets/skips/bridge_skip/barrels.jpg"><br>
+  <i>Barrels used to podglide from</i>
+</div>
+
 *Might also be referred to as "Lightless Bridge Skip" / "Lightless" or "Podspin Bridge Skip"* 
 The fastest version of the trick, utilizing extra height from the barrels next to the exit of Silo 2.
 
-Required Weapon Set configuration: <img align="right" width="444" height="250" src="/assets/skips/bridge_skip/barrels.jpg">
+Required Weapon Set configuration:
 
-| Weapon Set (any) | |
-| ----------- | ----------- |
-| Light Attack | [ *Any* ] |
-| Heavy Attack | [ *Small Sword* ] |
+<table>
+<tr>
+  <th>Weapon Set (any)</th><th></th>
+</tr>
+<tr>
+  <td>Light Attack</td><td>[ <i>Any</i> ]</td>
+</tr>
+<tr>
+  <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
+</tr>
+</table>
 
 In prologue this will correspond to **Weapon Set 2**.
 
