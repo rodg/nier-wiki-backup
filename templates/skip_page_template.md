@@ -2,13 +2,13 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T11:19:41.476Z
+date: 2024-01-27T11:19:58.937Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
 ---
 
-<div style="float:right; text-align:center; margin:20px">
+<div style="float:right; text-align:center; margin-right:20px">
   <img width="237" height="200" src="/templates/skip_page_thumbnail.jpg"><br>
   <i>Image description</i>
 </div>
