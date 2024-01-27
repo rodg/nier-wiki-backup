@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T11:14:06.165Z
+date: 2024-01-27T11:14:22.700Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -95,7 +95,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
   src="https://www.youtube.com/embed/AnplpZwYnOE">
   </iframe>
 </div>
-<div style="margin-top:250px">
+<div style="margin-top:300px">
 </div>
 
 ## Variation 2
