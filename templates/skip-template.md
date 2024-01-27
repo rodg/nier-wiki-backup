@@ -2,7 +2,7 @@
 title: Skip Page Template
 description: 
 published: true
-date: 2024-01-27T11:21:51.116Z
+date: 2024-01-27T11:25:25.609Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -21,7 +21,7 @@ Character: <!-- 2B, A2, 9S -->
 This is a consize overview of what this skip is, why it is done and what defining characteriscia are.
 
 # Variations
-The different ways to do this trick ordered in increasing difficulty.
+The different ways to do this trick ordered by increasing difficulty.
 <!-- if difficulty ambiguous in meta relevant order -->
 | Variation   | Timesave    |
 | ----------- | ----------- |
