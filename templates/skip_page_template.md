@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T10:53:05.471Z
+date: 2024-01-27T10:53:14.704Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -91,6 +91,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 The original way of doing this high jump.
 
+<br>
 <table style="float:left; margin-right:20px">
 <tr>
   <th>Weapon Set (any)</th><<th align="right"><a href="/intro/weapon-sets">?</a></th>
