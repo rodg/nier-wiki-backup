@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T10:03:13.705Z
+date: 2024-01-27T10:05:24.345Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -101,7 +101,7 @@ Walking against the part of the stack not covered by a tarp do the following com
 
 <br>
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/5IJGb9aKPZc"> </iframe>
+<iframe src="https://www.youtube.com/embed/5IJGb9aKPZc"> </iframe>
 
 
 ### Notes:
