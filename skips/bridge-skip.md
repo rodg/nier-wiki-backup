@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T12:50:02.746Z
+date: 2024-01-27T12:51:09.877Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -258,7 +258,7 @@ Start holding Dash during the plunge. This will skip the slam into the ground an
 
 After this dash, there are a couple of different ways to get to the other side.
 <br>
-<!-
+<!--
 # p {.tabset}
 ## Optimal Version
 
@@ -292,7 +292,7 @@ Swapping WS during a Dash will cut it off, so after getting to the other side, s
 </div>
 <div style="margin-top:290px"></div>
 -->
-<!--
+
 <tabset style="max-width:1280px;"><template v-slot:tabs><li>Optimal Version</li><li>Easier Version</li></template>
 <template v-slot:content>
 <div class="tabset-panel">
@@ -314,7 +314,7 @@ Swapping WS during a Dash will cut it off, so after getting to the other side, s
 </div><div class="tabset-panel">
   <p>stinky</p>
 </div></template></tabset>
--->
+
 <tabset style="max-width:1280px;"><template v-slot:tabs><li>aloyarHa</li><li>jaynoOh</li></template>
 <template v-slot:content>
 <div class="tabset-panel">
