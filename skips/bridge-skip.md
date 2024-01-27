@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T12:23:08.733Z
+date: 2024-01-27T12:25:17.360Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -291,16 +291,8 @@ Swapping WS during a Dash will cut it off, so after getting to the other side, s
 </div>
 <div style="margin-top:290px"></div>
 
-# p
-
-<tabset><template v-slot:tabs><li>Optimal Version</li><li>Easier Version</li></template>
-<template v-slot:content>
-<div class="tabset-panel">
-	<p><strong>Dash → Jump → Jump → Switch WS → Plunge</strong></p>
-
-</div>
-<div class="tabset-panel">
-  <p><strong>Dash → Jump → Podspin → Jump → Podspin → Dash</strong></p>
-</div>
-</template>
-</tabset>
+# pp {.tabset}
+## aloyarHa
+p
+## jaynoOh
+stinky
