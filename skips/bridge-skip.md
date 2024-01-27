@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T09:42:37.778Z
+date: 2024-01-27T09:43:55.984Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -77,10 +77,17 @@ This version utilizes a stack of girders to double lift from for a ton of extra 
 
 Required Weapon Set configuration: <img align="right" width="444" height="250" src="/assets/skips/bridge_skip/girderstack.jpg"> 
 
-| Weapon Set (any) | |
-| ----------- | ----------- |
-| Light Attack | [ *Any* ] |
-| Heavy Attack | [ *Small Sword* ] |
+<table>
+<tr>
+  <th>Weapon Set (any)</th><th></th>
+</tr>
+<tr>
+  <td>Light Attack</td><td>[ <i>Any</i> ]</td>
+</tr>
+<tr>
+  <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
+</tr>
+</table>
 
 In Prologue this will correspond to **Weapon Set 2**.
 Using this Weapon Set walk up to the left side of
@@ -112,10 +119,17 @@ The original way of doing this high jump.
 
 Required Weapon Set configuration:
 
-| Weapon Set (any) | |
-| ----------- | ----------- |
-| Light Attack | [ *Large Sword* ] |
-| Heavy Attack | [ *Small Sword* ] |
+<table>
+<tr>
+  <th>Weapon Set (any)</th><th></th>
+</tr>
+<tr>
+  <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
+</tr>
+<tr>
+  <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
+</tr>
+</table>
 
 In prologue this will correspond to **Weapon Set 2**.
 Using this Weapon Set, do the following combo to jump onto the raised bridge:
