@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T12:58:09.199Z
+date: 2024-01-27T12:58:24.615Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -277,7 +277,7 @@ After this dash, there are a couple of different ways to get to the other side.
     src="https://www.youtube.com/embed/KB1CLXZPtCc">
     </iframe>
   </div>
-  <!--<div style="margin-top:290px"></div>-->
+  <div style="margin-top:290px"></div>
 </div><div class="tabset-panel">
   <p>
   <b>Dash &rarr; Jump &rarr; Podspin &rarr; Jump &rarr; Podspin &rarr; Dash</b>
