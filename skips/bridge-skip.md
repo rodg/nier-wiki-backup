@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T09:51:16.038Z
+date: 2024-01-27T10:01:27.189Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -163,7 +163,7 @@ The fastest version of the trick, utilizing extra height from the barrels next t
 
 <table>
 <tr>
-  <th>Weapon Set (any)</th><th></th>
+  <th>Weapon Set (any)</th><th align="right"><a href="/intro/weapon-sets">?</a></th>
 </tr>
 <tr>
   <td>Light Attack</td><td>[ <i>Any</i> ]</td>
