@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T11:37:39.666Z
+date: 2024-01-27T11:39:39.987Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -126,7 +126,6 @@ you would go over the bridge in.
 Walking against the part of the stack not covered by a tarp do the following combo to jump onto the raised bridge:
 
 **Lift &rarr; Heavy &rarr; Lift &rarr; Jump(Hold) &rarr; Podspin &rarr; Heavy &rarr; Plunge**
-
 <br>
 - The first lift into the girders needs to be instant in order to refresh the jump so you are able to lift again.
 - It is recommended to delay the second lift.
@@ -173,7 +172,6 @@ In prologue this will correspond to **Weapon Set 2**.
 Using this Weapon Set, do the following combo to jump onto the raised bridge:
 
 **Lift &rarr; Light &rarr; Heavy &rarr; Jump &rarr; Light &rarr; Heavy &rarr; Plunge**
-
 <br>
 - Properly delaying the lift is crucial to achieve the necessary height.
 - The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
@@ -231,7 +229,6 @@ The setup for this jump begins in Silo 2:
 Now do the following combo to reach the top of the raised bridge:
 
 **Heavy &rarr; Lift &rarr; Heavy &rarr; Jump &rarr; Heavy &rarr; Plunge**
-
 <br>
 - The lift should be a delayed lift.
 - After the podspin you still have to move towards the bridge during the jump combo so 2B is up against it when you initiate the plunge.
