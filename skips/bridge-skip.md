@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T10:48:46.503Z
+date: 2024-01-27T10:50:15.408Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -22,6 +22,7 @@ The main difficulty is getting the height needed to land on top of the bridge.
 ## Bare Fist (XXs)
 This version uses a Bare Fist Lift which gives more height than a Small Sword Lift. The downside is that you lose time switching weapons in the menu.
 
+<br>
 <table style="float:left; margin-right:20px">
 <tr>
   <th>Weapon Set 1</th><th></th>
@@ -48,6 +49,7 @@ This version uses a Bare Fist Lift which gives more height than a Small Sword Li
 <div style="margin-top:130px">
 	<a href="/intro/weapon-sets">?</a>
 </div>
+<br>
 
 Assuming you're doing this in prologue you'll just have to swap **Virtuous Treaty** for **Bare Fist** in **Weapon Set 1**.
 Switch to **Weapon Set 1** and do the following combo to jump onto the raised bridge:
@@ -81,6 +83,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 This version utilizes a stack of girders to double lift from for a ton of extra height, reducing the timing precision required to reach the top of the bridge. 
 
+<br>
 <table style="float:left; margin-right:20px">
 <tr>
   <th>Weapon Set (any)</th><th></th>
@@ -95,6 +98,7 @@ This version utilizes a stack of girders to double lift from for a ton of extra 
 <div style="margin-top:130px">
 	<a href="/intro/weapon-sets">?</a>
 </div>
+<br>
 
 In Prologue this will correspond to **Weapon Set 2**.
 Using this Weapon Set walk up to the left side of
@@ -125,6 +129,7 @@ Walking against the part of the stack not covered by a tarp do the following com
 ## Regular (XXs)
 The original way of doing this high jump.
 
+<br>
 <table style="float:left; margin-right:20px">
 <tr>
   <th>Weapon Set (any)</th><th></th>
@@ -139,6 +144,7 @@ The original way of doing this high jump.
 <div style="margin-top:130px">
 	<a href="/intro/weapon-sets">?</a>
 </div>
+<br>
 
 In prologue this will correspond to **Weapon Set 2**.
 Using this Weapon Set, do the following combo to jump onto the raised bridge:
@@ -171,6 +177,7 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 *Might also be referred to as "Lightless Bridge Skip" / "Lightless" or "Podspin Bridge Skip"* 
 The fastest version of the trick, utilizing extra height from the barrels next to the exit of Silo 2.
 
+<br>
 <table style="float:left; margin-right:20px">
 <tr>
   <th>Weapon Set (any)</th><th></th>
@@ -185,6 +192,7 @@ The fastest version of the trick, utilizing extra height from the barrels next t
 <div style="margin-top:130px">
 	<a href="/intro/weapon-sets">?</a>
 </div>
+<br>
 
 In prologue this will correspond to **Weapon Set 2**.
 
