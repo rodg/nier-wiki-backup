@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T10:52:13.031Z
+date: 2024-01-27T10:53:05.471Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -91,7 +91,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 The original way of doing this high jump.
 
-<table>
+<table style="float:left; margin-right:20px">
 <tr>
   <th>Weapon Set (any)</th><<th align="right"><a href="/intro/weapon-sets">?</a></th>
 </tr>
@@ -102,6 +102,10 @@ The original way of doing this high jump.
   <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
 </tr>
 </table>
+<div style="margin-top:130px">
+	<a href="/intro/weapon-sets">?</a>
+</div>
+<br>
 
 In prologue this will correspond to **Weapon Set 2**.
 Using this Weapon Set, do the following combo to jump onto the raised bridge:
