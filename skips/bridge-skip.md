@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T11:23:14.925Z
+date: 2024-01-27T11:24:50.532Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -21,11 +21,19 @@ Character: 2B, A2
 Bridge Skip is a shortcut in Prologue performed by jumping over the raised bridge between the end of Silo 2 and the Terminal Room.
 The main difficulty is getting the height needed to land on top of the bridge.
 # Variations
-# Variation Tabs {.tabset}
+The different ways to do this trick ordered in increasing difficulty.
+<!-- if difficulty ambiguous in meta relevant order -->
+| Variation   | Timesave    |
+| ----------- | ----------- |
+| Variation 1	| XXs					|
+| Variation 2	| XXmin XXs	  |
+| (...)       | (...)       |
+
+# p {.tabset}
 
 
 
-## Bare Fist (XXs)
+## Bare Fist
 This version uses a Bare Fist Lift which gives more height than a Small Sword Lift. The downside is that you lose time switching weapons in the menu.
 
 <br>
@@ -81,7 +89,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 ### Troubleshooting:
 
 
-## Double Lift (XXs)
+## Double Lift
 <div style="float:right; text-align:center; margin:20px">
   <img width="444" height="250" src="/assets/skips/bridge_skip/girderstack.jpg"><br>
   <i>Steel beams used to double lift off of</i>
@@ -132,7 +140,7 @@ Walking against the part of the stack not covered by a tarp do the following com
 ### Troubleshooting:
 
 
-## Regular (XXs)
+## Regular
 The original way of doing this high jump.
 
 <br>
@@ -174,7 +182,7 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 ### Troubleshooting:
 
 
-## Barrel (XXs)
+## Barrel
 <div style="float:right; text-align:center; margin:20px">
   <img width="444" height="250" src="/assets/skips/bridge_skip/barrels.jpg"><br>
   <i>Barrels used to podglide from</i>
