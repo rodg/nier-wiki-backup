@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T10:01:27.189Z
+date: 2024-01-27T10:03:13.705Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -36,7 +36,7 @@ This version uses a Bare Fist Lift which gives more height than a Small Sword Li
 
 <table>
 <tr>
-  <th>Weapon Set 2</th><th></th>
+  <th>Weapon Set 2</th><th align="right"><a href="/intro/weapon-sets">?</a></th>
 </tr>
 <tr>
   <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
@@ -79,7 +79,7 @@ This version utilizes a stack of girders to double lift from for a ton of extra 
 
 <table>
 <tr>
-  <th>Weapon Set (any)</th><th></th>
+  <th>Weapon Set (any)</th><th align="right"><a href="/intro/weapon-sets">?</a></th>
 </tr>
 <tr>
   <td>Light Attack</td><td>[ <i>Any</i> ]</td>
@@ -119,7 +119,7 @@ The original way of doing this high jump.
 
 <table>
 <tr>
-  <th>Weapon Set (any)</th><th></th>
+  <th>Weapon Set (any)</th><th align="right"><a href="/intro/weapon-sets">?</a></th>
 </tr>
 <tr>
   <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
