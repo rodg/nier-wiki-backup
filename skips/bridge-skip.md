@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T12:52:29.521Z
+date: 2024-01-27T12:53:07.328Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -296,7 +296,7 @@ Swapping WS during a Dash will cut it off, so after getting to the other side, s
 <tabset style="max-width:1280px;"><template v-slot:tabs><li>Optimal Version</li><li>Easier Version</li></template>
 <template v-slot:content>
 <div class="tabset-panel">
-  <br>
+  <p>
   <b>Dash &rarr; Jump &rarr; Jump &rarr; Switch WS &rarr; Plunge</b>
 
   - The switching of Weapon Sets can be done in many places other than the one mentioned above. Most common places are before the first Dash or right before the ending Dash for the plunge.
@@ -304,7 +304,7 @@ Swapping WS during a Dash will cut it off, so after getting to the other side, s
   - Make sure to do your first Jump after your Dash ends. If not, you will get a "standing jump" which will have much less forward momentum.
 
   Swapping WS during a Dash will cut it off, so after getting to the other side, swap WS in *between* dashes.
-  <br>
+  </p>
   <div style="float:left; margin-right:20px;">
     <h3>Demo</h3><br>
     <iframe width="400" height="225" style="border:none;"
