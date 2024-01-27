@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T12:54:31.987Z
+date: 2024-01-27T12:54:45.631Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -313,10 +313,11 @@ Swapping WS during a Dash will cut it off, so after getting to the other side, s
   </div>
   <div style="margin-top:290px"></div>
 </div><div class="tabset-panel">
+  <p>
   <b>Dash &rarr; Jump &rarr; Podspin &rarr; Jump &rarr; Podspin &rarr; Dash</b>
 
   - There are many other ways to do this. The one provided is just a safe option to get you started.
-  <br>
+  </p>
   <div style="float:left; margin-right:20px;">
     <h3>Demo</h3><br>
     <iframe width="400" height="225" style="border:none;"
