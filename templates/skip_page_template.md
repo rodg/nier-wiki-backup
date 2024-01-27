@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T11:16:42.456Z
+date: 2024-01-27T11:18:02.564Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -15,11 +15,7 @@ dateCreated: 2023-07-14T21:39:02.170Z
 Area: <!-- Factory / City Ruins {pre Engels / post Engles / Tower} / Resistance Camp / Desert / Amusement Park / Pascal's Village / Forest / Flooded City / Copied City / Deep Factory / Commercial / Tower / Emil's Home -->
 Character: <!-- 2B, A2, 9S -->
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<div style="margin-top:320px"></div>
 
 # Overview
 This is a consize overview of what this skip is, why it is done and what defining characteriscia are.
