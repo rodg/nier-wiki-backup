@@ -2,7 +2,7 @@
 title: Skip Page Template
 description: 
 published: true
-date: 2024-01-27T11:25:25.609Z
+date: 2024-01-27T12:57:41.963Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -28,6 +28,18 @@ The different ways to do this trick ordered by increasing difficulty.
 | Variation 1	| XXs					|
 | Variation 2	| XXmin XXs	  |
 | (...)       | (...)       |
+
+<!-- html tabset template:
+
+<tabset style="max-width:1280px;"><template v-slot:tabs><li>aloyarHa</li><li>jaynoOh</li></template>
+<template v-slot:content>
+<div class="tabset-panel">
+  <p>p</p>
+</div><div class="tabset-panel">
+  <p>stinky</p>
+</div></template></tabset>
+
+-->
 
 # p {.tabset}
 ## Variation 1
