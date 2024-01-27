@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T11:32:17.494Z
+date: 2024-01-27T11:33:29.718Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -72,8 +72,6 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 **Lift &rarr; Switch WS &rarr; Light &rarr; Heavy &rarr; Jump &rarr; Light &rarr; Heavy &rarr; Plunge**
 <br>
-
-### Notes
 - The lift should be a delayed lift.
 - The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
 - Make sure you're getting the maximum height from your actions, don't rush your inputs!
@@ -81,14 +79,14 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 <br>
 
 <div style="float:left; margin-right:20px;">
-  <b>Demonstration</b><br>
+  <h3>Demonstration</h3><br>
   <iframe width="400" height="225" style="border:none;"
   src="https://www.youtube.com/embed/5IJGb9aKPZc">
   </iframe>
 </div>
 
 <div style="float:left; margin-right:20px;">
-  <b>Tutorial</b><br>
+  <h3>Tutorial</h3><br>
   <iframe width="400" height="225" style="border:none;"
   src="https://www.youtube.com/embed/AnplpZwYnOE">
   </iframe>
