@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T11:14:40.968Z
+date: 2024-01-27T11:15:22.403Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -83,20 +83,19 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 - The second Light Attack needs to be done during the ascending phase of your jump.
 
 <div style="float:left; margin:20px;">
-  <h3>Video description</h3><br>
+  <h3>Demo</h3><br>
   <iframe width="400" height="225" style="border:none;"
   src="https://www.youtube.com/embed/AnplpZwYnOE">
   </iframe>
 </div>
 
 <div style="float:left; margin:20px;">
-  <h3>Video description</h3><br>
+  <h3>Tutorial</h3><br>
   <iframe width="400" height="225" style="border:none;"
   src="https://www.youtube.com/embed/AnplpZwYnOE">
   </iframe>
 </div>
-<div style="margin-top:320px">
-</div>
+<div style="margin-top:320px"></div>
 
 ## Variation 2
 <div style="float:right; text-align:center; margin:20px">
