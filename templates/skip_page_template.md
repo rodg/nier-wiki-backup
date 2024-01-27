@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T11:07:40.057Z
+date: 2024-01-27T11:08:11.923Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -82,6 +82,16 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 - Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
 - The second Light Attack needs to be done during the ascending phase of your jump.
 
+<div style="float:left; margin-top:20px;">
+  <h3>Video description</h3><br>
+  <iframe width="400" height="225" style="border:none;"
+  src="https://www.youtube.com/embed/AnplpZwYnOE">
+  </iframe>
+</div>
+
+<iframe width="400" height="225" style="border:none; margin:10px"
+src="https://www.youtube.com/embed/AnplpZwYnOE">
+</iframe> 
 
 ## Variation 2
 <div style="float:right; text-align:center; margin:20px">
@@ -117,18 +127,6 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 - The plunge shouldn't be instant, let the dash animation start and then plunge. If you do an Instant Plunge, you won't be able to dash off right away.
 - Make sure you're not rushing your inputs. Let your Heavy Attacks and jumps play out until you get enough height.
 - The second Light Attack needs to be done during the ascending phase of your jump.
-
-<div style="float:left; margin-top:20px;">
-  <h3>Video description</h3><br>
-  <iframe width="400" height="225" style="border:none;"
-  src="https://www.youtube.com/embed/AnplpZwYnOE">
-  </iframe>
-</div>
-
-<iframe width="400" height="225" style="border:none; margin:10px"
-src="https://www.youtube.com/embed/AnplpZwYnOE">
-</iframe> 
-
 
 # Skip Second Part
 Start holding Dash during the plunge. This will skip the slam into the ground and start your dash instantly.
