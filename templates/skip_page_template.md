@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T09:40:00.253Z
+date: 2024-01-27T10:03:32.255Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -57,7 +57,7 @@ The downside being that you lose time switching weapons in the menu.
 
 <table>
 <tr>
-  <th>Weapon Set 2</th><th></th>
+  <th>Weapon Set 2</th><th align="right"><a href="/intro/weapon-sets">?</a></th>
 </tr>
 <tr>
   <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
@@ -88,7 +88,7 @@ The original way of doing this high jump.
 
 <table>
 <tr>
-  <th>Weapon Set (any)</th><th></th>
+  <th>Weapon Set (any)</th><<th align="right"><a href="/intro/weapon-sets">?</a></th>
 </tr>
 <tr>
   <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
