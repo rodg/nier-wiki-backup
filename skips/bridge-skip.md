@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T11:39:39.987Z
+date: 2024-01-27T11:40:21.247Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -180,7 +180,7 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 <br>
 
 <div style="float:left; margin-right:20px;">
-  <h3>Demonstration</h3><br>
+  <h3>Demo</h3><br>
   <iframe width="400" height="225" style="border:none;"
   src="https://www.youtube.com/embed/5IJGb9aKPZc">
   </iframe>
@@ -237,7 +237,7 @@ Now do the following combo to reach the top of the raised bridge:
 <br>
 
 <div style="float:left; margin-right:20px;">
-  <h3>Demonstration</h3><br>
+  <h3>Demo</h3><br>
   <iframe width="400" height="225" style="border:none;"
   src="https://www.youtube.com/embed/5IJGb9aKPZc">
   </iframe>
