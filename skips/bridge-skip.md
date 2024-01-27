@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T10:06:00.480Z
+date: 2024-01-27T10:08:26.689Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -56,7 +56,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 <br>
 
-<iframe src="https://www.youtube.com/embed/Ob2Zp-lc6Uo"> </iframe>
+<iframe style="border:none;" src="https://www.youtube.com/embed/Ob2Zp-lc6Uo"> </iframe>
 
 
 ### Notes:
