@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T12:45:05.781Z
+date: 2024-01-27T12:49:05.869Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -258,6 +258,7 @@ Start holding Dash during the plunge. This will skip the slam into the ground an
 
 After this dash, there are a couple of different ways to get to the other side.
 <br>
+<!--
 # p {.tabset}
 ## Optimal Version
 
@@ -290,8 +291,30 @@ Swapping WS during a Dash will cut it off, so after getting to the other side, s
   </iframe>
 </div>
 <div style="margin-top:290px"></div>
+-->
 
-# pp
+<tabset style="max-width:1280px;"><template v-slot:tabs><li>Optimal Version</li><li>Easier Version</li></template>
+<template v-slot:content>
+<div class="tabset-panel">
+  **Dash &rarr; Jump &rarr; Jump &rarr; Switch WS &rarr; Plunge**
+
+  - The switching of Weapon Sets can be done in many places other than the one mentioned above. Most common places are before the first Dash or right before the ending Dash for the plunge.
+  - Don't rush your jump inputs. Leave some space in between to cover more horizontal distance.
+  - Make sure to do your first Jump after your Dash ends. If not, you will get a "standing jump" which will have much less forward momentum.
+
+  Swapping WS during a Dash will cut it off, so after getting to the other side, swap WS in *between* dashes.
+  <br>
+  <div style="float:left; margin-right:20px;">
+    <h3>Demo</h3><br>
+    <iframe width="400" height="225" style="border:none;"
+    src="https://www.youtube.com/embed/KB1CLXZPtCc">
+    </iframe>
+  </div>
+  <div style="margin-top:290px"></div>
+</div><div class="tabset-panel">
+  <p>stinky</p>
+</div></template></tabset>
+
 <tabset style="max-width:1280px;"><template v-slot:tabs><li>aloyarHa</li><li>jaynoOh</li></template>
 <template v-slot:content>
 <div class="tabset-panel">
