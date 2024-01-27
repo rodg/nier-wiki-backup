@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T11:40:21.247Z
+date: 2024-01-27T11:43:43.040Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -267,8 +267,13 @@ After this dash, there are a couple of different ways to get to the other side.
 
 Swapping WS during a Dash will cut it off, so after getting to the other side, swap WS in *between* dashes.
 <br>
-<iframe width="400" height="225" style="border:none;" src="https://www.youtube.com/embed/KB1CLXZPtCc">
-</iframe> 
+<div style="float:left; margin-right:20px;">
+  <h3>Demo</h3><br>
+  <iframe width="400" height="225" style="border:none;"
+  src="https://www.youtube.com/embed/KB1CLXZPtCc">
+  </iframe>
+</div>
+<div style="margin-top:290px"></div>
 
 
 ## Easier Version
@@ -276,5 +281,10 @@ Swapping WS during a Dash will cut it off, so after getting to the other side, s
 
 - There are many other ways to do this. The one provided is just a safe option to get you started.
 <br>
-<iframe width="400" height="225" style="border:none;" src="https://www.youtube.com/embed/sReGQj67HJU">
-</iframe> 
+<div style="float:left; margin-right:20px;">
+  <h3>Demo</h3><br>
+  <iframe width="400" height="225" style="border:none;"
+  src="https://www.youtube.com/embed/sReGQj67HJU">
+  </iframe>
+</div>
+<div style="margin-top:290px"></div>
