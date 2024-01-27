@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-26T14:42:38.467Z
+date: 2024-01-27T09:40:00.253Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -33,7 +33,7 @@ The different ways to do this trick ordered in increasing difficulty.
 | Variation 2	| XXmin XXs	  |
 | (...)       | (...)       |
 
-# Variation Tabs {.tabset}
+# p {.tabset}
 ## Variation 1
 <div style="float:right; text-align:center; margin:20px">
   <img width="444" height="250" src="/templates/variation_thumbnail.jpg"><br>
