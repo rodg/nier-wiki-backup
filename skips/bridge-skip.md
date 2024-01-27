@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T12:58:24.615Z
+date: 2024-01-27T18:11:45.343Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -98,7 +98,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 ## Double Lift
 <div style="float:right; text-align:center; margin:20px">
-  <img width="444" height="250" src="/assets/skips/bridge_skip/girderstack.jpg"><br>
+  <img width="400" height="225" src="/assets/skips/bridge_skip/girderstack.jpg"><br>
   <i>Steel beams used to double lift off of</i>
 </div>
 
@@ -198,7 +198,7 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 
 ## Barrel
 <div style="float:right; text-align:center; margin:20px">
-  <img width="444" height="250" src="/assets/skips/bridge_skip/barrels.jpg"><br>
+  <img width="400" height="225" src="/assets/skips/bridge_skip/barrels.jpg"><br>
   <i>Barrels used to podglide from</i>
 </div>
 
