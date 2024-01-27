@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T10:53:14.704Z
+date: 2024-01-27T10:54:44.720Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -36,7 +36,7 @@ The different ways to do this trick ordered in increasing difficulty.
 # p {.tabset}
 ## Variation 1
 <div style="float:right; text-align:center; margin:20px">
-  <img width="444" height="250" src="/templates/variation_thumbnail.jpg"><br>
+  <img width="400" height="225" src="/templates/variation_thumbnail.jpg"><br>
   <i>Image description</i>
 </div>
 
@@ -85,7 +85,7 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 ## Variation 2
 <div style="float:right; text-align:center; margin:20px">
-  <img width="444" height="250" src="/templates/variation_thumbnail.jpg"><br>
+  <img width="400" height="225" src="/templates/variation_thumbnail.jpg"><br>
   <i>Image description</i>
 </div>
 
@@ -119,12 +119,12 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 - The second Light Attack needs to be done during the ascending phase of your jump.
 ### {.tabset}
 #### Video Demo
-<iframe width="800" height="450"
+<iframe width="400" height="225"
 src="https://www.youtube.com/embed/AnplpZwYnOE">
 </iframe> 
 
 #### Video Tutorial
-<iframe width="800" height="450"
+<iframe width="400" height="225"
 src="https://www.youtube.com/embed/AnplpZwYnOE">
 </iframe> 
 
