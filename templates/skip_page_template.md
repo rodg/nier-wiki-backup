@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T10:54:44.720Z
+date: 2024-01-27T10:57:46.979Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -94,7 +94,7 @@ The original way of doing this high jump.
 <br>
 <table style="float:left; margin-right:20px">
 <tr>
-  <th>Weapon Set (any)</th><<th align="right"><a href="/intro/weapon-sets">?</a></th>
+  <th>Weapon Set (any)</th><th></th>
 </tr>
 <tr>
   <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
