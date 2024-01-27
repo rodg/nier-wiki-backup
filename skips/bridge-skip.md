@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T11:30:57.409Z
+date: 2024-01-27T11:32:17.494Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -80,14 +80,14 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 - The second Light Attack needs to be done during the ascending phase of your jump.
 <br>
 
-<div style="float:left; margin:20px;">
-  <b>Demo</b><br>
+<div style="float:left; margin-right:20px;">
+  <b>Demonstration</b><br>
   <iframe width="400" height="225" style="border:none;"
   src="https://www.youtube.com/embed/5IJGb9aKPZc">
   </iframe>
 </div>
 
-<div style="float:left; margin:20px;">
+<div style="float:left; margin-right:20px;">
   <b>Tutorial</b><br>
   <iframe width="400" height="225" style="border:none;"
   src="https://www.youtube.com/embed/AnplpZwYnOE">
