@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T12:16:39.572Z
+date: 2024-01-27T12:23:08.733Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -293,20 +293,14 @@ Swapping WS during a Dash will cut it off, so after getting to the other side, s
 
 # p
 
-<tabset><template v-slot:tabs><li>Optimal Version</li><li>Easier Version</li></template><template v-slot:content><div class="tabset-panel"><p><strong>Dash → Jump → Jump → Switch WS → Plunge</strong></p><ul>
-<li>The switching of Weapon Sets can be done in many places other than the one mentioned above. Most common places are before the first Dash or right before the ending Dash for the plunge.</li>
-<li>Don't rush your jump inputs. Leave some space in between to cover more horizontal distance.</li>
-<li>Make sure to do your first Jump after your Dash ends. If not, you will get a "standing jump" which will have much less forward momentum.</li>
-</ul><p>Swapping WS during a Dash will cut it off, so after getting to the other side, swap WS in <em>between</em> dashes.<br>
-<br></p><div style="float:left; margin-right:20px;">
-<h3 class="toc-header" id="demo-4"><a href="#demo-4" class="toc-anchor">¶</a> Demo</h3><br>
-<iframe src="https://www.youtube.com/embed/KB1CLXZPtCc" style="border:none;" height="225" width="400">
-  </iframe>
-</div><div style="margin-top:290px"></div></div><div class="tabset-panel"><p><strong>Dash → Jump → Podspin → Jump → Podspin → Dash</strong></p><ul>
-<li>There are many other ways to do this. The one provided is just a safe option to get you started.<br>
-<br></li>
-</ul><div style="float:left; margin-right:20px;">
-<h3 class="toc-header" id="demo-5"><a href="#demo-5" class="toc-anchor">¶</a> Demo</h3><br>
-<iframe src="https://www.youtube.com/embed/sReGQj67HJU" style="border:none;" height="225" width="400">
-  </iframe>
-</div><div style="margin-top:290px"></div><p><tabset></tabset></p><li>Optimal Version</li><li>Easier Version</li><p></p></div></template></tabset>
+<tabset><template v-slot:tabs><li>Optimal Version</li><li>Easier Version</li></template>
+<template v-slot:content>
+<div class="tabset-panel">
+	<p><strong>Dash → Jump → Jump → Switch WS → Plunge</strong></p>
+
+</div>
+<div class="tabset-panel">
+  <p><strong>Dash → Jump → Podspin → Jump → Podspin → Dash</strong></p>
+</div>
+</template>
+</tabset>
