@@ -2,7 +2,7 @@
 title: skip_page_tamplate
 description: 
 published: true
-date: 2024-01-27T11:03:20.593Z
+date: 2024-01-27T11:03:49.616Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -119,7 +119,7 @@ Using this Weapon Set, do the following combo to jump onto the raised bridge:
 - The second Light Attack needs to be done during the ascending phase of your jump.
 
 <div>
-  <i>Video description</i>
+  <i>Video description</i><br>
   <iframe width="400" height="225" style="border:none; margin:10px"
   src="https://www.youtube.com/embed/AnplpZwYnOE">
   </iframe>
