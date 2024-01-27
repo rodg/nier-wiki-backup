@@ -2,7 +2,7 @@
 title: Bridge Skip
 description: 
 published: true
-date: 2024-01-27T12:05:57.029Z
+date: 2024-01-27T12:12:34.986Z
 tags: skip, prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T16:57:03.484Z
@@ -290,3 +290,5 @@ Swapping WS during a Dash will cut it off, so after getting to the other side, s
   </iframe>
 </div>
 <div style="margin-top:290px"></div>
+
+<tabset><li>Optimal Version</li><li>Easier Version</li></tabset>
