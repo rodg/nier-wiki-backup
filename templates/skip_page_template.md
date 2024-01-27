@@ -1,8 +1,8 @@
 ---
-title: skip_page_tamplate
+title: Skip Page Template
 description: 
 published: true
-date: 2024-01-27T11:19:58.937Z
+date: 2024-01-27T11:21:51.116Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
