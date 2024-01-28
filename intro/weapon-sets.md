@@ -2,7 +2,7 @@
 title: Weapon Sets
 description: 
 published: true
-date: 2024-01-28T12:25:08.744Z
+date: 2024-01-28T13:12:35.616Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T10:00:58.217Z
@@ -20,7 +20,7 @@ During gameplay the player is free to switch between weapon sets at will and wit
 
 # Use in the Speedrun Wiki
 Because most of the [Movement Tech](/intro/movement) uses attack animations, the configuration of weapon sets and switching between them is very important in speedrunning.<br>
-That is why for every skip variation we will specify the required weapon set configuration in a table like this:
+That is why for every skip or trick we will specify the required weapon set configuration in a table like this:
 
 <br>
 <div>
@@ -65,4 +65,8 @@ That is why for every skip variation we will specify the required weapon set con
 </div>
 <br>
 
-p
+When a skip uses both weapon sets (usually that means a "<b>Switch WS</b>" in the combo), they are specified like in the first example. Otherwise, only one table will be displayed.
+Note that even though they are called "Weapon Set 1" and "Weapon Set 2", you could swap them around and perform the skip just fine starting with the other set equipped. We still label them like this because most of the skips are routed into a run so we specify the sets as they would be at that point in the run.
+
+Each table lists the two previously mentioned light and heavy slots along with the corresponding weapons that should be equipped.
+It contains the name of the <b>specific weapon</b> (e.g. "Virtuous Contract"), a <b>weapon category</b> (e.g. "[ <i>Small Sword</i> ]") or "[ <i>Any</i> ]" when that slot is not used.
