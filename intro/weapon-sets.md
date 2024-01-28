@@ -2,7 +2,7 @@
 title: Weapon Sets
 description: 
 published: true
-date: 2024-01-28T14:49:41.645Z
+date: 2024-01-28T17:55:22.999Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T10:00:58.217Z
@@ -29,34 +29,37 @@ Because most of the [Movement Tech](/intro/movement) uses attack animations, the
 That is why for every skip or trick we will specify the required weapon set configuration in a table like this:
 
 <br>
-<div>
-  <table style="float:left; margin-right:20px">
-  <tr>
-    <th>Weapon Set 1</th><th></th>
-  </tr>
-  <tr>
-    <td>Light Attack</td><td>[ <i>Any</i> ]</td>
-  </tr>
-  <tr>
-    <td>Heavy Attack</td><td>Bare Fist</td>
-  </tr>
-  </table>
-
-  <table style="float:left; margin-right:20px">
-  <tr>
-    <th>Weapon Set 2</th><th></th>
-  </tr>
-  <tr>
-    <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
-  </tr>
-  <tr>
-    <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
-  </tr>
-  </table>
-
-  <p style="float:left; margin-right:20px">or:</p>
-
-  <table style="float:left; margin-right:20px">
+<div style="float:left; text-align:center;">
+  <i>Skip that uses both weapon sets:</i>
+  <div>
+    <table style="float:left; margin-right:20px">
+    <tr>
+      <th>Weapon Set 1</th><th></th>
+    </tr>
+    <tr>
+      <td>Light Attack</td><td>[ <i>Any</i> ]</td>
+    </tr>
+    <tr>
+      <td>Heavy Attack</td><td>Bare Fist</td>
+    </tr>
+    </table>
+    <table style="float:left; margin-right:20px">
+    <tr>
+      <th>Weapon Set 2</th><th></th>
+    </tr>
+    <tr>
+      <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
+    </tr>
+    <tr>
+      <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
+    </tr>
+    </table>
+  </div>
+</div>
+  
+<div style="float:left; text-align:center; margin-left:50px;">
+  <i>Skip that uses only one:</i>
+  <table>
   <tr>
     <th>Weapon Set (any)</th><th></th>
   </tr>
@@ -67,8 +70,10 @@ That is why for every skip or trick we will specify the required weapon set conf
     <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
   </tr>
   </table>
-  <div style="height:150px"></div>
 </div>
+<div style="height:150px"></div>
+
+<br>
 <br>
 
 When a skip uses both weapon sets (usually that means a "<b>Switch WS</b>" in the combo), they are specified like in the first example. Otherwise, only one table will be displayed.
