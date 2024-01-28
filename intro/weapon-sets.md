@@ -2,13 +2,11 @@
 title: Weapon Sets
 description: 
 published: true
-date: 2024-01-27T18:57:27.952Z
+date: 2024-01-28T12:17:44.478Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T10:00:58.217Z
 ---
-
->dunno if there is enough to say here to justify a separate article, might be moved into a more general page later
 
 # Basic Mechanics
 The player can choose between two weapon sets. For A2 and 2B, each set has two slots labeled "Light Attack" and "Heavy Attack". 9S only has the "Light Attack" with the button normally associated with "Heavy Attack" being used for hacking instead.
@@ -20,5 +18,45 @@ Within one Weapon Set a weapon can only be equipped once (apart from Bare Fists)
 
 During gameplay the player is free to switch between weapon sets at will and with virtually no limitations. Changing the equipped weapons in the sets can only be done in the menu which is only accessable while grounded.
 
-# Use in speedrunning
-Because most of the [Movement Tech](/intro/movement) uses attack animations, the configuration of weapon sets and switching between them is very important in speedrunning.
+# Use in the Speedrun Wiki
+Because most of the [Movement Tech](/intro/movement) uses attack animations, the configuration of weapon sets and switching between them is very important in speedrunning. So for every skip variation we will specify the required weapon set configuration in a table like this:
+
+
+<br>
+<table style="float:left; margin-right:20px">
+<tr>
+  <th>Weapon Set 1</th><th></th>
+</tr>
+<tr>
+  <td>Light Attack</td><td>[ <i>Any</i> ]</td>
+</tr>
+<tr>
+  <td>Heavy Attack</td><td>Bare Fist</td>
+</tr>
+</table>
+
+<table style="float:left; margin-right:20px">
+<tr>
+  <th>Weapon Set 2</th><th></th>
+</tr>
+<tr>
+  <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
+</tr>
+<tr>
+  <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
+</tr>
+</table>
+
+<p style="float:left; margin-right:20px">or:</p>
+
+<table style="float:left; margin-right:20px">
+<tr>
+  <th>Weapon Set (any)</th><th></th>
+</tr>
+<tr>
+  <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
+</tr>
+<tr>
+  <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
+</tr>
+</table>
