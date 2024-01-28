@@ -2,7 +2,7 @@
 title: Weapon Sets
 description: 
 published: true
-date: 2024-01-28T14:34:05.334Z
+date: 2024-01-28T14:49:03.511Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T10:00:58.217Z
@@ -11,7 +11,7 @@ dateCreated: 2024-01-27T10:00:58.217Z
 # Basic Mechanics
 
 <div style="float:right; text-align:center; margin:20px">
-  <img width="400" height="225" src="/assets/intro/weapon_sets/weaponset_screen.jpg"><br>
+  <img width="444" height="250" src="/assets/intro/weapon_sets/weaponset_screen.jpg"><br>
   <i>A typical configuration in the speedrun</i>
 </div>
 
