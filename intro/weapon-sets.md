@@ -2,7 +2,7 @@
 title: Weapon Sets
 description: 
 published: true
-date: 2024-01-28T17:55:22.999Z
+date: 2024-01-28T18:48:32.392Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T10:00:58.217Z
@@ -30,7 +30,7 @@ That is why for every skip or trick we will specify the required weapon set conf
 
 <br>
 <div style="float:left; text-align:center;">
-  <i>Skip that uses both weapon sets:</i>
+  <i>SExample of a skip that uses both weapon sets:</i>
   <div>
     <table style="float:left; margin-right:20px">
     <tr>
