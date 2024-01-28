@@ -2,7 +2,7 @@
 title: Weapon Sets
 description: 
 published: true
-date: 2024-01-28T12:20:43.709Z
+date: 2024-01-28T12:24:16.709Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T10:00:58.217Z
@@ -23,43 +23,44 @@ Because most of the [Movement Tech](/intro/movement) uses attack animations, the
 That is why for every skip variation we will specify the required weapon set configuration in a table like this:
 
 <div>
-<table style="float:left; margin-right:20px">
-<tr>
-  <th>Weapon Set 1</th><th></th>
-</tr>
-<tr>
-  <td>Light Attack</td><td>[ <i>Any</i> ]</td>
-</tr>
-<tr>
-  <td>Heavy Attack</td><td>Bare Fist</td>
-</tr>
-</table>
+  <table style="float:left; margin-right:20px">
+  <tr>
+    <th>Weapon Set 1</th><th></th>
+  </tr>
+  <tr>
+    <td>Light Attack</td><td>[ <i>Any</i> ]</td>
+  </tr>
+  <tr>
+    <td>Heavy Attack</td><td>Bare Fist</td>
+  </tr>
+  </table>
 
-<table style="float:left; margin-right:20px">
-<tr>
-  <th>Weapon Set 2</th><th></th>
-</tr>
-<tr>
-  <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
-</tr>
-<tr>
-  <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
-</tr>
-</table>
+  <table style="float:left; margin-right:20px">
+  <tr>
+    <th>Weapon Set 2</th><th></th>
+  </tr>
+  <tr>
+    <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
+  </tr>
+  <tr>
+    <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
+  </tr>
+  </table>
 
-<p style="float:left; margin-right:20px">or:</p>
+  <p style="float:left; margin-right:20px">or:</p>
 
-<table style="margin-right:20px">
-<tr>
-  <th>Weapon Set (any)</th><th></th>
-</tr>
-<tr>
-  <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
-</tr>
-<tr>
-  <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
-</tr>
-</table>
+  <table style="float:left; margin-right:20px">
+  <tr>
+    <th>Weapon Set (any)</th><th></th>
+  </tr>
+  <tr>
+    <td>Light Attack</td><td>[ <i>Large Sword</i> ]</td>
+  </tr>
+  <tr>
+    <td>Heavy Attack</td><td>[ <i>Small Sword</i> ]</td>
+  </tr>
+  </table>
+  <div style="height:150px"></div>
 </div>
 
 p
