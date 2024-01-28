@@ -2,7 +2,7 @@
 title: Weapon Sets
 description: 
 published: true
-date: 2024-01-28T13:12:35.616Z
+date: 2024-01-28T13:22:53.466Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T10:00:58.217Z
@@ -18,7 +18,7 @@ Within one Weapon Set a weapon can only be equipped once (apart from Bare Fists)
 
 During gameplay the player is free to switch between weapon sets at will and with virtually no limitations. Changing the equipped weapons in the sets can only be done in the menu which is only accessable while grounded.
 
-# Use in the Speedrun Wiki
+# Use in the Speedrun (Wiki)
 Because most of the [Movement Tech](/intro/movement) uses attack animations, the configuration of weapon sets and switching between them is very important in speedrunning.<br>
 That is why for every skip or trick we will specify the required weapon set configuration in a table like this:
 
