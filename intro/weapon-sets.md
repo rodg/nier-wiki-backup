@@ -2,13 +2,19 @@
 title: Weapon Sets
 description: 
 published: true
-date: 2024-01-28T13:23:16.695Z
+date: 2024-01-28T14:33:22.269Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T10:00:58.217Z
 ---
 
 # Basic Mechanics
+
+<div style="float:right; text-align:center; margin:20px">
+  <img width="400" height="225" src="/assets/intro/weapon_sets/weaponset_screen.jpg"><br>
+  <i>A typical configuration in the speedrun!</i>
+</div>
+
 The player can choose between two weapon sets. For A2 and 2B, each set has two slots labeled "Light Attack" and "Heavy Attack". 9S only has the "Light Attack" with the button normally associated with "Heavy Attack" being used for hacking instead.
 
 In conversation "Light Attack" and "Heavy Attack" are usually shortened to "light" and "heavy" respectively. This article will also refer to them in this way going forth.
