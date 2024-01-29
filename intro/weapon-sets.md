@@ -2,7 +2,7 @@
 title: Weapon Sets
 description: 
 published: true
-date: 2024-01-29T11:50:03.940Z
+date: 2024-01-29T11:51:45.590Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-27T10:00:58.217Z
@@ -26,7 +26,7 @@ During gameplay the player is free to switch between weapon sets at will and wit
 
 # Use in the Speedrun Wiki
 Because most of the [Movement Tech](/intro/movement) uses attack animations, the configuration of weapon sets and switching between them is very important in speedrunning.<br>
-That is why for every skip or trick we will specify the required weapon set configuration in a table like this:
+That is why for every skip or trick we will specify the required weapon set configuration in a table, like this for instance:
 
 <br>
 <div style="float:left; text-align:center;">
