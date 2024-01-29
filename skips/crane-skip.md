@@ -2,11 +2,13 @@
 title: Crane Skip
 description: 
 published: true
-date: 2023-08-15T01:29:30.943Z
+date: 2024-01-29T12:04:55.013Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T18:05:43.920Z
 ---
+
+>This page is unfinished{.is-warning}
 
 Area: Factory
 Character: 2B, A2
