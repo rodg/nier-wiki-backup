@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-01-31T21:06:27.171Z
+date: 2024-01-31T21:09:33.914Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -12,3 +12,5 @@ dateCreated: 2023-08-13T22:32:44.381Z
           font-size:2rem;
           font-weight:bold;">Welcome to the NieR: Automata Speedrun Wiki</p>
           
+
+<span id="url">URL goes here</span>
