@@ -2,18 +2,11 @@
 title: Home
 description: 
 published: true
-date: 2024-01-31T21:06:08.708Z
+date: 2024-01-31T21:06:27.171Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
 ---
-
-<style type="text/css">
-    .v-application .headline{
-        font-size: 3rem!important;
-        font-weight: bold;
-    }
-</style>
 
 <p style="text-align:center;
           font-size:2rem;
