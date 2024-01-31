@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-01-31T20:22:02.849Z
+date: 2024-01-31T20:22:34.009Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -18,3 +18,11 @@ dateCreated: 2023-08-13T22:32:44.381Z
 <p style="text-align:center;
           font-size:2rem;
           font-weight:bold;">Welcome to the NieR: Automata Speedrun Wiki</p>
+
+<input type="checkbox" name="JOB" value="Marketeer" /> Marketeer
+<input type="checkbox" name="JOB" value="Developer" /> Developer
+<input type="checkbox" name="JOB" value="Recruiter" /> Recruiter
+
+<div data-show-if="JOB:Recruiter">
+    Hi, recruiter!
+</div>
