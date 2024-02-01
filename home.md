@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T00:55:22.639Z
+date: 2024-02-01T00:56:19.782Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -17,7 +17,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
 <p style="text-align:center; font-size:2rem; font-weight:bold;">Getting Started</p>
 
 <div style="width:300px; margin-left:20%; margin-top:50px;">
-  <a href="/intro/beginner-guide" style="text-decoration: none;">
+  <a href="/intro/beginner-guide" style="text-decoration: none; color:white;">
     <div style="background-image:url(/assets/home/beginner-thumbnail.jpg);
                 height:169px;
                 background-size: contain;
