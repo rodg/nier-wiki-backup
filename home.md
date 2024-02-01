@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T02:08:14.329Z
+date: 2024-02-01T12:01:29.202Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -12,11 +12,11 @@ dateCreated: 2023-08-13T22:32:44.381Z
           font-size:2rem;
           font-weight:bold;">Welcome to the NieR: Automata Speedrun Wiki</p>-->
 <br>
-<p style="text-align:justify; width:40%; margin-left:30%;">This is a compilation of tricks, skips and other in-depth knowledge about NieR: Automata for the purpose of speedrunning. It is supposed to help both beginner and advanced runners and make learning the speedrun more accessible to everyone.</p>
+<p id="intro_text" style="text-align:justify; width:40%; margin-left:30%;">This is a compilation of tricks, skips and other in-depth knowledge about NieR: Automata for the purpose of speedrunning. It is supposed to help both beginner and advanced runners and make learning the speedrun more accessible to everyone.</p>
 <br>
 <!--<p style="text-align:center; font-size:2rem; font-weight:bold;">Getting Started</p>-->
 
-<div style="width:300px; margin-left:25%; margin-top:50px; float:left;">
+<div id="beginner_link" style="width:300px; margin-left:25%; margin-top:50px; float:left;">
   <a href="/intro/beginner-guide" style="text-decoration: none; color:white;">
     <div style="background-image:url(/assets/home/beginner-thumbnail.jpg);
                 height:169px;
@@ -31,7 +31,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
   <p style="text-align:justify;">If you're a new runner, check out the Beginner's Guide. It will get you started with the most important things you need to start speedrunning.</p>
 </div>
 
-<div style="width:300px; margin-left:55%; margin-top:50px;">
+<div id="skip_link" style="width:300px; margin-left:55%; margin-top:50px;">
   <a href="/stuff/skip-list" style="text-decoration: none; color:white;">
     <div style="background-image:url(/assets/home/skips-thumbnail.jpg);
                 height:169px;
