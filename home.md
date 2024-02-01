@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T13:20:09.127Z
+date: 2024-02-01T13:22:46.270Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -34,7 +34,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
   <a href="/stuff/skip-list" style="text-decoration: none; color:white;">
     <div style="background-image:url(/assets/home/skips-thumbnail.jpg);
                 height:169px;
-                background-size: contain;
+                background-size: cover;
                 text-align:center;">
       <div style="padding-top:61px;
                   padding-bottom:60px;
