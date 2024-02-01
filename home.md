@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T02:07:50.189Z
+date: 2024-02-01T02:08:14.329Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -16,7 +16,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
 <br>
 <!--<p style="text-align:center; font-size:2rem; font-weight:bold;">Getting Started</p>-->
 
-<div style="width:300px; margin-left:30%; margin-top:50px; float:left;">
+<div style="width:300px; margin-left:25%; margin-top:50px; float:left;">
   <a href="/intro/beginner-guide" style="text-decoration: none; color:white;">
     <div style="background-image:url(/assets/home/beginner-thumbnail.jpg);
                 height:169px;
@@ -31,7 +31,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
   <p style="text-align:justify;">If you're a new runner, check out the Beginner's Guide. It will get you started with the most important things you need to start speedrunning.</p>
 </div>
 
-<div style="width:300px; margin-left:60%; margin-top:50px;">
+<div style="width:300px; margin-left:55%; margin-top:50px;">
   <a href="/stuff/skip-list" style="text-decoration: none; color:white;">
     <div style="background-image:url(/assets/home/skips-thumbnail.jpg);
                 height:169px;
