@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T01:21:46.070Z
+date: 2024-02-01T01:24:56.939Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -28,7 +28,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
                   background-color:rgba(0, 0, 0, 0.5)">Beginner's Guide</div>
     </div>
   </a>
-  <p style="text-align:justify;">If you're a new runner, check out the <a href="/intro/beginner-guide">Beginner's Guide</a>. It will get you started with the most important things you need to start speedrunning.</p>
+  <p style="text-align:justify;">If you're a new runner, check out the Beginner's Guide. It will get you started with the most important things you need to start speedrunning.</p>
 </div>
 
 <div style="width:300px; margin-left:60%; margin-top:50px;">
@@ -43,5 +43,5 @@ dateCreated: 2023-08-13T22:32:44.381Z
                   background-color:rgba(0, 0, 0, 0.5)">Skip List</div>
     </div>
   </a>
-  <p style="text-align:justify;">If you're a new runner, check out the <a href="/intro/beginner-guide">Beginner's Guide</a>. It will get you started with the most important things you need to start speedrunning.</p>
+  <p style="text-align:justify;">If you're looking for information or instructions for a specific skip, you can search for it in the list of skips.</p>
 </div>
