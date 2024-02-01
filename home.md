@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T12:08:25.875Z
+date: 2024-02-01T12:16:01.886Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -46,7 +46,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
   <p style="text-align:justify;">If you're looking for information or instructions for a specific skip, you can search for it in the list of skips.</p>
 </div>
 
-<script>
+<!--<script>
   window.onload = function() {
     const isMobile = navigator.userAgentData.mobile;
     console.log(isMobile);
@@ -54,4 +54,4 @@ dateCreated: 2023-08-13T22:32:44.381Z
     console.log(introText);
     introText.style = "text-align:justify; width:100%; margin-left:0%;";
   }
-</script>
+</script>-->
