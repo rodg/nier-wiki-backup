@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T01:20:32.987Z
+date: 2024-02-01T01:20:51.523Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -31,7 +31,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
   <p style="text-align:justify;">If you're a new runner, check out the <a href="/intro/beginner-guide">Beginner's Guide</a>. It will get you started with the most important things you need to start speedrunning.</p>
 </div>
 
-<div style="width:300px; margin-left:60%; margin-top:50px;">
+<div style="width:300px; margin-right:20%; margin-top:50px;">
   <a href="/intro/beginner-guide" style="text-decoration: none; color:white;">
     <div style="background-image:url(/assets/home/skips-thumbnail.jpg);
                 height:169px;
