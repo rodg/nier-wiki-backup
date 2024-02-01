@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T12:56:59.061Z
+date: 2024-02-01T13:02:51.630Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -19,11 +19,14 @@ dateCreated: 2023-08-13T22:32:44.381Z
 <div id="beginner_link" style="width:300px; margin-left:25%; margin-top:50px; float:left;">
   <a href="/intro/beginner-guide" style="text-decoration: none; color:white;">
     <div id="beginner_link_image" style="background-image:url(/assets/home/beginner-thumbnail.jpg);
-                height:auto;
                 background-size: contain;
                 text-align:center;">
-      <div style="padding-top:61px;
+      <!--<div style="padding-top:61px;
                   padding-bottom:60px;
+                  font-size:2rem;
+                  background-color:rgba(0, 0, 0, 0.5)">Beginner's Guide</div>-->
+      <div style="padding-top:3.8rem;
+                  padding-bottom:3.8rem;
                   font-size:2rem;
                   background-color:rgba(0, 0, 0, 0.5)">Beginner's Guide</div>
     </div>
