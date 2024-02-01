@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T01:05:08.355Z
+date: 2024-02-01T01:05:23.412Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -29,5 +29,5 @@ dateCreated: 2023-08-13T22:32:44.381Z
                   background-color:rgba(0, 0, 0, 0.5)">Beginner's Guide</div>
     </div>
   </a>
-  <p style="text-align:left;">If you're a new runner, check out the <a href="/intro/beginner-guide">Beginner's Guide</a>. It will get you started with the most important things you need to start speedrunning.</p>
+  <p style="text-align:justify;">If you're a new runner, check out the <a href="/intro/beginner-guide">Beginner's Guide</a>. It will get you started with the most important things you need to start speedrunning.</p>
 </div>
