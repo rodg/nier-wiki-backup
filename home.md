@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T13:02:51.630Z
+date: 2024-02-01T13:15:47.945Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -18,23 +18,19 @@ dateCreated: 2023-08-13T22:32:44.381Z
 
 <div id="beginner_link" style="width:300px; margin-left:25%; margin-top:50px; float:left;">
   <a href="/intro/beginner-guide" style="text-decoration: none; color:white;">
-    <div id="beginner_link_image" style="background-image:url(/assets/home/beginner-thumbnail.jpg);
-                background-size: contain;
-                text-align:center;">
-      <!--<div style="padding-top:61px;
-                  padding-bottom:60px;
-                  font-size:2rem;
-                  background-color:rgba(0, 0, 0, 0.5)">Beginner's Guide</div>-->
-      <div style="padding-top:3.8rem;
-                  padding-bottom:3.8rem;
-                  font-size:2rem;
-                  background-color:rgba(0, 0, 0, 0.5)">Beginner's Guide</div>
+    <div id="beginner_link_image" style="background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/assets/home/beginner-thumbnail.jpg);
+                                         background-size: contain;
+                                         text-align:center;
+                                         font-size:2rem;
+                                         padding-top:3.8rem;
+                                         padding-bottom:3.8rem;">
+      Beginner's Guide
     </div>
   </a>
   <p style="text-align:justify;">If you're a new runner, check out the Beginner's Guide. It will get you started with the most important things you need to start speedrunning.</p>
 </div>
 
-<div id="skip_link" style="width:300px; margin-left:55%; margin-top:50px;">
+<!--<div id="skip_link" style="width:300px; margin-left:55%; margin-top:50px;">
   <a href="/stuff/skip-list" style="text-decoration: none; color:white;">
     <div style="background-image:url(/assets/home/skips-thumbnail.jpg);
                 height:169px;
@@ -47,7 +43,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
     </div>
   </a>
   <p style="text-align:justify;">If you're looking for information or instructions for a specific skip, you can search for it in the list of skips.</p>
-</div>
+</div>-->
 
 <!--<script>
   window.onload = function() {
