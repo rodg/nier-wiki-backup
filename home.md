@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T01:05:45.417Z
+date: 2024-02-01T01:06:33.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -14,7 +14,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
 <br>
 <p style="text-align:justify; width:50%; margin-left:25%;">This is a compilation of tricks, skips and other in-depth knowledge about NieR: Automata for the purpose of speedrunning. It is supposed to help both beginner and advanced runners and make learning the speedrun more accessible to everyone.</p>
 <br>
-<p style="text-align:center; font-size:2rem; font-weight:bold;">Getting Started</p>
+<!--<p style="text-align:center; font-size:2rem; font-weight:bold;">Getting Started</p>-->
 
 <div style="width:300px; margin-left:20%; margin-top:50px;">
   <a href="/intro/beginner-guide" style="text-decoration: none; color:white;">
