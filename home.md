@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T01:05:23.412Z
+date: 2024-02-01T01:05:45.417Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -25,7 +25,6 @@ dateCreated: 2023-08-13T22:32:44.381Z
       <div style="padding-top:61px;
                   padding-bottom:60px;
                   font-size:2rem;
-                  font-weight:bold;
                   background-color:rgba(0, 0, 0, 0.5)">Beginner's Guide</div>
     </div>
   </a>
