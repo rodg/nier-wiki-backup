@@ -2,7 +2,7 @@
 title: Skip Page Template
 description: 
 published: true
-date: 2024-01-27T12:57:41.963Z
+date: 2024-02-02T12:48:47.155Z
 tags: template
 editor: markdown
 dateCreated: 2023-07-14T21:39:02.170Z
@@ -92,14 +92,14 @@ Switch to **Weapon Set 1** and do the following combo to jump onto the raised br
 
 <div style="float:left; margin:20px;">
   <h3>Demo</h3><br>
-  <iframe width="400" height="225" style="border:none;"
+  <iframe width="400" height="225" style="border:none; max-width:100%"
   src="https://www.youtube.com/embed/5IJGb9aKPZc">
   </iframe>
 </div>
 
 <div style="float:left; margin:20px;">
   <h3>Tutorial</h3><br>
-  <iframe width="400" height="225" style="border:none;"
+  <iframe width="400" height="225" style="border:none; max-width:100%"
   src="https://www.youtube.com/embed/AnplpZwYnOE">
   </iframe>
 </div>
