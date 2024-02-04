@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-01T13:22:46.270Z
+date: 2024-02-04T13:24:58.264Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -17,13 +17,14 @@ dateCreated: 2023-08-13T22:32:44.381Z
 <!--<p style="text-align:center; font-size:2rem; font-weight:bold;">Getting Started</p>-->
 
 <div id="beginner_link" style="width:300px; margin-left:25%; margin-top:50px; float:left;">
-  <a href="/intro/beginner-guide" style="text-decoration: none; color:white;">
+  <a href="/intro/beginner-guide" style="text-decoration: none; color:lightGrey;">
     <div id="beginner_link_image" style="background-image:url(/assets/home/beginner-thumbnail.jpg);
                 background-size: cover;
                 text-align:center;">
       <div style="padding-top:3.8rem;
                   padding-bottom:3.8rem;
                   font-size:2rem;
+                  font-weight:bold;
                   background-color:rgba(0, 0, 0, 0.5)">Beginner's Guide</div>
     </div>
   </a>
@@ -31,7 +32,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
 </div>
 
 <div id="skip_link" style="width:300px; margin-left:55%; margin-top:50px;">
-  <a href="/stuff/skip-list" style="text-decoration: none; color:white;">
+  <a href="/stuff/skip-list" style="text-decoration: none; color:lightGrey;">
     <div style="background-image:url(/assets/home/skips-thumbnail.jpg);
                 height:169px;
                 background-size: cover;
@@ -39,6 +40,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
       <div style="padding-top:61px;
                   padding-bottom:60px;
                   font-size:2rem;
+                  font-weight:bold;
                   background-color:rgba(0, 0, 0, 0.5)">Skip List</div>
     </div>
   </a>
