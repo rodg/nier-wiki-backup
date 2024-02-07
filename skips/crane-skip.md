@@ -2,7 +2,7 @@
 title: Crane Skip
 description: 
 published: true
-date: 2024-01-29T12:04:55.013Z
+date: 2024-02-07T15:23:37.439Z
 tags: prologue, factory, a2, 2b
 editor: markdown
 dateCreated: 2023-06-28T18:05:43.920Z
@@ -47,4 +47,6 @@ Switch to **Weapon Set 2** and do the following combo to jump onto the raised br
 
 ## Copium Clip
 *Might also be referred to as "Crane Skip Skip Skip"* 
+
+## Triple Lift Crane Skip
 
