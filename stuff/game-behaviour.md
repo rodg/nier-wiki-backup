@@ -2,20 +2,20 @@
 title: Game Behaviour
 description: 
 published: true
-date: 2024-02-07T15:08:03.623Z
+date: 2024-02-07T15:11:26.139Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T14:34:00.873Z
 ---
 
 ## Game and Player States
-- Various types of Triggers
-- Zombie state
+- Various types of Triggers and how Phases work
 - Skype Glitch
 - Input Glitch
-- Pod Glitch
 - Frame rate compensation & Speed-up Glitch
+- Pod Glitch
 - Skew & No-clip (Ledge grabs)
+- Zombie state
 ## Environment and Movement
 - Momentum drops
 - Fall off walls & sticky ledges
