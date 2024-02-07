@@ -2,7 +2,7 @@
 title: Game Behaviour
 description: 
 published: true
-date: 2024-02-07T15:11:26.139Z
+date: 2024-02-07T15:13:01.104Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T14:34:00.873Z
@@ -44,9 +44,10 @@ dateCreated: 2024-02-07T14:34:00.873Z
 - Cutscene Health bar Glitch
 - Pit Cutscene Glitch
 ## Shmups
-- 9S Glitch & despawning Shmup waves
 - Non essential Shmup waves
+- 9S Glitch & despawning Shmup waves
 - Shmup derailing 
+- Grun perspective Glitch
 - 4B Glitch
 
 
