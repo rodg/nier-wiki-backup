@@ -2,7 +2,7 @@
 title: Game Behaviour
 description: 
 published: true
-date: 2024-02-07T14:39:19.614Z
+date: 2024-02-07T15:08:03.623Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T14:34:00.873Z
@@ -41,6 +41,7 @@ dateCreated: 2024-02-07T14:34:00.873Z
 - Hold Cutscenes (+ SD)
 - Cutscene item duplication
 - Cutscene position and state reset / Auto scrolling
+- Cutscene Health bar Glitch
 - Pit Cutscene Glitch
 ## Shmups
 - 9S Glitch & despawning Shmup waves
