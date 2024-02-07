@@ -2,7 +2,7 @@
 title: Skip List
 description: a list of skips duh
 published: true
-date: 2024-01-31T14:26:30.722Z
+date: 2024-02-07T13:36:42.476Z
 tags: skip
 editor: markdown
 dateCreated: 2024-01-24T00:20:03.711Z
@@ -10,17 +10,13 @@ dateCreated: 2024-01-24T00:20:03.711Z
 
 # [A]
 ### Prologue
-- [Jump skip](/skips/jump-skip)
+- [Jump-up skip](/skips/jump-skip)
 - Marx-1 Dialogue Cancel
 - [Crane Skip](/skips/crane-skip)
-	- Crane Skip Skip
-	- Copium Clip
 - [Bridge Skip](/skips/bridge-skip)
 - [Lava Out Of Bounds](/skips/LavaOOB)
 - [Engels Swag](/skips/engels-swag)
-	- New Swag
-	- Pod Launch Swag
-- wschengels
+- Wschengels
 - Engels Double Hit
 ### Desert
 - 9S Dialogue skip
@@ -31,10 +27,10 @@ dateCreated: 2024-01-24T00:20:03.711Z
 - Early Don
 - Sword Dodge Skip
 - Box Clip
-- p Hole
 ### Amusement Park
 - Park Barricade Skip
 - Park Discovery Skip
+- Let's Play Skip
 - Rollercoaster Skip
 - Door Clip
 ### Negotiations
@@ -47,8 +43,6 @@ dateCreated: 2024-01-24T00:20:03.711Z
 - Mom Skip (obsolete)
 - Commercial Dialogue Skip
 - Castle Moat Skip
-	- Mario Kart (obsolete)
-	- Rainbow Road
 - [Forest Castle Skip](/skips/forest-castle-skip)
 - [A2 Slow Walk Skip](/skips/A2-Slow-Walk-Skip)
 - A2 Chase Skip
@@ -65,11 +59,13 @@ dateCreated: 2024-01-24T00:20:03.711Z
 - Factory Pascal Dialogue Skip
 - Mooks Room Dialogue Skip
 - Mooks Room Fight Skip
-- eat ass 9S
-- Factory V1 / V2
-- So-Shi Slevator skip
+- Eat Ass 9S
+- Factory v1 / v2
+- Wschelevator
 - Shabu Skip
 - [Trash Trick](/skips/trash_trick)
 ### Boss Rush
+- Rescue Lane (TAS only ... probably)
 - Knockdown Skip
 - Core-2 Pascal Dialogue Skip
+- Eve Phase 1 & 2 Dialogue Cancels
