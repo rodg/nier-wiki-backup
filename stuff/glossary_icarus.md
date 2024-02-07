@@ -2,7 +2,7 @@
 title: Tech and Game Behaviour
 description: 
 published: true
-date: 2024-02-07T14:30:17.914Z
+date: 2024-02-07T14:32:17.251Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T09:39:01.916Z
@@ -27,7 +27,7 @@ dateCreated: 2024-01-26T09:39:01.916Z
 - Mid air pause (SD & Plunge Glitch version)
 
 ## Movement:
-**Basics:**
+**Ground Movement:**
 - Dash Chain (Punch / Swing)
 - Spear Dashing
 
