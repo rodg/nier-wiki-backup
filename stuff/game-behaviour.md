@@ -2,12 +2,13 @@
 title: Game Behaviour
 description: 
 published: true
-date: 2024-02-07T14:34:28.220Z
+date: 2024-02-07T14:35:42.183Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T14:34:00.873Z
 ---
 
+# Game and Player States
 - Various types of Triggers
 - Zombie state
 - Skype Glitch
@@ -15,7 +16,7 @@ dateCreated: 2024-02-07T14:34:00.873Z
 - Pod Glitch
 - Frame rate compensation & Speed-up Glitch
 - Skew & No-clip (Ledge grabs)
-## Environment and Movement:
+# Environment and Movement:
 - Momentum drops
 - Fall off walls & sticky ledges
 - Magnetic ground
@@ -26,7 +27,7 @@ dateCreated: 2024-02-07T14:34:00.873Z
 - Elevator Coupling 
 - Voiding out & Void Camera
 - Drowning (zones / checkpoints + drown soft-lock)
-## Combat and Attacks:
+# Combat and Attacks:
 - Auto Lock-on
 - Hit Lag
 - Boss HP thresholds
@@ -34,14 +35,14 @@ dateCreated: 2024-02-07T14:34:00.873Z
 - Engels Attack RNG
 - Engels Turn coat (spear of the usurper)
 - Combo Attack Glitch
-## Menus and Cutscenes:
+# Menus and Cutscenes:
 - Menu Lag
 - System menu (conditions, elevator glitch)
 - Hold Cutscenes (+ SD)
 - Cutscene item duplication
 - Cutscene position and state reset / Auto scrolling
 - Pit Cutscene Glitch
-## Shmups:
+# Shmups:
 - 9S Glitch & despawning Shmup waves
 - Non essential Shmup waves
 - Shmup derailing 
