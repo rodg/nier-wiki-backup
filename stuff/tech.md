@@ -2,7 +2,7 @@
 title: Tech
 description: 
 published: true
-date: 2024-02-07T14:53:36.717Z
+date: 2024-02-07T14:58:46.543Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T09:39:01.916Z
@@ -21,7 +21,6 @@ dateCreated: 2024-01-26T09:39:01.916Z
 - Drown warps
 - Stab Animation Cancels
 - Picture Books, E-drugs & Voice Changer
-- Menu I-framing
 - Mid air pause (SD & Plunge Glitch version)
 
 ## Movement
@@ -72,6 +71,7 @@ dateCreated: 2024-01-26T09:39:01.916Z
 - Dash Swing / Plunge (Glitch) combat (+Taunt)
 - Dual Laser
 - God Laser
+- Menu I-framing
 
 Hacking & 9S Combat
 
