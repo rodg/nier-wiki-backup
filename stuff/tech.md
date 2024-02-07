@@ -2,13 +2,13 @@
 title: Tech
 description: 
 published: true
-date: 2024-02-07T14:37:40.358Z
+date: 2024-02-07T14:38:23.909Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T09:39:01.916Z
 ---
 
-## General:
+## General
 - Slow-mo
 - SD canceling
 - Dialogue:
@@ -24,7 +24,7 @@ dateCreated: 2024-01-26T09:39:01.916Z
 - Menu I-framing
 - Mid air pause (SD & Plunge Glitch version)
 
-## Movement:
+## Movement
 **Ground Movement:**
 - Dash Chain (Punch / Swing)
 - Spear Dashing
@@ -56,7 +56,7 @@ dateCreated: 2024-01-26T09:39:01.916Z
 - Plunge Glitches
 - Weapon set switching & combo (light) restrictions
 - Infini-slashing / -stabbing 
-## Combat:
+## Combat
 **Basic Components:**
 - DGs, DDG & Pod fire
 - Light attacks, Dash Swings & Combat Rolls
