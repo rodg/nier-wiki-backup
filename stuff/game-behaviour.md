@@ -2,13 +2,12 @@
 title: Game Behaviour
 description: 
 published: true
-date: 2024-02-07T14:34:00.873Z
+date: 2024-02-07T14:34:28.220Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T14:34:00.873Z
 ---
 
-# Game Behavior:
 - Various types of Triggers
 - Zombie state
 - Skype Glitch
