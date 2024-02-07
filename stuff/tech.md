@@ -2,7 +2,7 @@
 title: Tech
 description: 
 published: true
-date: 2024-02-07T14:38:23.909Z
+date: 2024-02-07T14:53:36.717Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T09:39:01.916Z
@@ -13,7 +13,7 @@ dateCreated: 2024-01-26T09:39:01.916Z
 - SD canceling
 - Dialogue:
 	- (Partner) Dialogue Cancels
-	- Pod Pats
+	- Pod Pats / God Pat
 	- Dialogue Shortcut buffering
 - Cutscene slow walk cancels
 - Save scums
