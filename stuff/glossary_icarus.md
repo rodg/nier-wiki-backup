@@ -2,15 +2,15 @@
 title: Tech and Game Behaviour
 description: 
 published: true
-date: 2024-01-26T09:39:01.916Z
+date: 2024-02-07T14:30:17.914Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T09:39:01.916Z
 ---
 
-## __Tech:__
+# Tech:
 
-General:
+
 - Slow-mo
 - SD canceling
 - Dialogue:
@@ -22,30 +22,34 @@ General:
 - Death warps
 - Drown warps
 - Stab Animation Cancels
+- Picture Books, E-drugs & Voice Changer
 - Menu I-framing
 - Mid air pause (SD & Plunge Glitch version)
 
-Movement:
-- Basic Movement:
-	- Dash Chain (Punch / Swing)
-	- Spear Dashing
-- Aerial Movement:
-	- Plunges, Podspins & Pod Launches
-	- Lifts, Double Lifts & Heavies
-	- Light attacks & Light holds
-	- SD & Mirage in Aerial Movement
-	- High / Long Jumps
-- Misc. Movement:
-	- Clipping
-	- Plunge Slides
-	- Sand Slides 
-	- Boar Hopping
-	- Missile Chaining
-	- Wall Climbing
-	- SD-less "Spear Dashing"
+## Movement:
+**Basics:**
+- Dash Chain (Punch / Swing)
+- Spear Dashing
+
+**Aerial Movement:**
+- Plunges, Podspins & Pod Launches
+- Rising Frames
+- Lifts, Double Lifts & Heavies
+- Light attacks & Light holds
+- SD & Mirage in Aerial Movement
+- High / Long Jumps
+
+**Misc. Movement:**
+- Clipping
+- Plunge Slides
+- Sand Slides 
+- Boar Hopping
+- Missile Chaining
+- Wall Climbing
+- SD-less "Spear Dashing"
 - 9S Movement
 
-Advanced Movement:
+**Advanced Movement:**
 - Spacing & Lines
 - Combat Rolls
 - Moving interactions & Canceling Heavy holds
@@ -54,59 +58,69 @@ Advanced Movement:
 - Plunge Glitches
 - Weapon set switching & combo (light) restrictions
 - Infini-slashing / -stabbing 
+## Combat:
+**Basic Components:**
+- DGs, DDG & Pod fire
+- Light attacks, Dash Swings & Combat Rolls
+- Taunting & Taunt chips
+- Double Laser
+- Buffs
+- Aerial Combat
+- SD
 
-Combat:
-- Basic Components:
-	- DGs, DDG & Pod fire
-	- Light attacks, Dash Swings & Combat Rolls
-	- Taunting & Taunt chips
-	- Double Laser
-	- Buffs
-	- Aerial Combat
-	- SD
-- Advanced Combat:
-	- SDDG (+Taunt)
-	- Lock-on DG chain + Taunt
-	- Dash Swing / Plunge (Glitch) combat (+Taunt)
-	- Dual Laser
-	- God Laser
-- Hacking & 9S Combat
-- Flight Units
-	- Engels Double Hit
-- NG+ Combat
+**Advanced Combat:**
+- SDDG (+Taunt)
+- Lock-on DG chain + Taunt
+- Dash Swing / Plunge (Glitch) combat (+Taunt)
+- Dual Laser
+- God Laser
 
-## __Game Behavior:__
+Hacking & 9S Combat
+
+Flight Units
+- Engels Double Hit
+
+NG+ Combat
+# Game Behavior:
 - Various types of Triggers
-- Auto Lock-on
-- Hit Lag
-- Menu Lag
-- System menu (conditions, elevator glitch)
+- Zombie state
+- Skype Glitch
+- Input Glitch
+- Pod Glitch
+- Frame rate compensation & Speed-up Glitch
+- Skew & No-clip (Ledge grabs)
+## Environment and Movement:
 - Momentum drops
 - Fall off walls & sticky ledges
 - Magnetic ground
+- Infinifall Boxes
+- Angle-lock
+- Camera Clang
+- Dash reset
+- Elevator Coupling 
+- Voiding out & Void Camera
+- Drowning (zones / checkpoints + drown soft-lock)
+## Combat and Attacks:
+- Auto Lock-on
+- Hit Lag
 - Boss HP thresholds
+- Lock-on Glitch
 - Engels Attack RNG
 - Engels Turn coat (spear of the usurper)
 - Combo Attack Glitch
-- Rising Frames
+## Menus and Cutscenes:
+- Menu Lag
+- System menu (conditions, elevator glitch)
 - Hold Cutscenes (+ SD)
 - Cutscene item duplication
 - Cutscene position and state reset / Auto scrolling
 - Pit Cutscene Glitch
-- Voiding out & Void Camera
-- Drowning (zones / checkpoints + drown soft-lock)
-- Zombie state
-- Skype Glitch
-- Input Glitch
-- Frame rate compensation & Speed-up Glitch
-- Picture Books, E-drugs & Voice Changer
-- Infinifall Boxes
-- Angle-lock
-- Camera Clang
-- Skew & No-clip (Ledge grabs)
-- Lock-on Glitch
-- Dash reset
-- Elevator Coupling 
+## Shmups:
 - 9S Glitch & despawning Shmup waves
 - Non essential Shmup waves
 - Shmup derailing 
+- 4B Glitch
+
+
+
+
