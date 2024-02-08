@@ -2,14 +2,27 @@
 title: Jump-up Skip
 description: 
 published: true
-date: 2024-02-08T16:34:42.897Z
+date: 2024-02-08T16:39:02.520Z
 tags: skip, prologue, factory, 2b
 editor: markdown
 dateCreated: 2024-01-26T13:21:05.571Z
 ---
 
-Area: Factory, Deep Factory
-Character: 2B
+
+<div style="background-image: url('/assets/skips/bridge_skip/bridge.jpg'); height:250px; margin-right:20px">
+  <p style="float:left;
+            width:50%;
+            margin-top:170px;
+            padding-top:5px;
+            padding-left:20px;
+            padding-bottom:5px;
+            font-size:20px;
+            font-weight:bold;
+            background-image: linear-gradient(to right, rgba(16, 16, 16, 0.9), rgba(0, 0, 0, 0));">
+    Area: Factory, Deep Factory<br>
+    Character: 2B, A2
+  </p>
+</div>
 
 # Overview
 
