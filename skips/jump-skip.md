@@ -2,14 +2,14 @@
 title: Jump-up Skip
 description: 
 published: true
-date: 2024-02-08T16:45:17.266Z
+date: 2024-02-08T18:26:12.871Z
 tags: skip, prologue, factory, 2b
 editor: markdown
 dateCreated: 2024-01-26T13:21:05.571Z
 ---
 
 
-<div style="background-image: url('/assets/skips/bridge_skip/bridge.jpg'); height:250px; margin-right:20px">
+<div style="background-image: url('/assets/skips/jump-up_skip/soshi-jump-up-skip.png'); height:250px; margin-right:20px">
   <p style="float:left;
             width:50%;
             margin-top:170px;
