@@ -2,7 +2,7 @@
 title: Jump-up Skip
 description: 
 published: true
-date: 2024-02-08T16:43:40.684Z
+date: 2024-02-08T16:45:17.266Z
 tags: skip, prologue, factory, 2b
 editor: markdown
 dateCreated: 2024-01-26T13:21:05.571Z
@@ -20,7 +20,7 @@ dateCreated: 2024-01-26T13:21:05.571Z
             font-weight:bold;
             background-image: linear-gradient(to right, rgba(16, 16, 16, 0.9), rgba(0, 0, 0, 0));">
     Area: Factory, Deep Factory<br>
-    Character: 2B, A2
+    Character: 2B
   </p>
 </div>
 
