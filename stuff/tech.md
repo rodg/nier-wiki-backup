@@ -2,7 +2,7 @@
 title: Tech
 description: 
 published: true
-date: 2024-02-07T15:16:21.211Z
+date: 2024-02-08T16:10:10.928Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T09:39:01.916Z
@@ -77,6 +77,7 @@ dateCreated: 2024-01-26T09:39:01.916Z
 - Melee and Ranged attacks
 - Pod Programs
 - Engels Double Hit
+- Goliath Flyer Clip
 
 Hacking & 9S Combat
 
