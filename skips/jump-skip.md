@@ -1,8 +1,8 @@
 ---
-title: Jump Skip
+title: Jump-up Skip
 description: 
 published: true
-date: 2024-01-29T11:56:01.616Z
+date: 2024-02-08T16:27:58.822Z
 tags: skip, prologue, factory, 2b
 editor: markdown
 dateCreated: 2024-01-26T13:21:05.571Z
@@ -12,12 +12,15 @@ Area: Factory
 Character: 2B
 
 # Overview
-Jump Skip avoids 2B's jump animation after the Silo-1 fight to start the cutscene of Marx destroying the silo earlier.
+Jump-up Skip avoids 2B's jump animation upon defeating an enemy who's death triggers a cutscene.
+It can be performed after the Silo-1 fight to start the cutscene of Marx destroying the silo earlier, as well as after defeating So-Shi in deep factory.
 
 # Execution
-To get this skip you should be pre-throwing a DG where the Medium Biped is going to land.
+To get this skip is Silo-1 you should be pre-throwing a DG where the Medium Biped is going to land.
+For So-Shi throw a DG as soon as he has retraced his legs and is about to bounce up.
 
-Walk around the biped while the spinning sword damages it.
+Make sure to be walking while the spinning sword damages the enemy.
+The direction you walk in doesn't matter because 2B being in her walk animation is the desciding factor.
 
-When done correctly the cutscene of 2B kicking the biped against the silo wall should be playing instantly when its health reaches zero as opposed to her jumping up, leaving the screen.
+When done correctly the respective cutscene should be playing instantly when the enemies health reaches zero as opposed to her jumping up, leaving the screen.
 This skip saves around half a second.
