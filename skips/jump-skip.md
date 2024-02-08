@@ -2,7 +2,7 @@
 title: Jump-up Skip
 description: 
 published: true
-date: 2024-02-08T16:39:02.520Z
+date: 2024-02-08T16:42:38.688Z
 tags: skip, prologue, factory, 2b
 editor: markdown
 dateCreated: 2024-01-26T13:21:05.571Z
@@ -33,12 +33,24 @@ It can be performed after the Silo-1 fight to start the cutscene of Marx destroy
 
 
 # Execution
+<div style="float:right; text-align:center; margin:20px">
+  <img width="533" height="300" src="/assets/intro/weapon_sets/weaponset_screen.jpg"><br>
+  <i>A typical configuration in the speedrun</i>
+</div>
 
+<br>
+<br>
 To get this skip is Silo-1 you should be pre-throwing a DG where the Medium Biped is going to land.
 For So-Shi throw a DG as soon as he has retraced his legs and is about to bounce up.
+<br>
 
 Make sure to be walking while the spinning sword damages the enemy.
 The direction you walk in doesn't matter because 2B being in her walk animation is the desciding factor.
-
+<br>
 When done correctly the respective cutscene should be playing instantly when the enemies health reaches zero as opposed to 2B jumping up, leaving the screen.
 This skip saves around half a second.
+
+
+
+
+
