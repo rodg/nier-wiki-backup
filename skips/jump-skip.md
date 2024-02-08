@@ -2,7 +2,7 @@
 title: Jump-up Skip
 description: 
 published: true
-date: 2024-02-08T16:27:58.822Z
+date: 2024-02-08T16:28:12.226Z
 tags: skip, prologue, factory, 2b
 editor: markdown
 dateCreated: 2024-01-26T13:21:05.571Z
@@ -13,6 +13,7 @@ Character: 2B
 
 # Overview
 Jump-up Skip avoids 2B's jump animation upon defeating an enemy who's death triggers a cutscene.
+
 It can be performed after the Silo-1 fight to start the cutscene of Marx destroying the silo earlier, as well as after defeating So-Shi in deep factory.
 
 # Execution
