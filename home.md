@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-09T20:38:18.854Z
+date: 2024-02-09T20:39:07.775Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -16,28 +16,29 @@ dateCreated: 2023-08-13T22:32:44.381Z
 <br>
 <!--<p style="text-align:center; font-size:2rem; font-weight:bold;">Getting Started</p>-->
 
-<div style="width:300px; margin-left:25%; margin-top:50px; float:left;">
+<div id="beginner_link" style="width:300px; margin-left:25%; margin-top:50px; float:left;">
   <a href="/intro/beginner-guide" style="text-decoration: none; color:lightGrey;">
-    <div style="background-image:url(/assets/home/beginner-thumbnail.jpg);
+    <div id="beginner_link_image" style="background-image:url(/assets/home/beginner-thumbnail.jpg);
                 background-size: cover;
                 text-align:center;">
-      <div class="panel-button" style="padding-top:3.8rem;
+      <div style="padding-top:3.8rem;
                   padding-bottom:3.8rem;
                   font-size:2rem;
                   font-weight:bold;
-                  background-color:rgba(0, 0, 0, 0.5)">Beginner's Guide</div>
+                  background-color:rgba(0, 0, 0, 0.5)
+                  :hover { background-color:rgba(0, 0, 0, 0.8) }">Beginner's Guide</div>
     </div>
   </a>
   <p style="text-align:justify;">If you're a new runner, check out the Beginner's Guide. It will get you started with the most important things you need to start speedrunning.</p>
 </div>
 
-<div style="width:300px; margin-left:55%; margin-top:50px;">
+<div id="skip_link" style="width:300px; margin-left:55%; margin-top:50px;">
   <a href="/stuff/skip-list" style="text-decoration: none; color:lightGrey;">
     <div style="background-image:url(/assets/home/skips-thumbnail.jpg);
                 height:169px;
                 background-size: cover;
                 text-align:center;">
-      <div class="panel-button" style="padding-top:61px;
+      <div style="padding-top:61px;
                   padding-bottom:60px;
                   font-size:2rem;
                   font-weight:bold;
