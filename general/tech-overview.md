@@ -1,8 +1,8 @@
 ---
-title: Tech
+title: Tech Content
 description: 
 published: true
-date: 2024-02-09T12:36:30.718Z
+date: 2024-02-09T12:59:57.100Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T09:39:01.916Z
