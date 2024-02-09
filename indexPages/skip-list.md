@@ -1,8 +1,8 @@
 ---
-title: Skip List
+title: Skip List - [A]ny%
 description: a list of skips duh
 published: true
-date: 2024-02-09T20:30:16.452Z
+date: 2024-02-09T20:30:28.705Z
 tags: skip
 editor: markdown
 dateCreated: 2024-01-24T00:20:03.711Z
