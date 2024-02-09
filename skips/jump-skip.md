@@ -2,12 +2,11 @@
 title: Jump-up Skip
 description: 
 published: true
-date: 2024-02-09T11:55:32.095Z
+date: 2024-02-09T11:59:57.712Z
 tags: skip, prologue, factory, 2b
 editor: markdown
 dateCreated: 2024-01-26T13:21:05.571Z
 ---
-
 
 <div style="background-image: url('/assets/skips/jump-up_skip/soshi-jump-up-skip_wide.png'); height:250px; margin-right:20px; background-size: cover;">
   <p style="float:left;
@@ -34,8 +33,8 @@ It can be performed after the Silo-1 fight to start the cutscene of Marx destroy
 
 # Execution
 <div style="float:right; text-align:center; margin:20px">
-  <img width="533" height="300" src="/assets/intro/weapon_sets/weaponset_screen.jpg"><br>
-  <i>A typical configuration in the speedrun</i>
+  <img height="300" src="/assets/skips/jump-up_skip/silo-1-jump-up-skip.jpg"><br>
+  <i>Jump-up skip in Silo 1</i>
 </div>
 
 <br>
