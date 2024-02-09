@@ -2,7 +2,7 @@
 title: Jump-up Skip
 description: 
 published: true
-date: 2024-02-09T12:01:22.553Z
+date: 2024-02-09T12:03:23.353Z
 tags: skip, prologue, factory, 2b
 editor: markdown
 dateCreated: 2024-01-26T13:21:05.571Z
@@ -24,10 +24,6 @@ dateCreated: 2024-01-26T13:21:05.571Z
 </div>
 
 # Overview
-<div style="float:right; text-align:center; margin:20px">
-  <img height="300" src="/assets/skips/jump-up_skip/silo-1-jump-up-skip.jpg"><br>
-  <i>Jump-up skip in Silo 1</i>
-</div>
 
 <br>
 Jump-up Skip avoids 2B's jump animation upon defeating an enemy who's death triggers a cutscene.
@@ -36,6 +32,10 @@ It can be performed after the Silo-1 fight to start the cutscene of Marx destroy
 
 
 # Execution
+<div style="float:right; text-align:center; margin:20px">
+  <img height="300" src="/assets/skips/jump-up_skip/silo-1-jump-up-skip.jpg"><br>
+  <i>Jump-up skip in Silo 1</i>
+</div>
 
 <br>
 To get this skip is Silo-1 you should be pre-throwing a DG where the Medium Biped is going to land.
