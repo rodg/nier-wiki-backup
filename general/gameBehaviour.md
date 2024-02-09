@@ -1,8 +1,8 @@
 ---
-title: GameBehaviour
+title: Game Behaviour
 description: 
 published: true
-date: 2024-02-09T12:45:44.643Z
+date: 2024-02-09T12:47:30.642Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T14:34:00.873Z
