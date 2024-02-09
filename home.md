@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-02-09T20:39:07.775Z
+date: 2024-02-09T20:39:58.559Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -18,10 +18,10 @@ dateCreated: 2023-08-13T22:32:44.381Z
 
 <div id="beginner_link" style="width:300px; margin-left:25%; margin-top:50px; float:left;">
   <a href="/intro/beginner-guide" style="text-decoration: none; color:lightGrey;">
-    <div id="beginner_link_image" style="background-image:url(/assets/home/beginner-thumbnail.jpg);
+    <div style="background-image:url(/assets/home/beginner-thumbnail.jpg);
                 background-size: cover;
                 text-align:center;">
-      <div style="padding-top:3.8rem;
+      <div class="panel-button" style="padding-top:3.8rem;
                   padding-bottom:3.8rem;
                   font-size:2rem;
                   font-weight:bold;
@@ -38,7 +38,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
                 height:169px;
                 background-size: cover;
                 text-align:center;">
-      <div style="padding-top:61px;
+      <div class="panel-button" style="padding-top:61px;
                   padding-bottom:60px;
                   font-size:2rem;
                   font-weight:bold;
