@@ -2,7 +2,7 @@
 title: Tech
 description: 
 published: true
-date: 2024-02-08T16:10:10.928Z
+date: 2024-02-09T12:36:30.718Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T09:39:01.916Z
@@ -19,7 +19,7 @@ dateCreated: 2024-01-26T09:39:01.916Z
 - Save scums
 - Death warps
 - Drown warps
-- Stab Animation Cancels
+- Stab / Dash-drop Animation Cancels
 - Picture Books, E-drugs & Voice Changer
 - Mid air pause (SD & Plunge Glitch version)
 
