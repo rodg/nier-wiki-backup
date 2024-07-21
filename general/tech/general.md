@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-07-21T14:43:58.759Z
+date: 2024-07-21T14:47:29.862Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -19,7 +19,7 @@ It can also be canceled by letting go of the button while SD is held, or during 
 A Pod Program is also not discharged after fully self destructing.
 ### Requirements
 A chargeable Pod Program has to be equiped on the active Pod (first aquired during the Marx 1 fight) and it has to be off cooldown.
-The majority of all Pod Programs are chargeable, exceptions are: Wire
+The majority of all Pod Programs are chargeable, exceptions are: Wire (editor note: check for more)
 ### Additional Notes
 - The Quick access Menu cannot be used during Slow-mo, redering you temporarily unable to use Healing items or switch weapon sets while Slow-mo is held
 - Toggleing fashlight to taunt is still possible during Slow-mo
