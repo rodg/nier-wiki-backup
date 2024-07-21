@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-07-21T14:32:49.789Z
+date: 2024-07-21T14:43:58.759Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -16,11 +16,15 @@ Hold the Pod Program Button to charge your Pod Program, during the first few sec
 
 The easiest way to cancel a Pod Program is by briefly using Pod Fire.
 It can also be canceled by letting go of the button while SD is held, or during the start of a dash.
-A Pod Program is also not discharged after fully self destructing and Slow-mo can be held while doing so.
+A Pod Program is also not discharged after fully self destructing.
 ### Requirements
 A chargeable Pod Program has to be equiped on the active Pod (first aquired during the Marx 1 fight) and it has to be off cooldown.
-The majority of all Pod Programs is chargeable, exceptions are: Wire
-
+The majority of all Pod Programs are chargeable, exceptions are: Wire
+### Additional Notes
+- The Quick access Menu cannot be used during Slow-mo, redering you temporarily unable to use Healing items or switch weapon sets while Slow-mo is held
+- Toggleing fashlight to taunt is still possible during Slow-mo
+- Holding Slow-mo during an aerial combo makes the player unable to glide with the Pod or Podspin
+- Slow-mo can be performed simultaniously with holding SD
 
 # SD canceling
 # Dialogue:
