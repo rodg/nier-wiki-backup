@@ -2,7 +2,7 @@
 title: Tech Content
 description: 
 published: true
-date: 2024-02-09T12:59:57.100Z
+date: 2024-07-21T13:40:54.278Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T09:39:01.916Z
@@ -12,6 +12,7 @@ dateCreated: 2024-01-26T09:39:01.916Z
 - Slow-mo
 - SD canceling
 - Dialogue:
+	- Mashing
 	- (Partner) Dialogue Cancels
 	- Pod Pats / God Pat
 	- Dialogue Shortcut buffering
@@ -27,17 +28,25 @@ dateCreated: 2024-01-26T09:39:01.916Z
 **Ground Movement:**
 - Dash Chain (Punch / Swing)
 - Spear Dashing
+- Weapon Switching and Momentum
 
 **Aerial Movement:**
+- Basic Aerial Movement Abilites
 - Plunges, Podspins & Pod Launches
 - Rising Frames
 - Lifts, Double Lifts & Heavies
 - Light attacks & Light holds
 - SD & Mirage in Aerial Movement
+- Weapon Switching Momentum in Aerials
 - High / Long Jumps
 
 **Misc. Movement:**
 - Clipping
+	- Clipping Power
+	- Corner Clips
+  - 2D Plane Clips
+  - Falling Clips
+  - Holes or Jumping over Walls
 - Plunge Slides
 - Sand Slides 
 - Boar Hopping
@@ -55,6 +64,8 @@ dateCreated: 2024-01-26T09:39:01.916Z
 - Plunge Glitches
 - Weapon set switching & combo (light) restrictions
 - Infini-slashing / -stabbing 
+- Mid-air Glide Buffers
+- ADLs and DLG
 ## Combat
 **Basic Components:**
 - DGs, DDG & Pod fire
