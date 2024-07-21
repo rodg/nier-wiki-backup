@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-07-21T15:42:22.333Z
+date: 2024-07-21T16:17:56.112Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -19,7 +19,8 @@ It can also be canceled by letting go of the button while SD is held, or during 
 A Pod Program is also not discharged after fully self destructing.
 ### Requirements
 A **chargeable Pod Program** has to be equiped on the active Pod (first aquired during the Marx 1 fight) and it has to be **off cooldown**.
-The majority of all Pod Programs are chargeable, exceptions are: Wire (editor note: check for more)
+The majority of all Pod Programs are chargeable, exceptions are: Wire
+*(editor note: check for more)*
 ### Additional Notes
 - The Quick access Menu cannot be used during Slow-mo, redering you temporarily unable to use Healing items or switch weapon sets while Slow-mo is held
 - Toggleing fashlight to taunt is still possible during Slow-mo
@@ -33,6 +34,19 @@ Due to it's properties however it is a very versitile ability that enables a wid
 SD becomes available **immediatly after completing the Prologue** of the game. (actually even before the start-up menu sequence)
 Since Self Destruct is used so much and being able to press it for very short durations at a time is very important, it is **highly recommended to rebind** it to a button that is comfortable to press.
 Most Runners will have it bound to either **Bumper** (more commonly L1 / LB) or the **D-Pad**.
+### Aplications
+- When tapped SD will cancel any action the chracter is currently in and return them to an idle state. 
+	It can therefor also be used to asure an idle player state or comming to a dead stop at any time.
+- Letting go of SD when tapping or previously holding it will instantly kill all momentum the character has except for falling momentum.
+- When the player already has momentum when starting to hold SD (eg. from a Plunge) the momentum will be maintained until the button is released.
+- Repeatedly tapping SD while falling prevents the character from going into a belly flop animation and additionally negates all fall damage.
+- When canceling an attack with SD the combo will still be advanced, so it can skip to later attacks in any combo.
+- Canceling most combo attacks before their conclusion will reset the attack enableing the player to repeatedly use it.
+ (eg. used for Spear Dashing)
+- Can be used to cancel and perform an additional heavy attack during an Aerial combo.
+- Fully executing a self destruct deals a large amount of damage to anything around the character and reduces HP to 1.
+SD damage is increased by WAU (weapon attack up) chips and Melee attack buffs, as well as taunt.
+A full SD is most commonly used just before a cutscene, since that gets around the long stagger afterwards.
 
 # Dialogue:
 ## Mashing
