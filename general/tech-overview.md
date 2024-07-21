@@ -2,7 +2,7 @@
 title: Tech Content
 description: 
 published: true
-date: 2024-07-21T13:40:54.278Z
+date: 2024-07-21T13:43:03.571Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T09:39:01.916Z
@@ -26,12 +26,13 @@ dateCreated: 2024-01-26T09:39:01.916Z
 
 ## Movement
 **Ground Movement:**
+- Basic Moveset
 - Dash Chain (Punch / Swing)
 - Spear Dashing
 - Weapon Switching and Momentum
 
 **Aerial Movement:**
-- Basic Aerial Movement Abilites
+- Basic Aerial Moveset
 - Plunges, Podspins & Pod Launches
 - Rising Frames
 - Lifts, Double Lifts & Heavies
