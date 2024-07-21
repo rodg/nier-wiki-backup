@@ -2,7 +2,7 @@
 title: Tech Content
 description: 
 published: true
-date: 2024-07-21T13:43:03.571Z
+date: 2024-07-21T13:47:52.905Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T09:39:01.916Z
