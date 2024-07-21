@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-07-21T16:17:56.112Z
+date: 2024-07-21T16:22:26.055Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -27,7 +27,7 @@ The majority of all Pod Programs are chargeable, exceptions are: Wire
 - Holding Slow-mo during an aerial combo makes the player unable to glide with the Pod or Podspin
 - Slow-mo can be performed simultaniously with holding SD
 
-# SD canceling
+# Self Destruct
 If there is one universally useful and powerful tool at our disposal, the **Self Destruct** function or **SD** for short would be a top contender. Playing casually some people might use it to blow up 2B's skirt, but then most likely never touch it again.
 Due to it's properties however it is a very versitile ability that enables a wide variaty of tech.
 ### Requirements
@@ -47,6 +47,9 @@ Most Runners will have it bound to either **Bumper** (more commonly L1 / LB) or 
 - Fully executing a self destruct deals a large amount of damage to anything around the character and reduces HP to 1.
 SD damage is increased by WAU (weapon attack up) chips and Melee attack buffs, as well as taunt.
 A full SD is most commonly used just before a cutscene, since that gets around the long stagger afterwards.
+### Additional Notes
+- Being in a state of SD stagger or holding SD when a cutscene starts diables pausing for that cutscene.
+The only way to skip the cutscene in that case is with holding B / Circle.
 
 # Dialogue:
 ## Mashing
