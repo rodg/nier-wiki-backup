@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-07-21T16:23:39.844Z
+date: 2024-07-22T11:04:05.353Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -51,15 +51,22 @@ A full SD is most commonly used just before a cutscene, since that gets around t
 - Being in a state of SD stagger or holding SD when a cutscene starts diables pausing for that cutscene.
 The only way to skip the cutscene in that case is with holding B / Circle.
 
-# Dialogue:
-## Mashing
-## (Partner) Dialogue Cancels
-## Pod Pats / God Pat
-## Dialogue Shortcut buffering
-# Cutscene slow walk cancels
-# Save scums
-# Death warps
-# Drown warps
-# Stab / Dash-drop Animation Cancels
-# Picture Books, E-drugs & Voice Changer
-# Mid air pause (SD & Plunge Glitch version)
+# Dialogue
+### Mashing
+### (Partner) Dialogue Cancels
+### Pod Pats & God Pat
+### Dialogue Shortcut buffering
+### E-Drugs & Voice Changer
+### Picture Books
+
+# Animation cancels
+### Slow Walk
+### Button Press
+# Warping
+### Save scums
+### Death warps
+### Drown warps
+
+# Misc 
+### Mid-air System Menu
+### Picture Books
