@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-07-22T11:08:57.666Z
+date: 2024-07-22T11:09:53.983Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -45,17 +45,3 @@ dateCreated: 2023-08-13T22:32:44.381Z
   <p style="text-align:justify;">If you're looking for information or instructions for a specific skip, you can search for it in the list of skips.</p>
 </div>
 
-<div id="skip_link" style="width:300px; margin-left:55%; margin-top:50px;">
-  <a href="/indexPages/skip-list" style="text-decoration: none; color:lightGrey;">
-    <div style="background-image:url(/assets/home/skips-thumbnail.jpg);
-                height:169px;
-                background-size: cover;
-                text-align:center;">
-      <div class="panel-button" style="padding-top:61px;
-                  padding-bottom:60px;
-                  font-size:2rem;
-                  font-weight:bold;">Skip List</div>
-    </div>
-  </a>
-  <p style="text-align:justify;">If you're looking for information or instructions for a specific skip, you can search for it in the list of skips.</p>
-</div>
