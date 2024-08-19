@@ -2,7 +2,7 @@
 title: Top Secret Todo List
 description: 
 published: true
-date: 2024-08-19T15:39:52.910Z
+date: 2024-08-19T15:50:37.176Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T18:52:53.290Z
@@ -36,6 +36,8 @@ dateCreated: 2024-01-31T18:52:53.290Z
  - SD
  
 # Resource Hub Concept
+Basically a page that has downloads or external links for all the stuff listed below.
+That way there is one central place for all of it. (srdc resources tab is scuffed imo / incomplete)
 <br>
 
 ### Tools
@@ -56,45 +58,47 @@ dateCreated: 2024-01-31T18:52:53.290Z
 - FAR (SpecialK)
 <br>
 
-### Prologue
+### Live Split Suff by Category
+**Prologue**
 - prologue.lss
 - prologue.asl
-<br>
 
-### Any%
+**Any%**
 - A_ending.lss
 - A_ending_VC3.lss
 - A_ending.asl
-<br>
 
-### RedDots
+**RedDots**
 - reddots.lss
 - reddots.asl
-<br>
 
-### Fishing
+**Fishing**
 - mackerel.lss
 - mackerel.asl
 - allFishables.lss
 - allFishables.asl
-<br>
 
-### [E]
+**[E]**
 - allMajorEndings.lss
 - allMajorEndings.asl
-<br>
 
-### 100%
+**100%**
 - hundo.lss
 - hundo.asl
 - Intel Tracker
-<br>
 
-### [A] - [Z]
+
+**[A] - [Z]**
 - allEndings.lss
 - allEndings.asl
 <br>
 
+### Practice Saves
+- A_ending
+- A_ending_VC3
+- E_ending
+- A-Z
+- Hundo
 
 
 
