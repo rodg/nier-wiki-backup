@@ -2,13 +2,13 @@
 title: General Tech
 description: 
 published: true
-date: 2024-08-19T15:14:33.896Z
+date: 2024-08-19T15:15:05.501Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
 ---
 
-Automata has a lot of idiosyncrasies in it's mechanics and how they interact. Because of that there are a lot of things we can exploit and use to our advantage in a speedrun. To better understand the underlying mechanisms also refer to [Game Behaviour](/lookUp/game-behaviour). This page is about all the tech that is neither clearly [Combat](/tech/combat) or [Movement](/tech/movement) tech in itself, but can require or augment them.
+Automata has a lot of idiosyncrasies in it's mechanics and how they interact. Because of that there are a lot of things we can exploit and use to our advantage in a speedrun. To better understand the underlying mechanisms also refer to [Game Behaviour](/lookUp/behaviour). This page is about all the tech that is neither clearly [Combat](/tech/combat) or [Movement](/tech/movement) tech in itself, but can require or augment them.
 # Slow-mo
 Slow-mo is a very escential technic that has a wide range of uses. It helps in combat and with movement, as well as some other aplications. It is used to **slow down** most aspects of the **game world** excluding the player.
 ### Execution
