@@ -2,7 +2,7 @@
 title: Top Secret Todo List
 description: 
 published: true
-date: 2024-08-19T15:38:46.152Z
+date: 2024-08-19T15:39:52.910Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T18:52:53.290Z
@@ -10,8 +10,8 @@ dateCreated: 2024-01-31T18:52:53.290Z
 
 # To Do
 
-- glossary -> wip [here](/stuff/glossary)
-- also list of skips based on category here, tiny descriptions of skips and links to respective pages -> wip [here](/stuff/skip-list)
+- glossary -> wip [here](/lookUp/glossary)
+- also list of skips based on category here, tiny descriptions of skips and links to respective pages -> wip [here](/skipLists/skip-list-any)
 - Beginner's guide and shit (wip in /intro but not sure about the structure: should there be one giant beginner page or multiple smaller linked to by the beginner page?)
 
 ### Videos
