@@ -2,7 +2,7 @@
 title: Top Secret Todo List
 description: 
 published: true
-date: 2024-08-19T15:58:03.059Z
+date: 2024-08-19T15:59:25.051Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T18:52:53.290Z
@@ -35,7 +35,7 @@ dateCreated: 2024-01-31T18:52:53.290Z
  - how to clip: what attacks and shit allow you to clip, what terrain etc
  - SD
  
-# Resource Hub Concept
+## Resource Hub Concept
 Basically a page that has downloads or external links for all the stuff listed below.
 That way there is one central place for all of it. (srdc resources tab is scuffed imo / incomplete)
 <br>
