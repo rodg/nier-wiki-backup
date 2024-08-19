@@ -2,7 +2,7 @@
 title: Top Secret Todo List
 description: 
 published: true
-date: 2024-08-19T15:50:37.176Z
+date: 2024-08-19T15:58:03.059Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T18:52:53.290Z
@@ -58,6 +58,14 @@ That way there is one central place for all of it. (srdc resources tab is scuffe
 - FAR (SpecialK)
 <br>
 
+### Practice Saves
+- A_ending
+- A_ending_VC3
+- E_ending
+- A-Z
+- Hundo
+<br>
+
 ### Live Split Suff by Category
 **Prologue**
 - prologue.lss
@@ -91,14 +99,8 @@ That way there is one central place for all of it. (srdc resources tab is scuffe
 **[A] - [Z]**
 - allEndings.lss
 - allEndings.asl
-<br>
 
-### Practice Saves
-- A_ending
-- A_ending_VC3
-- E_ending
-- A-Z
-- Hundo
+
 
 
 
