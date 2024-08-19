@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-19T15:13:23.420Z
+date: 2024-08-19T16:20:33.569Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-13T22:32:44.381Z
@@ -39,7 +39,7 @@ dateCreated: 2023-08-13T22:32:44.381Z
       <div class="panel-button" style="padding-top:61px;
                   padding-bottom:60px;
                   font-size:2rem;
-                  font-weight:bold;">Skip List</div>
+                  font-weight:bold;">Any% Skip List</div>
     </div>
   </a>
   <p style="text-align:justify;">If you're looking for information or instructions for a specific skip, you can search for it in the list of skips.</p>
