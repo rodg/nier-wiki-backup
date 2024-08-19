@@ -2,7 +2,7 @@
 title: Glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2024-08-19T15:05:50.428Z
+date: 2024-08-19T16:00:57.204Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -93,7 +93,7 @@ dateCreated: 2023-08-14T00:15:50.224Z
 
 # Skips/Tricks/Movements List
 ideally in order of appearance
-> at least the skips are now [here](/stuff/skip-list)
+> at least the skips are now [here](/skipLists/skip-list-any)
 
 ## Prologue?
 ## [A]
