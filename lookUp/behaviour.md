@@ -1,8 +1,8 @@
 ---
-title: Game Behaviour (unfinished)
+title: Game Behaviour
 description: 
 published: true
-date: 2024-08-19T15:04:47.657Z
+date: 2024-08-19T15:05:23.264Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T14:34:00.873Z
