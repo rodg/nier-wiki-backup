@@ -2,7 +2,7 @@
 title: Top Secret Todo List
 description: 
 published: true
-date: 2024-02-07T15:03:09.853Z
+date: 2024-08-19T15:38:46.152Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-31T18:52:53.290Z
@@ -34,3 +34,75 @@ dateCreated: 2024-01-31T18:52:53.290Z
 # Page ideas
  - how to clip: what attacks and shit allow you to clip, what terrain etc
  - SD
+ 
+# Resource Hub Concept
+<br>
+
+### Tools
+- OBS
+- Live Split
+- NASM
+- YASM
+- CE Practice table (NAPT)
+<br>
+
+### Mods
+- VC3Mod
+- Kajiki
+- Celestial
+- Fast Loads
+- Resuced SD
+- Blue Mod
+- FAR (SpecialK)
+<br>
+
+### Prologue
+- prologue.lss
+- prologue.asl
+<br>
+
+### Any%
+- A_ending.lss
+- A_ending_VC3.lss
+- A_ending.asl
+<br>
+
+### RedDots
+- reddots.lss
+- reddots.asl
+<br>
+
+### Fishing
+- mackerel.lss
+- mackerel.asl
+- allFishables.lss
+- allFishables.asl
+<br>
+
+### [E]
+- allMajorEndings.lss
+- allMajorEndings.asl
+<br>
+
+### 100%
+- hundo.lss
+- hundo.asl
+- Intel Tracker
+<br>
+
+### [A] - [Z]
+- allEndings.lss
+- allEndings.asl
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
