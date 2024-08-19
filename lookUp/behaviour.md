@@ -1,8 +1,8 @@
 ---
 title: Game Behaviour
-description: Descriptions and explanations for the various idiosyncrasies of this game 
+description: Descriptions and explanations for the various idiosyncrasies of the game 
 published: true
-date: 2024-08-19T15:08:18.330Z
+date: 2024-08-19T15:08:46.568Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T14:34:00.873Z
