@@ -1,8 +1,8 @@
 ---
-title: General Tech (unfinished)
+title: General Tech
 description: 
 published: true
-date: 2024-08-19T14:51:36.898Z
+date: 2024-08-19T15:14:33.896Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
