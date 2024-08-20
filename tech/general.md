@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-08-20T15:51:42.362Z
+date: 2024-08-20T16:00:46.277Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -81,11 +81,13 @@ The **normal Pod Pat** dialogue has a **low dialogue strengh** and can only canc
 ### Dialogue Shortcut buffering
 In some cases it is beneficial to have **voiced dialogue** end with a **specific timing** relative to in game animations.
 This can be influenced with the **Shortcut Menu**. When the Shortcut Menu is opend the game will be paused instantly, but dialogue keeps playing for a short time.
-By opening and closing Shortcuts quickly any **dialogue almost doesn't stop** at all while the **game gets frozen** for a **brief moment**. To allin the end of a dialogue with an animation this is repeated as manny times as required to get the right timing, this is called **Shortcut buffering**.
+By opening and closing Shortcuts quickly any **dialogue almost doesn't stop** at all while the **game gets frozen** for a **brief moment**. To allign the end of a dialogue with an animation this is repeated as manny times as required to get the right timing, this is called **Shortcut buffering**.
 
 Most famosly this is used at the end of Prologue to make the dialogue there end just before one of Engel's attacks, to trigger the next cutscene instantly.
+### Cutscenes
+Ongoing dialogue is also canceled when colliding with a cutscene. Cutscenes are strong canlcels that instantly get rid of most text boxes even when they have multible lines.
+There are exceptions to this however: if a text box contains a pop-up it can be brought trough cutscenes in some cases, but said cutscene cannot be skipped without closing the dialogue as well. (eg. EDS) 
 ### E-Drugs & Voice Changer
-### Picture Books
 
 # Animation cancels
 ### Slow Walk
