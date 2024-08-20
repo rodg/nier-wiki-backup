@@ -2,11 +2,13 @@
 title: Game Behaviour
 description: Descriptions and explanations for the various idiosyncrasies of the game 
 published: true
-date: 2024-08-19T15:08:46.568Z
+date: 2024-08-20T13:17:11.287Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-07T14:34:00.873Z
 ---
+
+>This page is unfinished{.is-warning}
 
 # Game and Player States
 ### Various types of Triggers and how Phases work
