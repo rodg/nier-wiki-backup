@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-08-20T16:07:51.851Z
+date: 2024-08-20T16:32:16.478Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -89,7 +89,10 @@ Ongoing dialogue is also canceled when **colliding** with a **cutscene**. Cutsce
 There are exceptions to this however: if a text box contains a pop-up it can be brought trough cutscenes in some cases, but said cutscene **cannot** be skipped without closing the dialogue as well. (eg. EDS)
 Most of the time cutscene cancels are very **situation specific** for obvious reasons, but they can get very flexible in some categories that aquire **Picture Books**. (refer to Picture Book section below)
 ### E-Drugs & Voice Changer
-
+There are two ways to speed up voiced dialogue significantly: E-Drugs and Voice Changer.
+- **E-Drugs:** 2 of the random effects of E-Drugs add an effect to voice lines that makes them multible times faster.
+Use E-Drugs until you hear a high pitched use sound and the screen turns either retro green or get transparent graphical glitches at the sides.
+- **Voice Chanager:** will be unlocked after completing ending A. The different settings change how the player charactzer speaks. Set this to one bar off of maximum for the fastest voice lines after completing A ending.
 # Animation cancels
 ### Slow Walk
 ### Button Press
