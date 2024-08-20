@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-08-20T15:50:46.232Z
+date: 2024-08-20T15:51:42.362Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -79,8 +79,9 @@ Patting the Pod also **triggers dialogue** that can be used to cancel another on
 
 The **normal Pod Pat** dialogue has a **low dialogue strengh** and can only cancel some dialogues, however after **patting the Pod 50 times** a special **higher strengh** dialogue is triggers, which is refered to as the **God Pat**. Currently there are no uses of the God Pat in runs.
 ### Dialogue Shortcut buffering
-In some cases it is beneficial to have **voiced dialogue** end with a **specific timing** relative to in game animations. This can be influenced with the **Shortcut Menu**.
-When the Shortcut Menu is opend the game will be paused instantly, but dialogue keeps playing for a short time. By opening and closing Shortcuts quickly any **dialogue almost doesn't stop** at all while the **game gets frozen** for a **brief moment**. To allin the end of a dialogue with an animation this is repeated as manny times as required to get the right timing, this is called **Shortcut buffering**.
+In some cases it is beneficial to have **voiced dialogue** end with a **specific timing** relative to in game animations.
+This can be influenced with the **Shortcut Menu**. When the Shortcut Menu is opend the game will be paused instantly, but dialogue keeps playing for a short time.
+By opening and closing Shortcuts quickly any **dialogue almost doesn't stop** at all while the **game gets frozen** for a **brief moment**. To allin the end of a dialogue with an animation this is repeated as manny times as required to get the right timing, this is called **Shortcut buffering**.
 
 Most famosly this is used at the end of Prologue to make the dialogue there end just before one of Engel's attacks, to trigger the next cutscene instantly.
 ### E-Drugs & Voice Changer
