@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-08-20T16:00:46.277Z
+date: 2024-08-20T16:07:51.851Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -85,8 +85,9 @@ By opening and closing Shortcuts quickly any **dialogue almost doesn't stop** at
 
 Most famosly this is used at the end of Prologue to make the dialogue there end just before one of Engel's attacks, to trigger the next cutscene instantly.
 ### Cutscenes
-Ongoing dialogue is also canceled when colliding with a cutscene. Cutscenes are strong canlcels that instantly get rid of most text boxes even when they have multible lines.
-There are exceptions to this however: if a text box contains a pop-up it can be brought trough cutscenes in some cases, but said cutscene cannot be skipped without closing the dialogue as well. (eg. EDS) 
+Ongoing dialogue is also canceled when **colliding** with a **cutscene**. Cutscenes are **strong canlcels** that instantly get rid of most text boxes even when they have multible lines.
+There are exceptions to this however: if a text box contains a pop-up it can be brought trough cutscenes in some cases, but said cutscene **cannot** be skipped without closing the dialogue as well. (eg. EDS)
+Most of the time cutscene cancels are very **situation specific** for obvious reasons, but they can get very flexible in some categories that aquire **Picture Books**. (refer to Picture Book section below)
 ### E-Drugs & Voice Changer
 
 # Animation cancels
