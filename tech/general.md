@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-08-20T13:58:25.883Z
+date: 2024-08-20T13:59:57.986Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -66,7 +66,8 @@ For this reason each line requires two inputs to be skiped: the first to skip th
 
 This makes mashing **A and B** or **X and Circle** in an **alternating** pattern that fastest way of getting through text.
 
-Finally the **declining option** for all choice dialogue gets **automatically selected** by pressing B or Circle, while the confirming option has not such shortcut. Because of that each time an option needs to be declined a normal mashing pattern will do so automatically.
+Finally the **declining option** for all choice dialogue gets **automatically selected** by pressing B or Circle, while the confirming option has not such shortcut.
+Because of that each time an option needs to be declined a normal mashing pattern will do so automatically.
 ### (Partner) Dialogue Cancels
 ### Pod Pats & God Pat
 ### Dialogue Shortcut buffering
