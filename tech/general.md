@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-08-20T13:59:57.986Z
+date: 2024-08-20T15:50:46.232Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -69,8 +69,20 @@ This makes mashing **A and B** or **X and Circle** in an **alternating** pattern
 Finally the **declining option** for all choice dialogue gets **automatically selected** by pressing B or Circle, while the confirming option has not such shortcut.
 Because of that each time an option needs to be declined a normal mashing pattern will do so automatically.
 ### (Partner) Dialogue Cancels
+One of the most common ways to cancel dialogue is done by having **two dialogues "collide"**. This means that one dialogue is already active while another is triggered. In a case like this the game doesn't know what to do and closes both dialogues. (advances in case of text dialogue resulting in it staying open if it has enough lines)
+
+Most of the time this is achived by **stopping** to **talk** to the **partner character** and **walking into another dialogue trigger** right afterwards; or **talking to an NPC** while in an animation that moves the player into a dialogue trigger shortly after.
+
+In some cases cancels will also happen "automatically" by getting to a trigger fast enough that **story related dialogue is still playing**.
 ### Pod Pats & God Pat
+Patting the Pod also **triggers dialogue** that can be used to cancel another one. Additionally when Pod patting the character bends over making their **hitbox extend behind** them which can be used to touch triggers with a Pod Pat.
+
+The **normal Pod Pat** dialogue has a **low dialogue strengh** and can only cancel some dialogues, however after **patting the Pod 50 times** a special **higher strengh** dialogue is triggers, which is refered to as the **God Pat**. Currently there are no uses of the God Pat in runs.
 ### Dialogue Shortcut buffering
+In some cases it is beneficial to have **voiced dialogue** end with a **specific timing** relative to in game animations. This can be influenced with the **Shortcut Menu**.
+When the Shortcut Menu is opend the game will be paused instantly, but dialogue keeps playing for a short time. By opening and closing Shortcuts quickly any **dialogue almost doesn't stop** at all while the **game gets frozen** for a **brief moment**. To allin the end of a dialogue with an animation this is repeated as manny times as required to get the right timing, this is called **Shortcut buffering**.
+
+Most famosly this is used at the end of Prologue to make the dialogue there end just before one of Engel's attacks, to trigger the next cutscene instantly.
 ### E-Drugs & Voice Changer
 ### Picture Books
 
