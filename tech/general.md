@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-08-20T13:57:46.738Z
+date: 2024-08-20T13:58:25.883Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -54,7 +54,8 @@ A full SD is most commonly used just before a cutscene, since that gets around t
 The only way to skip the cutscene in that case is with holding B / Circle.
 
 # Dialogue
-Most Categories have a large amount of timesave that is all about avoiding, canceling or getting around dialogue that would slow down progression, or at least get through it quickly. Therefor there is a lot of ways of dealing with different kinds of dialogue.
+Most Categories have a large amount of timesave that is all about avoiding, canceling or getting around dialogue that would slow down progression, or at least get through it quickly.
+Therefor there is a lot of ways of dealing with different kinds of dialogue.
 ### Mashing
 Mashing buttons fast to get through text boxes is pretty obvious, but there are some specifics about text in Automata.
 **Text boxes** have **two stages** for each line:
