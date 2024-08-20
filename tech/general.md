@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-08-20T13:15:31.099Z
+date: 2024-08-20T13:57:46.738Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -36,7 +36,7 @@ Due to it's properties however it is a very versitile ability that enables a wid
 SD becomes available **immediatly after completing the Prologue** of the game. (actually even before the start-up menu sequence)
 Since Self Destruct is used so much and being able to press it for very short durations at a time is very important, it is **highly recommended to rebind** it to a button that is comfortable to press.
 Most Runners will have it bound to either **Bumper** (more commonly L1 / LB) or the **D-Pad**.
-### Aplications
+### Applications
 - When tapped SD will cancel any action the chracter is currently in and return them to an idle state. 
 	It can therefor also be used to asure an idle player state or comming to a dead stop at any time.
 - Letting go of SD when tapping or previously holding it will instantly kill all momentum the character has except for falling momentum.
@@ -54,7 +54,18 @@ A full SD is most commonly used just before a cutscene, since that gets around t
 The only way to skip the cutscene in that case is with holding B / Circle.
 
 # Dialogue
+Most Categories have a large amount of timesave that is all about avoiding, canceling or getting around dialogue that would slow down progression, or at least get through it quickly. Therefor there is a lot of ways of dealing with different kinds of dialogue.
 ### Mashing
+Mashing buttons fast to get through text boxes is pretty obvious, but there are some specifics about text in Automata.
+**Text boxes** have **two stages** for each line:
+1. the **Printing Stage** (the line is being printed to the text box one character at a time)
+2. the **Completed Stage** (the full line is finished printing)
+
+For this reason each line requires two inputs to be skiped: the first to skip the Printing Stage and complete the line and the second to skip said line. However there is a short **delay after a button is pressed** until that same button is accepted to advance dialogue again. To get around this pressing a different dialogue advancing button will work and get rid of the delay for the first input. Another property of most text boxes (except for novels) is that they only accept **one input at a time**.
+
+This makes mashing **A and B** or **X and Circle** in an **alternating** pattern that fastest way of getting through text.
+
+Finally the **declining option** for all choice dialogue gets **automatically selected** by pressing B or Circle, while the confirming option has not such shortcut. Because of that each time an option needs to be declined a normal mashing pattern will do so automatically.
 ### (Partner) Dialogue Cancels
 ### Pod Pats & God Pat
 ### Dialogue Shortcut buffering
