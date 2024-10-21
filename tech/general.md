@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-08-20T16:32:16.478Z
+date: 2024-10-21T10:43:10.726Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -94,7 +94,9 @@ There are two ways to speed up voiced dialogue significantly: E-Drugs and Voice 
 Use E-Drugs until you hear a high pitched use sound and the screen turns either retro green or get transparent graphical glitches at the sides.
 - **Voice Chanager:** will be unlocked after completing ending A. The different settings change how the player charactzer speaks. Set this to one bar off of maximum for the fastest voice lines after completing A ending.
 # Animation cancels
-### Slow Walk
+There are a few specific options for canceling animations in cases where SD is not fit for the situation.
+### Slow Walks
+A slow walk animation normally plays whenever the player enters a cutscene trigger, this takes a few seconds until the cutscene will play. This can be skipped by not being in a neutral attack state or airborne 
 ### Button Press
 # Warping
 ### Save scums
