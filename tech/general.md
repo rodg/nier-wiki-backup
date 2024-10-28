@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-10-21T10:43:10.726Z
+date: 2024-10-28T09:40:29.576Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -96,8 +96,9 @@ Use E-Drugs until you hear a high pitched use sound and the screen turns either 
 # Animation cancels
 There are a few specific options for canceling animations in cases where SD is not fit for the situation.
 ### Slow Walks
-A slow walk animation normally plays whenever the player enters a cutscene trigger, this takes a few seconds until the cutscene will play. This can be skipped by not being in a neutral attack state or airborne 
+A slow walk animation normally plays whenever the player enters a cutscene trigger, this takes a few seconds until the cutscene will play. If the the player is either in an attck annimation or airborne this animation will be skipped.
 ### Button Press
+To skip button presses animation and activate it inastantly interact with the prompt either during an aerial attack or while dropping out of an aerial dash.
 # Warping
 ### Save scums
 ### Death warps
