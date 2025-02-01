@@ -2,7 +2,7 @@
 title: Glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2025-02-01T16:37:19.970Z
+date: 2025-02-01T16:38:19.599Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
