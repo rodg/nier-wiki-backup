@@ -2,7 +2,7 @@
 title: Skip List - [A]ny%
 description: 
 published: true
-date: 2024-08-19T14:46:36.755Z
+date: 2025-02-01T16:02:41.609Z
 tags: skip
 editor: markdown
 dateCreated: 2024-01-24T00:20:03.711Z
@@ -64,7 +64,7 @@ dateCreated: 2024-01-24T00:20:03.711Z
 - Shabu Skip
 - [Trash Trick](/skips/trash_trick)
 ### Boss Rush
-- Rescue Lane (TAS only ... probably)
+- Rescue Lane
 - Knockdown Skip
 - Core-2 Pascal Dialogue Skip
 - Eve Phase 1 & 2 Dialogue Cancels
