@@ -2,7 +2,7 @@
 title: Glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2025-02-01T16:30:22.805Z
+date: 2025-02-01T16:34:14.524Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -90,6 +90,9 @@ dateCreated: 2023-08-14T00:15:50.224Z
 > is this category necessary?
 # Misc
 
+Icarus' Reduced Version:
+(in brackets are variations or notation versions)
+
 DG
 DDG
 SDDG
@@ -115,6 +118,7 @@ PSD
 JS
 Infinifall Box
 InfiniLight
+Shmup
 
 ADL -> WSCR 1-1 -> Lift -> Jump -> ADLS
 
