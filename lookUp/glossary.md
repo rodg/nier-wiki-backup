@@ -2,7 +2,7 @@
 title: Glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2024-08-19T16:00:57.204Z
+date: 2025-02-01T16:30:22.805Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -90,6 +90,33 @@ dateCreated: 2023-08-14T00:15:50.224Z
 > is this category necessary?
 # Misc
 
+DG
+DDG
+SDDG
+ADL (ADLS)
+WSCR (n1-n2)
+WS
+WS 1/2
+BF
+Marky Launch (M-Launch)
+Pod Launch (Launch)
+Pod Spin (Spin)
+Light (R-Light)
+Heavy
+Lift (I-Lift)
+Plunge (I-Plunge)
+Plunge Glitch (PG)
+Roll
+BF Kick
+Dash Swing
+Dash Punch
+Spear Dash
+PSD
+JS
+Infinifall Box
+InfiniLight
+
+ADL -> WSCR 1-1 -> Lift -> Jump -> ADLS
 
 # Skips/Tricks/Movements List
 ideally in order of appearance
