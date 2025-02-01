@@ -2,7 +2,7 @@
 title: Glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2025-02-01T16:34:14.524Z
+date: 2025-02-01T16:34:53.980Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -97,6 +97,7 @@ DG
 DDG
 SDDG
 ADL (ADLS)
+ADLG
 WSCR (n1-n2)
 WS
 WS 1/2
