@@ -2,7 +2,7 @@
 title: Glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2025-02-01T16:34:53.980Z
+date: 2025-02-01T16:37:19.970Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -120,6 +120,7 @@ JS
 Infinifall Box
 InfiniLight
 Shmup
+Glide (Buffer)
 
 ADL -> WSCR 1-1 -> Lift -> Jump -> ADLS
 
