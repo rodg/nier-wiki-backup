@@ -2,7 +2,7 @@
 title: Glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2025-02-03T12:49:14.873Z
+date: 2025-02-03T14:16:05.733Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -122,8 +122,76 @@ InfiniLight
 Shmup
 Glide (Buffer /  GB)
 
-G-ADL -> WSCR 1-1 -> Lift -> Jump -> ADL-S
+### Trick Notation Proposal:
+(I put a ton of stuff here idk if we need all that, but we could describe movement and combat strats with it)
 
+Examples:
+
+G-ADL, WSCR1-1, Lift, Jump, ADL-S
+<br>
+GB, Spin, Heavy, Lift, Heavy, Jump, Heavy, Plunge, WS, Dash, 2xJump, Plunge
+<br>
+WS-G-ADL, WS, I-Plunge
+<br>
+GB, Dash-R, H-Light, 4xLight, V-Spin, WS, Heavy, WS, Lift-G, 4xLight, V-Spin, WS, Heavy, WS, Jump, 4xR-Light, V-Spin, M-Launch, WS, PG, Glide, V-Spin
+<br>
+
+- **Light** = Light Attack
+- **H-Light** = Held Light / Light Hold
+- **R-Light** = Restricted Light / Light that needs Rising Frames
+- **I-Light n** = Infini Light for n Shortcut resets aka InfiniSlash / InfiniStab eg. "I-Light 3"
+- **Heavy** = Heavy Attack
+- **H-Heavy** = Held Heavy / Heavy Hold
+- **SD** = Self Destruct (tap of button is implied)
+- **H-SD** = Held SD (as long as possible without completing SD)
+- **F-SD** = Full SD
+- **Dash** = Evade input
+- **Dash-R** = Dash release for next action, therefor next action has running momentum
+- **DG** = Damage Glitch (instant DG is prefered / implied)
+- **DG-D** = DG with delay
+- **DDG** = Double DG
+- **SDDG** = Slow-mo DDG
+- **Taunt** = Mash falshlight at people
+- **Jump** = Jump
+- **Jump-G** = Jump and hold into a glide
+- **Lift** = Lift / Uppercut attack from a heavy after first Jump (delay is implied)
+- **I-Lift** = Instant Lift / as little delay as possible
+- **Lift-G** = Lift and hold Jump into a Glide
+- **Glide** = Hold Jump to hang on to Pod
+- **GB** = Glide Buffer (hold jump and dash cancel to stay on the ground, continue to hold)
+- **SM** = Slow-mo (start holding / refresh depending on prior actions)
+- **ADL** = Aerial Dash Light
+- **ADL-S** = ADL into Spear Dash
+- **G-ADL** = ADL from a grounded Dash
+- **WS-ADL** = ADL with WS during the Dash before the Light
+- **ADLG** = ADL Grinding
+- **WS** = Weapon Switch
+- **WS1/2** = Weapon Set 1/2
+- **PS** = Pod Switch (also "PS-C" = Switch to Pod C if relevant)
+- **WSCRn1-n2** = Weapon Switch Combo Reset n1 attacks into n2 attacks eg. "WSCR2-1" = 2x Light WS 1x Light
+- **BF** = prefix Bare Fist (No Weapon equiped in slot for next action) 
+- **BF Kick** = BF running heavy
+- **PF** = Pod Fire
+- **PP** = Pod Program
+- **Launch** = Pod Launch
+- **M-Launch** = Marky Pod Launch
+- **Spin** = Pod Spin
+- **V-Spin** = Vectored Pod Spin
+- **Plunge** = Aerial Dashing Heavy (Delay is implied)
+- **I-Plunge** = instant Plunge 
+- **G-Plunge** = Plunge from a grounded Dash
+- **PG** = Plunge Glitch
+- **G-PG** = Plunge Glitch from a grounded Dash
+- **Roll** = Combat Roll
+- **LN** = Lock-on
+- **LF** = Lock-off
+- **Buff-M** = Buff Melee Atk
+- **Buff-R** = Buff Ranged Atk
+- **Buff-O** = Buff both Offensive
+- **Buff-D** = Buff until Melee Def (first 3)
+- **Buff-F** = Buff full (all 4)
+
+ 
 # Skips/Tricks/Movements List
 ideally in order of appearance
 > at least the skips are now [here](/skipLists/skip-list-any)
