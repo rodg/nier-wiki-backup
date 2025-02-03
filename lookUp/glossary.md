@@ -2,7 +2,7 @@
 title: Glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2025-02-03T12:40:45.814Z
+date: 2025-02-03T12:46:24.665Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -96,7 +96,7 @@ Icarus' Reduced Version:
 DG
 DDG
 SDDG
-ADL (ADLS)
+ADL (ADL-S / G-ADL)
 ADLG
 WSCR (n1-n2)
 WS
@@ -108,8 +108,8 @@ Pod Spin (Spin)
 Light (R-Light)
 Heavy
 Lift (I-Lift)
-Plunge (I-Plunge)
-Plunge Glitch (PG)
+Plunge (I-Plunge / G-Plunge)
+Plunge Glitch (PG / G-PG)
 Roll
 BF Kick
 Dash Swing
@@ -122,7 +122,7 @@ InfiniLight
 Shmup
 Glide (Buffer)
 
-GADL -> WSCR 1-1 -> Lift -> Jump -> ADLS
+G-ADL -> WSCR 1-1 -> Lift -> Jump -> ADL-S
 
 # Skips/Tricks/Movements List
 ideally in order of appearance
