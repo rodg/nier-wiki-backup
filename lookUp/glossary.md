@@ -2,7 +2,7 @@
 title: Glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2025-02-01T16:38:19.599Z
+date: 2025-02-03T12:40:45.814Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -122,7 +122,7 @@ InfiniLight
 Shmup
 Glide (Buffer)
 
-ADL -> WSCR 1-1 -> Lift -> Jump -> ADLS
+GADL -> WSCR 1-1 -> Lift -> Jump -> ADLS
 
 # Skips/Tricks/Movements List
 ideally in order of appearance
