@@ -2,7 +2,7 @@
 title: Glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2025-02-03T12:48:08.806Z
+date: 2025-02-03T12:49:14.873Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -115,8 +115,8 @@ BF Kick
 Dash Swing
 Dash Punch
 Spear Dash
-PSD
-JS
+PSD Clip
+JS Clip
 Infinifall Box
 InfiniLight
 Shmup
