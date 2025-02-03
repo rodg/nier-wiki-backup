@@ -2,7 +2,7 @@
 title: Glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2025-02-03T12:46:24.665Z
+date: 2025-02-03T12:47:32.596Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -121,6 +121,7 @@ Infinifall Box
 InfiniLight
 Shmup
 Glide (Buffer)
+GB
 
 G-ADL -> WSCR 1-1 -> Lift -> Jump -> ADL-S
 
