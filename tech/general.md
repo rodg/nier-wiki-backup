@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2024-10-28T09:40:29.576Z
+date: 2025-02-04T14:08:03.370Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -94,14 +94,20 @@ There are two ways to speed up voiced dialogue significantly: E-Drugs and Voice 
 Use E-Drugs until you hear a high pitched use sound and the screen turns either retro green or get transparent graphical glitches at the sides.
 - **Voice Chanager:** will be unlocked after completing ending A. The different settings change how the player charactzer speaks. Set this to one bar off of maximum for the fastest voice lines after completing A ending.
 # Animation cancels
-There are a few specific options for canceling animations in cases where SD is not fit for the situation.
+There are a few specific options for canceling animations in cases where SD will not work.
 ### Slow Walks
 A slow walk animation normally plays whenever the player enters a cutscene trigger, this takes a few seconds until the cutscene will play. If the the player is either in an attck annimation or airborne this animation will be skipped.
 ### Button Press
 To skip button presses animation and activate it inastantly interact with the prompt either during an aerial attack or while dropping out of an aerial dash.
 # Warping
+Several different types of warping are used in speedruns. These are mostly used in cases where transporting has not been unlocked yet, prior to negotiations or to otherwise advantageously dislocate the player character.
 ### Save scums
+**Save scums** are used to quickly travel to an **activated transporter** of the save area you are currently in.
+To perform a save warp simply **quick save** and **load** the save file afterwards. A save scum takes around 12 sec to perform (loadless) and saves time if the movement time saved exceeds that.
 ### Death warps
+With **Death Warps** you can quickly travel **back to the transporter** last saved at or the **last checkpoint**.
+Is commonly used in situations that need backtracking or to leave remote areas of the map, as well as some specific exploits.
+A Death Warp is simply a **death on purpose** to respawn at a prior location. Note that you keep all progress except **exp** since last save and **equipped non system plugin chips** when death warping.
 ### Drown warps
 
 # Misc 
