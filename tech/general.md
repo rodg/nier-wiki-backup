@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2025-02-04T14:40:34.735Z
+date: 2025-02-04T14:54:31.236Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -118,6 +118,11 @@ Drown warps are used to teleport to new areas just by reaching the drown trigger
 # Misc 
 A variety of different tech that doesn't fit other categries fully.
 ### Picture Books
+Picture Books basically act as pocket cutscenes and are as such very usefull in multible situations. They have all of the properties of regular cutscenes with the flexibility to access almost anywhere. Picture Books are used for two purposes in speedruns:
+- **Canceling Dialogue:** As introduced in the Dialogue section, cutscenes and therefor Picture Books cancel all sorts of dialogue going on. Simply select a Picture Book from the menu to cancel the current chunk of ongoing dialogue.
+- **Duplicaing Drops:** Another property of cutscenes is item duplication. Whenever a cutscene plays all drops from defeated enemies and animals are automatically looted and also duplicated due to a bug. With Picture Books this can be taken advantage of by watching one in order to loot the items instead of picking them up. 
+
+The Picture Book cutscene can always be skipped instantly.
 ### Mid-air System Menu
 Usually the game just gets paused when trying to access the system menu in mid air or an attack animation. However there are two specific ways to open the system menu mid air:
 - **SD method:** Fully self destruct, after you regain some control in a stumble animation the menu can be opened even in mid air. This is sometimes useful to load a save when getting stuck due to the game falsely interpreting a location as solid ground after a void out even though it will not refresh your movement and cause you to fall again.
