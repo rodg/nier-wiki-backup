@@ -2,13 +2,13 @@
 title: General Tech
 description: 
 published: true
-date: 2025-02-04T14:54:31.236Z
+date: 2025-02-04T14:55:52.344Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
 ---
 
->This page is unfinished{.is-warning}
+>First draft of the Page, content complete but needs some rewriting.{.is-info}
 
 Automata has a lot of idiosyncrasies in it's mechanics and how they interact. Because of that there are a lot of things we can exploit and use to our advantage in a speedrun. To better understand the underlying mechanisms also refer to [Game Behaviour](/lookUp/behaviour). This page is about all the tech that is neither clearly [Combat](/tech/combat) or [Movement](/tech/movement) tech in itself, but can require or augment them.
 # Slow-mo
