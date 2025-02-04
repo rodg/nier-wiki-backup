@@ -2,7 +2,7 @@
 title: General Tech
 description: 
 published: true
-date: 2025-02-04T14:08:03.370Z
+date: 2025-02-04T14:40:34.735Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-09T12:40:46.013Z
@@ -108,8 +108,17 @@ To perform a save warp simply **quick save** and **load** the save file afterwar
 With **Death Warps** you can quickly travel **back to the transporter** last saved at or the **last checkpoint**.
 Is commonly used in situations that need backtracking or to leave remote areas of the map, as well as some specific exploits.
 A Death Warp is simply a **death on purpose** to respawn at a prior location. Note that you keep all progress except **exp** since last save and **equipped non system plugin chips** when death warping.
+### Voidouts
+The Void mechanic is a failsave that places the character back on solid ground when falling out of bounds. When voiding out the camera will face the direction the player model last faced before the void, this can be used to pre-setup the camera.
+The time it takes for the character to void out depends on the distance traveled out of bounds as well as a general time frame.
+Voidouts are commonly used to unload areas by falling far enough distance or to return to a starting point after hitting a trigger.
 ### Drown warps
-
+Drown Warps happen when the player touches a drown trigger (usually water plains or around them). Upon drowning the Pod places the player back at a specific location either specified by the drown trigger or a checkpoint. Sometimes a drown can place the character back at the last location with solid ground, they can be distinguished from void outs by the pod animation and the player taking damage.
+Drown warps are used to teleport to new areas just by reaching the drown trigger or to move further along the direction headed in.
 # Misc 
-### Mid-air System Menu
+A variety of different tech that doesn't fit other categries fully.
 ### Picture Books
+### Mid-air System Menu
+Usually the game just gets paused when trying to access the system menu in mid air or an attack animation. However there are two specific ways to open the system menu mid air:
+- **SD method:** Fully self destruct, after you regain some control in a stumble animation the menu can be opened even in mid air. This is sometimes useful to load a save when getting stuck due to the game falsely interpreting a location as solid ground after a void out even though it will not refresh your movement and cause you to fall again.
+- **Plunge Glitch method:** This version does not currently have any practical usecase, but it is possible to open the menu in one of the two frames you can use to input the heavy for a plunge glitch.
