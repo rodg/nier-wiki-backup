@@ -2,7 +2,7 @@
 title: Glossary
 description: tech names, skip names, acronyms, EVERYTHING
 published: true
-date: 2025-02-03T14:16:05.733Z
+date: 2025-02-05T00:57:31.913Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-14T00:15:50.224Z
@@ -89,8 +89,21 @@ dateCreated: 2023-08-14T00:15:50.224Z
 # Pod Tech
 > is this category necessary?
 # Misc
+# Skips/Tricks/Movements List
+ideally in order of appearance
+> at least the skips are now [here](/skipLists/skip-list-any)
 
-Icarus' Reduced Version:
+## Prologue?
+## [A]
+## [E]
+## A-Z
+## 100
+## Reddots
+## Other
+- piss skip
+
+# Icarus' temporary stuff
+
 (in brackets are variations or notation versions)
 
 DG
@@ -192,15 +205,3 @@ GB, Dash-R, H-Light, 4xLight, V-Spin, WS, Heavy, WS, Lift-G, 4xLight, V-Spin, WS
 - **Buff-F** = Buff full (all 4)
 
  
-# Skips/Tricks/Movements List
-ideally in order of appearance
-> at least the skips are now [here](/skipLists/skip-list-any)
-
-## Prologue?
-## [A]
-## [E]
-## A-Z
-## 100
-## Reddots
-## Other
-- piss skip
