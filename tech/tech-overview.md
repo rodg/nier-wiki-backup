@@ -2,7 +2,7 @@
 title: Tech Content
 description: 
 published: true
-date: 2024-08-19T14:49:18.115Z
+date: 2025-05-01T19:06:53.705Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-26T09:39:01.916Z
@@ -69,11 +69,11 @@ dateCreated: 2024-01-26T09:39:01.916Z
 - ADLs and DLG
 ## Combat
 **Basic Components:**
-- DGs, DDG & Pod fire
-- Light attacks, Dash Swings & Combat Rolls
+- DGs, DDG & Pod fire (Bread & Butter)
+- Light attacks, Dash Swings, Plunges & Combat Rolls (Situational Attacks)
 - Taunting & Taunt chips
-- Double Laser
 - Buffs
+- Double Laser
 - Aerial Combat
 - SD
 
